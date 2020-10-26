@@ -6,7 +6,9 @@ date: 2020-10-26
 
 #### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
 
-```The actual understanding was the opposite. Satoshi's words:
+```
+
+The actual understanding was the opposite. Satoshi's words:
 
 "At first, most users would run network nodes, but as the network grows
 beyond a certain point, it would be left more and more to specialists with
@@ -40,5 +42,7 @@ don't really feel like putting effort into a system that is intended to NOT
 be popular. And so would many other people.
 
 
-Don't think you can claim otherwise, because doing so is flat out wrong.```
+Don't think you can claim otherwise, because doing so is flat out wrong.
+
+```
 
