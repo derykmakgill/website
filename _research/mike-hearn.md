@@ -20,8 +20,7 @@ devices".
 >
 >I have been both working on and using Bitcoin for longer than you have been
 around, Gregory. Please don't attempt to bullshit me about what the plan
-was. And stop obscuring what this is about. It's not some personality cult
-- the reason I keep beating you over the head with Satoshi's words is
+was. And stop obscuring what this is about. It's not some personality cult...the reason I keep beating you over the head with Satoshi's words is
 because it's that founding vision of the project that brought everyone
 together, and gave us all a shared goal.
 >
