@@ -1,0 +1,28 @@
+collections:
+  notes:
+    output: false
+    permalink: /notes/:year/:month/:day/:path/
+  replies:
+    output: false
+    permalink: /replies/:year/:month/:day/:path/
+  links:
+    output: false
+    permalink: /links/:year/:month/:day/:path/
+  photos:
+    output: false
+    permalink: /photos/:year/:month/:day/:path/
+  watches:
+    output: false
+    permalink: /watches/:year/:month/:day/:path/
+  chats:
+    output: false
+    permalink: /chats/:year/:month/:day/:path/
+  parodies:
+    output: false
+    permalink: /:year/:month/:day/:path/
+  research:
+    output: true
+    permalink: /:year/:month/:day/:path/
+  pages:
+    output: true
+    permalink: /:path/
