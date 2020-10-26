@@ -34,4 +34,27 @@ be popular. And so would many other people.
 >
 >Don't think you can claim otherwise, because doing so is flat out wrong.
 
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
 
+>Gregory, you are getting really crazy now. Stop it. The trend towards
+mining centralisation is not the fault of Gavin or myself, or anyone else.
+And SPV is exactly what was always intended to be used. It's not something
+I "fixated" on, it's right there in the white paper. Satoshi even
+encouraged me to keep working on bitcoinj before he left!
+>
+>Look, it's clear you have decided that the way Bitcoin was meant to evolve
+isn't to your personal liking. That's fine. Go make an alt coin where your
+founding documents state that it's intended to always run on a 2015
+Raspberry Pi, or whatever it is you mean by "small device". Remove SPV
+capability from the protocol so everyone has to fully validate. Make sure
+that's the understanding that everyone has from day one about what your alt
+coin is for. Then when someone says, gee, it'd be nice if we had some more
+capacity, you or someone else can go point at the announcement emails and
+say "no, GregCoin is meant to always be verifiable on small devices, that's
+our social contract and it's written into the consensus rules for that
+reason".
+>
+>But your attempt to convert Bitcoin into that altcoin by exploiting a
+temporary hack is desperate, and deeply upsetting to many people. Not many
+quit their jobs and created companies to build products only for today's
+tiny user base.
