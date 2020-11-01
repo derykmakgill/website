@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: Mike Hearn (aka You Should Have Listened, Bitcoin!)
 date: 2020-10-26
 ---
