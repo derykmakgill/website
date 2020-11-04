@@ -64,3 +64,40 @@ reason".
 temporary hack is desperate, and deeply upsetting to many people. Not many
 quit their jobs and created companies to build products only for today's
 tiny user base.
+
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009828.html)
+
+>...you can't have a tiny high-value-transactions only currency AND
+all the useful infrastructure that the Bitcoin community is making. It's a
+contradiction. And without the infrastructure bitcoin ceases to be
+interesting even to people who are willing to pay huge sums to use it.
+
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009818.html)
+
+>Quite possibly bigger blocks == more users == more nodes
+and more miners.
+>
+>To repeat: it's not obvious to me at all that everything wrong with Bitcoin
+can be solved by shrinking blocks. I don't think that's going to suddenly
+make everything magically more decentralised.
+>
+>Centralization is not a single floating point value that is controlled by
+block size. It's a multi-faceted and complex problem. You cannot "destroy
+Bitcoin through centralization" by adjusting a single constant in the
+source code.
+>
+>What people like you are Pieter are doing is making a single number a kind
+of proxy for all fears and concerns about the trend towards outsourcing in
+the Bitcoin community. Everything gets compressed down to one number you
+feel you can control, whether it is relevant or not.
+
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009818.html)
+
+>Setting up an exchange is a lot of risky and expensive work. The motivation
+is profit, and profits are higher when there are more users to sell to.
+This is business 101.
+>
+>If you remove the potential for future profit, you remove the motivation to
+create the services that we now enjoy and take for granted. Because if you
+think Bitcoin can be useful without exchanges then let me tell you, I was
+around when there were none. Bitcoin was useless.
