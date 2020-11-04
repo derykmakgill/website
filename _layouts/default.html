@@ -1,7 +1,12 @@
 
 <style>body{/*font-family:sans-serif;-webkit-font-smoothing: antialiased;font-size:15px*//*font-family: sans-serif;
     font-size: 14px;
-    max-width: 600px;*/}.pd{width:4em;flex-shrink:0;padding-bottom:.9em;}.par div{display:flex} /*@media(prefers-color-scheme:dark){body{background-color:#1f1f1f;color:#ddd}a{color:#daa520}a:visited{color:#daa520}*/ .np{display:flex;flex-direction:row;justify-content:space-between;padding-bottom:.5em;font-style:italic}</style><meta name=viewport content="width=device-width">
+    max-width: 600px;*/}.pd{width:4em;flex-shrink:0;padding-bottom:.9em;}.par div{display:flex} h2:before {
+    counter-increment: section;
+    content: counter(section) " ";
+}
+    
+    /*@media(prefers-color-scheme:dark){body{background-color:#1f1f1f;color:#ddd}a{color:#daa520}a:visited{color:#daa520}*/ .np{display:flex;flex-direction:row;justify-content:space-between;padding-bottom:.5em;font-style:italic}</style><meta name=viewport content="width=device-width">
 
 {{content}}
 
