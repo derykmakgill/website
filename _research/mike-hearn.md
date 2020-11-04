@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Mike Hearn (aka You Should Have Listened, Bitcoin!)
+layout: post
+title: Mike Hearn 
 date: 2020-10-26
 ---
 
