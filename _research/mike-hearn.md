@@ -65,6 +65,72 @@ temporary hack is desperate, and deeply upsetting to many people. Not many
 quit their jobs and created companies to build products only for today's
 tiny user base.
 
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009711.html)
+
+>The highest Bitcoin tx fees can possibly go is perhaps a
+little higher than what our competition charges. Too much higher than that,
+and people will just say, you know what .... I'll make a bank transfer.
+It's cheaper and not much slower, sometimes no slower at all.
+>
+>And now consider that in many parts of the world bank transfers are free.
+>
+>They aren't actually free, of course, but they *appear* to be free because
+the infrastructure for doing them is cross subsidised by the fees on other
+products and services, or hidden in the prices of goods sold.
+>
+>So that's a market reality Bitcoin has to handle. It's already more
+expensive than the competition sometimes, but luckily not much more, and
+anyway Bitcoin has some features those other systems lack (and vice versa).
+So it can still be competitive.
+>
+>But your extremely vague notion of a "fee market" neglects to consider that
+it already exists, and it's not a market of "Bitcoin users buying space in
+Bitcoin blocks". It's "users paying to move money".
+
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009711.html)
+
+>Fees were added as a way to get money to miners in a fair and decentralised
+way.
+>
+>Attaching fees directly to all transactions is certainly one way to use
+that, but it's not the only way. As noted above, our competitors prefer a
+combination of price-hiding and cross subsidisation. Both of these can be
+implemented with tx fees, but not necessarily by trying to artificially
+limit supply, which is economically nonsensical.
+
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009709.html)
+
+>Satoshi did not ever
+postulate economic constraints on growth. Back then the talk was (quite
+sensibly) how to grow faster, not how to slow things down!
+
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009709.html)
+
+>The one megabyte limit was nothing to do with anti spam. It was a quick
+kludge to try and avoid the user experience degrading significantly in the
+event of a "DoS block", back when everyone used Bitcoin-Qt. The fear was
+that some malicious miner would generate massive blocks and make the wallet
+too painful to use, before there were any alternatives.
+>
+>The plan was to remove it once SPV wallets were widespread. But Satoshi
+left before that happened.
+
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009709.html)
+
+>As is so often the case with Bitcoin Core these days, someone who came
+along much later has retroactively decided that the work done so far fails
+to meet some arbitrary and undefined level of perfection. 
+
+#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009709.html)
+
+>Outside of serving lightweight P2P wallets there's no purpose in running a
+P2P node if you aren't mining, or using it as a trusted node for your own
+operations.
+>
+>And if one day there aren't enough network nodes being run by volunteers to
+service all the lightweight wallets, then we can easily create an incentive
+scheme to fix that.
+
 #### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009828.html)
 
 >...you can't have a tiny high-value-transactions only currency AND
@@ -174,3 +240,5 @@ BitPay.
    payment network OR a high-value settlement network. And then the world is
    really screwed, because nobody will get a second chance for a very long
    time.   
+
+
