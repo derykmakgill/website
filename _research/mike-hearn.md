@@ -18,7 +18,7 @@ understanding.
 beyond a certain point, it would be left more and more to specialists with
 server farms of specialized hardware."
 >
->That is from [2008:](http://satoshi.nakamotoinstitute.org/emails/cryptography/2/#selection-75.16-83.14)
+>That is from [2008.](http://satoshi.nakamotoinstitute.org/emails/cryptography/2/#selection-75.16-83.14)
 >
 >Then he went on to talk about Moore's law and streaming HD videos and the
 like. At no point did he ever talk about limiting the system for "small
