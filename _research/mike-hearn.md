@@ -6,6 +6,12 @@ date: 2020-10-26
 
 #### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
 
+> "It was _well_ .... understood that the users of Bitcoin would wish to protect its decenteralization by limiting the size of the chain to keep it verifyable on small devices."
+>
+>No it wasn't. That is something you invented yourself much later. "Small
+devices" isn't even defined anywhere, so there can't have been any such
+understanding.
+>
 >The actual understanding was the opposite. Satoshi's words:
 >
 >"At first, most users would run network nodes, but as the network grows
