@@ -4,7 +4,7 @@ title: Mike Hearn
 date: 2020-10-26
 ---
 
-#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
+## [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
 
 > "It was _well_ .... understood that the users of Bitcoin would wish to protect its decenteralization by limiting the size of the chain to keep it verifyable on small devices."
 >
@@ -40,7 +40,7 @@ be popular. And so would many other people.
 >
 >Don't think you can claim otherwise, because doing so is flat out wrong.
 
-#### [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
+## [[bitcoin-dev] Why Satoshi's temporary anti-spam measure isn't temporary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009726.html)
 
 >Gregory, you are getting really crazy now. Stop it. The trend towards
 mining centralisation is not the fault of Gavin or myself, or anyone else.
