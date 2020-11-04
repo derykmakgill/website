@@ -101,3 +101,76 @@ This is business 101.
 create the services that we now enjoy and take for granted. Because if you
 think Bitcoin can be useful without exchanges then let me tell you, I was
 around when there were none. Bitcoin was useless.
+
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html)
+
+>I see constant assertions that node count, mining centralisation,
+developers not using Bitcoin Core in their own businesses etc is all to do
+with block sizes. But nobody has shown that. Nobody has even laid the
+groundwork for that. Verifying blocks takes milliseconds and downloading
+them takes seconds everywhere except, apparently, China: this resource
+usage is trivial.
+>
+>Yet developers, miners and users even outside of China routinely delegate
+validation to others. Often for quite understandable technical reasons that
+have nothing to do with block sizes.
+>
+>So I see no reason why arbitrarily capping the block size will move the
+needle on these metrics. Trying to arrest the growth of Bitcoin for
+everyone won't suddenly make Bitcoin-Qt a competitive wallet, or make
+service devs migrate away from chain.com, or make merchants stop using
+BitPay.
+
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html)
+
+>A decentralised currency that the vast majority can't use doesn't
+   change the amount of centralisation in the world. Most people will still
+   end up using banks, with all the normal problems. You cannot solve a
+   problem by creating a theoretically pure solution that's out of reach of
+   ordinary people: just ask academic cryptographers!
+   
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html)   
+   
+   >Growth is a part of the social contract. It always has been.
+>
+   >The best quote Gregory can find to suggest Satoshi wanted small blocks
+   is a one sentence hypothetical example about what *might* happen if
+   Bitcoin users became "tyrannical" as a result of non-financial transactions
+   being stuffed in the block chain. That position makes sense because his
+   scaling arguments assuming payment-network-sized traffic and throwing DNS
+   systems or whatever into the mix could invalidate those arguments, in the
+   absence of merged mining. But Satoshi did invent merged mining, and so
+   there's no need for Bitcoin users to get "tyrannical": his original
+   arguments still hold.
+   
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html)   
+
+>All the plans for some kind of ultra-throttled Bitcoin network used
+   for infrequent transactions neglect to ask where the infrastructure for
+   that will come from. The network of exchanges, payment processors and
+   startups that are paying people to build infrastructure are all based on
+   the assumption that the market will grow significantly. It's a gamble at
+   best because Bitcoin's success is not guaranteed, but if the block chain
+   cannot grow it's a gamble that is guaranteed to be lost.
+>
+  > So why should anyone go through the massive hassle of setting up
+   exchanges, without the lure of large future profits?   
+   
+   
+#### [[bitcoin-dev] Block size following technological growth](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html)     
+   
+>Bitcoin needs users, lots of them, for its political survival. There
+   are many people out there who would like to see digital cash disappear, or
+   be regulated out of existence. They will argue for that in front of
+   governments and courts .... some already are. And if they're going to lose
+   those arguments, the political and economic damage of getting rid of
+   Bitcoin must be large enough to make people think twice. That means it
+   needs supporters, it needs innovative services, it needs companies, and it
+   needs legal users making legal payments: as many of them as possible.
+>
+>   If Bitcoin is a tiny, obscure currency used by drug dealers and a
+   handful of crypto-at-any-cost geeks, the cost of simply banning it outright
+   will seem trivial and the hammer will drop. There won't be a large scale
+   payment network OR a high-value settlement network. And then the world is
+   really screwed, because nobody will get a second chance for a very long
+   time.   
