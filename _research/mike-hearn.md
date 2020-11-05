@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Mike Hearn 
 date: 2020-10-26
 ---
