@@ -3,12 +3,11 @@ layout: page
 title: Pitcairn's Planet
 ---
 
-He sat at a small metal desk, a deep warm light from his laptop illuminating his face 
+He sat at a small metal desk, a deep warm light from his laptop illuminating his grave face 
 in the otherwise totally dark room. If there had been anyone else on the bridge
 of the Amber VI, they might have had the impression of a medieval monk illuminating the Holy Bible by a faint candlelight, not of a commander of a colony star ship typing a last message to Earth, but Marten Waite was the only living thing left on the Amber VI.
 
-
-
+There had been thousands of lives that had departed with him from Earth nearly 100 years ago, among those his children, his wife, even his dog, who had all come with him on the chance that they could be among the first humans to colonise the stars. None of them were here now, and although he would be joining them soon, his only thought was for the most important task at hand. Marten began to type:
 
 ```
 To: People's Government of the Earth
