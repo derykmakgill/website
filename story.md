@@ -7,7 +7,7 @@ He sat at a small metal desk, a deep warm light from his laptop illuminating his
 in the otherwise totally dark room. If there had been anyone else on the bridge
 of the Amber VI, they might have had the impression of a medieval monk illuminating the Holy Bible by a faint candlelight, not of a commander of a colony star ship typing a last message to Earth, but Marten Waite was the only living thing left on the Amber VI.
 
-There had been thousands of lives that had departed with him from Earth nearly 100 years ago, among those his children, his wife, even his dog, who had all come with him on the chance that they could be among the first humans to colonise the stars. None of them were here now, and although he would be joining them soon, his only thought was for the most important task at hand. Marten began to type:
+There had been thousands of lives that had departed with him from Earth nearly 100 years ago, among those his children, his wife, even his dog, who had all come with him on the chance that they could be among the first humans to colonise the stars. None of them were here now, and although he would be joining them soon, his only thought was for that most important task in front of him. Marten began to type:
 
 ```
 To: People's Government of the Earth
@@ -15,7 +15,7 @@ From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
-I'm reporting loss of the entire crew and passengers of the Amber VI 
+I'm am reporting loss of the entire crew and passengers of the Amber VI 
 while we approached the 7-2521 system.
 
 I have only been saved by the life-preserving systems we put in place 
@@ -23,6 +23,10 @@ to ensure I might send a message to Earth after catastrophic failure.
 
 But I will be dead soon too.
 ```
+
+He paused for a moment, but not for want of words. He knew what he had to write
+
+
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
 has between 500,000 and 1 million installs, whilst Coinbase has not yet
