@@ -50,4 +50,8 @@ sequence aboard the Amber VI. There will be no sign we were ever here.
 Goodbye.
 ```
 
+Marten pressed "send" and closed his laptop. The room was momentarily pitch black. Not the manifesto I'd always hoped to write, he thought, but 
+it would be effective. The People's Government of the Earth would memoralise him and his lost crew, and they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
+
+"Open the shields, I'd like to see," he spoke to the ship's last active on-board semi AI as he stood up and walked to across the dark room. "And play..." Light slowly flooded the bridge of Amber VI as the shields retracted all around him. Through the window, Marten saw
 
