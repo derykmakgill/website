@@ -19,7 +19,7 @@ designed to do.
 
 ```
 To: People's Government of the Earth
-From: Marten Waite, Space Propulsion Design Specialist
+From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: Urgent message for Earth
 
