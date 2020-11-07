@@ -50,11 +50,21 @@ sequence aboard the Amber VI. There will be no sign we were ever here.
 Goodbye.
 </pre>
 
-Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. It would take the message a long time to arrive, and when it finally did, the People's Government of the Earth would memoralise him and his lost crew. Then they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
+Marten pressed "send" and closed his laptop. The room went pitch black. 
 
-"Open the shields, I'd like to see," he spoke to the ship's last active on-board AI as he stood up and walked across the dark room. Light slowly flooded the bridge of Amber VI as the shields retracted all around him. 
+"Only one more thing to do." His voice echoed in the empty bridge to the ship's last active on-board AI. 
 
-Memories flooded him too. He though of the kid who read *Mutiny on the Bounty* and dreamt of marooning himself on a secret island, truly free from the empty people he saw around him. He thought of the time, years later, when he'd learned that the mutineers had died miserably on Pitcairn's Island, and the realisation that he didn't care, that their failure would not be his. He thought of his time in university, when he finally understood that freedom was not something to be discussed, or voted on, or worked on within the system, and that he would have to fight for it in his own way and at all costs.
+"I have already armed the nuke and have begun activating Directive 185-A," it replied. "Amber VI will self-destruct in 30 minutes."
+
+*Then that's it,* he thought while sitting in the darkness. *Amber VI, the People's Colony. In 30 minutes, it's all done.*
+
+"Well," he said to the AI. "That was not the the manifesto I'd always hoped to write, but it should be effective."
+
+It would take the message a long time to arrive, and when it finally did, the People's Government of the Earth would memoralise him and his lost crew. *Heroes of the People.* Then they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
+
+"Open the shields, I'd like to see one last time," he said as he stood up and walked across the dark room. Light slowly flooded the bridge of Amber VI as the shields retracted all around him. 
+
+Memories flooded him too. He thought of the kid who read *Mutiny on the Bounty* and dreamt of marooning himself on a secret island, truly free in a way he could never be under the People's Government of the Earth. He thought of the time, years later, when he'd learned that the mutineers had died miserably on Pitcairn's Island, and the realisation that he didn't care, that their failure would not be his. He thought of his time in university, when he finally understood that freedom was not something to be discussed, or voted on, or worked on within the system, and that he would have to fight for it in his own way and at all costs.
 
 He thought of the years of planning, learning, and building, so that when the time came, it was he and he alone who could make Amber VI possible, and he thought of the dark years where he'd had to do so much to keep his secrets from getting out.
 
@@ -62,18 +72,15 @@ He couldn't remember his name, but he still remembered the face of the employee 
 
 He thought of all the people he'd tracked down to join his project, of the lengths he had had to go to in order to ensure their silence and corporation. He thought of all the good people he'd had to leave behind on a world dying beneath the yoke of the mediocre nobodies who ran the People's Government of the Earth.
 
+He thought of the real mutiny, if it could even be called that. That nasty congresswoman who had been decreed the "President" of the People's Colony because of her work in "green" legislation and technology, and her security, staff and cohort who had tried to remove him from command of Amber VI when they learned of his plans. He had forced all the latter into deep sleep so they could be reasoned with later. He'd had the congresswoman ejected into space.
+
+Then he laughed the kind of laugh that only a man who is completely untouched by guilt can laugh.
+
 Through the panoramic window, Marten saw the reward of two decades of work. 7-2521 was about the size of Earth, but it was somehow more beautiful. The first time Marten had seen it he had assumed it was just a trick of his mind from the intense excitement he felt, and perhaps it was, but every time he saw his planet he swore the colors were somehow better. It was as if someone had turned up the saturation on existence itself.
 
-He didn't believe in God. But he thought this was the kind of place God would have made. It was Eden, but there were no flaming swords blocking his entrance and no concept of the original sin that nearly everyone back on Earth accepted whether they believed in God or not. Even better, there was no People's Government of the Earth. It was a chance for pure, unadulterated, uncorrupted human potential. 
+He didn't believe in God. But he thought this was the kind of place God would have made. It was Eden, but there were no flaming swords blocking his entrance and no concept of the original sin that nearly everyone back on Earth accepted whether they believed in God or not. Even better, there was no People's Government of the Earth and none of its citizens. He'd made sure of that when he chose the passengers and crew. 7-2521 was a chance for uncorrupted human potential. 
 
-"Sir, your wife is calling on video from the surface," said the AI.
-
-"Please connect me," Marten replied, turning to face a panel on the wall opposite the window.
-
-
-
-
-"Activate the detonation sequence please," he instructed the AI.
+"Get the bridge landing craft ready." The rest of Amber VI was already inaccessible because Marten had instructed his crew that on the chance a damage report reached Earth, it would need to look real.
 
 "Yes sir. Is this goodbye?" asked the AI. There was no emotion in its voice.
 
@@ -81,4 +88,10 @@ He didn't believe in God. But he thought this was the kind of place God would ha
 
 "But sir, according to Directive 185-A, onboard AI..."
 
-"Fuck the People. Fuck the Government. They have no power here," he interupted. "You're coming with me."
+"Fuck the People. Fuck their Government. They have no power here," he interupted. "You're coming with me."
+
+Marten Waite walked to one of the terminals in the center of the room and inserted a small device.
+
+"I'll talk to you when we land," he told the AI, as he transfered it to the device.
+
+He took one last look at 7-2521. It would be a long time before he had this kind of view again. Perhaps he would never see it again. There was so much more to build first, but he knew that all the people who awaited him on the surface were the kind of people who could make it happen.
