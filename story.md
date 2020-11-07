@@ -23,10 +23,14 @@ From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
-MultiBit has always supported it. I apologise for implying you have not
-built a wallet. I think yours is mSIGNA, right? Did it used to be called
-something else? I recognise the website design but must admit, I have not
-heard of mSIGNA before.
+I must report the loss of the entire crew and passengers of the Amber VI 
+while we neared Planet 7-2521.
+
+I have only been spared their fate by the life-preserving systems and 
+procedures we put in place to ensure a message might be sent back to 
+Earth in the event of catastrophic failure.
+
+I will be dead soon too, and time is running very short.
 ```
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
