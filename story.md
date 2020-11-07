@@ -50,8 +50,24 @@ sequence aboard the Amber VI. There will be no sign we were ever here.
 Goodbye.
 ```
 
-Marten pressed "send" and closed his laptop. The room was momentarily pitch black. Not the manifesto I'd always hoped to write, he thought, but 
-it would be effective. The People's Government of the Earth would memoralise him and his lost crew, and they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
+Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. The People's Government of the Earth would memoralise him and his lost crew, and they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
 
-"Open the shields, I'd like to see," he spoke to the ship's last active on-board semi AI as he stood up and walked to across the dark room. "And play..." Light slowly flooded the bridge of Amber VI as the shields retracted all around him. Through the window, Marten saw
+"Open the shields, I'd like to see," he spoke to the ship's last active on-board semi AI as he stood up and walked across the dark room. Light slowly flooded the bridge of Amber VI as the shields retracted all around him. 
+
+Memories flooded him too. He though of the kid who read *Mutiny on the Bounty* and dreamt of marooning himself on a secret island, truly free from the empty people he saw around him. He thought of the time, years later, when he'd learned that the mutineers had died miserably on Pitcairn's Island, and the realisation that he didn't care, that their failure would not be his. He thought of his time in university, when he finally understood that freedom was not something to be discussed, or voted on, or worked on within the system, and that he would have to fight for it in his own way and at all costs.
+
+He thought of the years of planning, learning, and building, so that when the time came, it was he and he alone who could make Amber VI possible, and he thought of the dark years where he'd had to do so much to keep his secrets from getting out.
+
+He couldn't remember his name, but he still remembered the face of the employee of the People's Government Space Bureau that he had killed in self-defense before he exposed Marten's real goals. He remembered the dozens more government workers, journalists and activists whose reputations and careers he had ruined in various ways for threatening him. 
+
+He thought of all the people he'd tracked down to join his project, of the lengths he had had to go to in order to ensure their silence and corporation. He thought of all the good people he'd had to leave behind on a world dying beneath the yoke of the mediocre nobodies who ran the People's Government of the Earth.
+
+Through the window, Marten saw the reward of two decades of work. 7-2521 was about the size of Earth, but it was somehow more beautiful. The first time Marten had seen it he had assumed it was just a trick of his mind from the intense excitement he felt, and perhaps it was, but every time he saw his planet he swore the colors were somehow better. It was as if someone had turned up the saturation on existence itself.
+
+He didn't believe in God. But he thought this was the kind of place God would have made. It was Eden, but there were no flaming swords blocking his entrance and no concept of the original sin that nearly everyone back on Earth accepted whether they believed in God or not. It was a chance for pure, unadulterated, uncorrupted human potential. 
+
+"Sir, your wife is calling," said the AI.
+
+"Please connect me."
+
 
