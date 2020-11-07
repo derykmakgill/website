@@ -3,19 +3,12 @@ layout: page
 title: Pitcairn's Planet
 ---
 
-The most popular mobile wallet (measured by installs) on Android is SPV. It
-has between 500,000 and 1 million installs, whilst Coinbase has not yet
-crossed the 500,000 mark. One of the most popular wallets on iOS is SPV. If
-we had SPV wallets with better user interfaces on desktops, they'd be more
-popular there too (perhaps MultiBit HD can recapture some lost ground).
+He sat at a small metal desk, a deep warm light from his laptop illuminating his face 
+in the otherwise totally dark room. If there had been anyone else on the bridge
+of the Amber VI, they might have had the impression of a medieval monk illuminating the Holy Bible by a faint candlelight, not of a commander of a colony star ship typing a last message to Earth, but Marten Waite was the only living thing left on the Amber VI.
 
-So I would argue that they are in fact very widespread.
 
-Likewise, they are not "notoriously terrible" at detecting chain forks.
-That's a spurious idea that you and Patrick have been pushing lately, but
-they detect them and follow reorgs across them according to the SPV
-algorithm, which is based on most work done. This is exactly what they are
-designed to do.
+
 
 ```
 To: People's Government of the Earth
