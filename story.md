@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pitcairn's Moon
+title: Pitcairn's Planet
 ---
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
@@ -23,14 +23,14 @@ From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
-I must report the loss of the entire crew and passengers of the Amber VI 
+I'm reporting loss of the entire crew and passengers of the Amber VI 
 while we approached the 7-2521 system.
 
-I have only been saved by the life-preserving systems and 
-procedures we put in place to ensure a message might be sent back to 
-Earth after catastrophic failure.
+I have only been saved by the life-preserving systems we put in place 
+to ensure I might send a message to Earth after catastrophic failure.
 
-But I will be dead soon too, and time is running very short.
+But I will be dead soon too.
+
 ```
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
@@ -46,3 +46,23 @@ That's a spurious idea that you and Patrick have been pushing lately, but
 they detect them and follow reorgs across them according to the SPV
 algorithm, which is based on most work done. This is exactly what they are
 designed to do.
+
+```
+I do not have time to tell the details of the mutiny that took place
+that left hundreds dead and damaged critical onboard infastructure,
+which, despite our best efforts, we were unable to repair.
+
+Return is not possible.
+
+It is essential however that you know that the mutiny began after we discovered 
+that 7-2521 is not in fact hospitable to human life.
+
+We were wrong. We always knew that was a risk, and we all willingly took it. 
+I have no regrets. Our failure will ensure future success elsewhere in the galaxy.
+
+In accordance with Directive 185-A, I have engaged the self-destruct
+sequence about the Amber VI. There will be no sign we were ever here.
+
+Goodbye.
+
+```
