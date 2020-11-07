@@ -9,7 +9,7 @@ of the Amber VI, they might have had the impression of a medieval monk illuminat
 
 There had been thousands of lives that had departed with him from Earth nearly 250 years ago, among those his children, his wife, even his dog, who had all come with him on the chance that they could be among the first humans to colonise the stars. None of them were here now, and although he would be joining them soon, his only thought was for that most important task in front of him. Marten began to type:
 
-```
+<pre style="font-family: courier new, monospace;">
 To: People's Government of the Earth
 From: Marten Waite
 Date: 09/02/2239 (approximate)
@@ -22,7 +22,7 @@ I have only been saved by the life-preserving systems we put in place
 to ensure I might send a message to Earth after catastrophic failure.
 
 But I will be dead soon too.
-```
+</pre>
 
 *The People's Government of the Earth,* Marten thought. Convinced that Earth would be uninhabitable in 1,000 years due to climate change, they had spent trillions of taxpayer dollars and debased their currency like never before to pay for the Amber VI project. It was the darling of the eco-facists, central-planners, academics, and journalists of his time, and the settlers and crew, which Marten had hand-selected, were lauded as heroes.
 
@@ -32,7 +32,7 @@ For his part, Marten had believed almost none of it and couldn't have cared less
 
 It was ironic then to him that now that he was so far away, he still couldn't say what he really wanted to say. If the People's Government of the Earth still existed, all he could do was to let them know that they had failed. There would be no People's Colony on 7-2521. The trillions of dollars they had spent was a waste. Their heroes were gone, and in the end, it had all been Marten's fault.
 
-```
+<pre style="font-family: courier new, monospace;">
 I do not have time to tell the details of the mutiny that took place
 that left hundreds dead and damaged critical onboard infastructure,
 which, despite our best efforts, we were unable to repair, but I want
@@ -48,7 +48,7 @@ In accordance with Directive 185-A, I have engaged the self-destruct
 sequence aboard the Amber VI. There will be no sign we were ever here.
 
 Goodbye.
-```
+</pre>
 
 Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. It would take the message a long time to arrive, and when it finally did, the People's Government of the Earth would memoralise him and his lost crew. Then they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
 
