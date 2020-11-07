@@ -63,5 +63,4 @@ In accordance with Directive 185-A, I have engaged the self-destruct
 sequence about the Amber VI. There will be no sign we were ever here.
 
 Goodbye.
-
 ```
