@@ -38,8 +38,8 @@ that left hundreds dead and damaged critical onboard infastructure,
 which, despite our best efforts, we were unable to repair, but I want
 the record to show that it I alone am to blame.
 
-Return is not possible, and it is essential that you know that the mutiny began after we discovered 
-that 7-2521 is not in fact hospitable to human life.
+Return is not possible, and it is essential that you know that the mutiny began 
+after we discovered that 7-2521 is not in fact hospitable to human life.
 
 We were wrong. I was wrong. We always knew that was a risk, and we all willingly took it. 
 I have no regrets. Our failure will ensure future success elsewhere in the galaxy.
