@@ -96,4 +96,4 @@ Marten Waite walked to one of the terminals in the center of the room and insert
 
 He took one last look at 7-2521. It would be a long time before he had this kind of view again. Perhaps he would never see it again. They were marooned, with no ability to reach space again, and there was so much more to build first anyways. He wasn't afraid though. He knew that all the people who awaited him on the surface were the kind of people who could make it happen. They were the most productive minds of their time, and their families. And for the first time in hundreds of years, they were free.
 
-He walked to the far end of the room where a small door through which the last landing craft waited.
+He walked to the far end of the room where a small door through which the last landing craft waited, and he wondered whether his kids would see the explosion from the beach head while he was on his way down to them.
