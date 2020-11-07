@@ -73,3 +73,8 @@ He didn't believe in God. But he thought this was the kind of place God would ha
 
 
 
+"Activate the detonation sequence please," he instructed the AI.
+
+"Yes sir. Is this goodbye?" asked the AI. There was no emotion in its voice.
+
+"Of course it's not. You're coming with me. I'll need you more than ever now as we build."
