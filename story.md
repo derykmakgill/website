@@ -30,7 +30,6 @@ I have only been saved by the life-preserving systems we put in place
 to ensure I might send a message to Earth after catastrophic failure.
 
 But I will be dead soon too.
-
 ```
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
