@@ -28,7 +28,7 @@ But I will be dead soon too.
 
 Books had been written about their lives. Movies too. Sons and daughers had been named after the crew. Marten had received nearly every honor the People's Government of the Earth could bestow on a citizen for services to The People. He and his crew and fellow colonisers were to be the first among many to start the human race again on a new planet untouched by industry, fossil fuels, plastics, and all the other man-made evils that the People's Government of the Earth had begun regulating out of existence except for their own special projects like Amber VI.
 
-For his part, Marten had believed almost none of it, but he had been happy to engineer and command the Amber VI, and he knew from the experience that it was he alone that saved the project from becoming another go-nowhere boondoggle. As for his real views, he had always kept his mouth shut anyways about the kind of topics that could get you thrown in jail or worse for speaking about during his 39 years on as a citizen of the People's Government of Earth. He had had bigger goals, he told himself during all his years of silence.
+For his part, Marten had believed almost none of it and couldn't have cared less about the fame, but he had been happy to engineer and command the Amber VI, and he knew from the experience that it was he alone that saved the project from becoming another go-nowhere boondoggle. As for his real views, he had always kept his mouth shut anyways about the kind of topics that could get you thrown in jail or worse for speaking about during his 39 years on as a citizen of the People's Government of Earth. He had had bigger goals, he told himself during all his years of silence.
 
 It was ironic then to him that now that he was so far away, he still couldn't say what he really wanted to say. If the People's Government of the Earth still existed, all he could do was to let them know that they had failed. There would be no People's Colony on 7-2521. The trillions of dollars they had spent was a waste. Their heroes were gone, and in the end, it had all been Marten's fault.
 
@@ -66,8 +66,10 @@ Through the panoramic window, Marten saw the reward of two decades of work. 7-25
 
 He didn't believe in God. But he thought this was the kind of place God would have made. It was Eden, but there were no flaming swords blocking his entrance and no concept of the original sin that nearly everyone back on Earth accepted whether they believed in God or not. It was a chance for pure, unadulterated, uncorrupted human potential. 
 
-"Sir, your wife is calling," said the AI.
+"Sir, your wife is calling on video from the surface," said the AI.
 
-"Please connect me."
+"Please connect me," Marten replied, turning to face a panel on the wall opposite the window.
+
+
 
 
