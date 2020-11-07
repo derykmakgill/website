@@ -62,7 +62,7 @@ He couldn't remember his name, but he still remembered the face of the employee 
 
 He thought of all the people he'd tracked down to join his project, of the lengths he had had to go to in order to ensure their silence and corporation. He thought of all the good people he'd had to leave behind on a world dying beneath the yoke of the mediocre nobodies who ran the People's Government of the Earth.
 
-Through the window, Marten saw the reward of two decades of work. 7-2521 was about the size of Earth, but it was somehow more beautiful. The first time Marten had seen it he had assumed it was just a trick of his mind from the intense excitement he felt, and perhaps it was, but every time he saw his planet he swore the colors were somehow better. It was as if someone had turned up the saturation on existence itself.
+Through the panoramic window, Marten saw the reward of two decades of work. 7-2521 was about the size of Earth, but it was somehow more beautiful. The first time Marten had seen it he had assumed it was just a trick of his mind from the intense excitement he felt, and perhaps it was, but every time he saw his planet he swore the colors were somehow better. It was as if someone had turned up the saturation on existence itself.
 
 He didn't believe in God. But he thought this was the kind of place God would have made. It was Eden, but there were no flaming swords blocking his entrance and no concept of the original sin that nearly everyone back on Earth accepted whether they believed in God or not. It was a chance for pure, unadulterated, uncorrupted human potential. 
 
