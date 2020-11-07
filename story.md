@@ -22,7 +22,9 @@ I have only been saved by the life-preserving systems we put in place
 to ensure I might send a message to Earth after catastrophic failure.
 
 But I will be dead soon too.
+{.bibliography}
 ```
+
 
 *The People's Government of the Earth,* Marten thought. Convinced that Earth would be uninhabitable in 1,000 years due to climate change, they had spent trillions of taxpayer dollars and debased their currency like never before to pay for the Amber VI project. It was the darling of the eco-facists, central-planners, academics, and journalists of his time, and the settlers and crew, which Marten had hand-selected, were lauded as heroes.
 
@@ -49,6 +51,7 @@ sequence aboard the Amber VI. There will be no sign we were ever here.
 
 Goodbye.
 ```
+{.bibliography}
 
 Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. It would take the message a long time to arrive, and when it finally did, the People's Government of the Earth would memoralise him and his lost crew. Then they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
 
