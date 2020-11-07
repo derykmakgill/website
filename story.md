@@ -78,3 +78,7 @@ He didn't believe in God. But he thought this was the kind of place God would ha
 "Yes sir. Is this goodbye?" asked the AI. There was no emotion in its voice.
 
 "Of course it's not. You're coming with me. I'll need you more than ever now as we build."
+
+"But sir, according to Directive 185-A, onboard AI..."
+
+"Fuck the People. Fuck the Government. They have no power here," he interupted. "You're coming with me."
