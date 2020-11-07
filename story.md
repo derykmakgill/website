@@ -21,7 +21,7 @@ designed to do.
 To: People's Government of the Earth
 From: Marten Waite
 Date: 09/02/2239 (approximate)
-Subject: Urgent message for Earth
+Subject: We have failed...
 
 MultiBit has always supported it. I apologise for implying you have not
 built a wallet. I think yours is mSIGNA, right? Did it used to be called
