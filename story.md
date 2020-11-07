@@ -15,8 +15,8 @@ From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
-I'm am reporting the loss of the entire crew and passengers of the Amber VI 
-while we approached the 7-2521 system.
+I'm am reporting the loss of the entire crew and passengers of the 
+Amber VI while we approached the 7-2521 system.
 
 I have only been saved by the life-preserving systems we put in place 
 to ensure I might send a message to Earth after catastrophic failure.
