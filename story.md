@@ -24,7 +24,6 @@ to ensure I might send a message to Earth after catastrophic failure.
 But I will be dead soon too.
 ```
 
-He paused for a moment, but not for want of words. He knew what he had to write
 
 
 
