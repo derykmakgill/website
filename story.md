@@ -24,13 +24,13 @@ Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
 I must report the loss of the entire crew and passengers of the Amber VI 
-while we neared Planet 7-2521.
+while we approached the 7-2521 system.
 
-I have only been spared their fate by the life-preserving systems and 
+I have only been saved by the life-preserving systems and 
 procedures we put in place to ensure a message might be sent back to 
-Earth in the event of catastrophic failure.
+Earth after catastrophic failure.
 
-I will be dead soon too, and time is running very short.
+But I will be dead soon too, and time is running very short.
 ```
 
 The most popular mobile wallet (measured by installs) on Android is SPV. It
