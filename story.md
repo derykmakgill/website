@@ -10,12 +10,12 @@ of the Amber VI, they might have had the impression of a medieval monk illuminat
 There had been thousands of lives that had departed with him from Earth nearly 250 years ago, among those his children, his wife, even his dog, who had all come with him on the chance that they could be among the first humans to colonise the stars. None of them were here now, and although he would be joining them soon, his only thought was for that most important task in front of him. Marten began to type:
 
 <pre style="font-family: courier new, monospace;">
-To: People's Government of the Earth
+To: The People's Government of the Earth
 From: Marten Waite
 Date: 09/02/2239 (approximate)
 Subject: We have failed...
 
-I'm am reporting loss of the entire crew and passengers of the Amber VI 
+I'm am reporting the loss of the entire crew and passengers of the Amber VI 
 while we approached the 7-2521 system.
 
 I have only been saved by the life-preserving systems we put in place 
@@ -24,7 +24,7 @@ to ensure I might send a message to Earth after catastrophic failure.
 But I will be dead soon too.
 </pre>
 
-*The People's Government of the Earth,* Marten thought. Convinced that Earth would be uninhabitable in 1,000 years due to climate change, they had spent trillions of taxpayer dollars and debased their currency like never before to pay for the Amber VI project. It was the darling of the eco-facists, central-planners, academics, and journalists of his time, and the settlers and crew, which Marten had hand-selected, were lauded as heroes.
+*The People's Government of the Earth,* Marten thought. Convinced that Earth would be uninhabitable in 1,000 years due to climate change, they had spent trillions of taxpayer dollars and debased their currency like never before to pay for the Amber VI project. It was the darling of the eco-facists, central-planners, academics, and journalists of his time, and the settlers and crew, which Marten had hand-selected, were heroes back on Earth.
 
 Books had been written about their lives. Movies too. Sons and daughers had been named after the crew. Marten had received nearly every honor the People's Government of the Earth could bestow on a citizen for services to The People. He and his crew and fellow colonisers were to be the first among many to start the human race again on a new planet untouched by industry, fossil fuels, plastics, and all the other man-made evils that the People's Government of the Earth had begun regulating out of existence except for their own special projects like Amber VI.
 
