@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pitcairn's Planet
+title: Story
 ---
 
 He sat at a small metal desk, a deep warm light from his laptop illuminating his grave face 
