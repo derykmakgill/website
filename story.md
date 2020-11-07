@@ -50,9 +50,9 @@ sequence aboard the Amber VI. There will be no sign we were ever here.
 Goodbye.
 ```
 
-Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. The People's Government of the Earth would memoralise him and his lost crew, and they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
+Marten pressed "send" and closed his laptop. The room went pitch black. Not the manifesto I'd always hoped to write, he thought while sitting in the darkness, but it would be effective. It would take the message a long time to arrive, and when it finally did, the People's Government of the Earth would memoralise him and his lost crew. Then they'd use his name as fuel for the Amber VII project and a new attempt at a colony off Earth where they could try out whatever utopian ecological experiments the scientists thought up. Most importantly though, they'd stay away from 7-2521 for a long time.
 
-"Open the shields, I'd like to see," he spoke to the ship's last active on-board semi AI as he stood up and walked across the dark room. Light slowly flooded the bridge of Amber VI as the shields retracted all around him. 
+"Open the shields, I'd like to see," he spoke to the ship's last active on-board AI as he stood up and walked across the dark room. Light slowly flooded the bridge of Amber VI as the shields retracted all around him. 
 
 Memories flooded him too. He though of the kid who read *Mutiny on the Bounty* and dreamt of marooning himself on a secret island, truly free from the empty people he saw around him. He thought of the time, years later, when he'd learned that the mutineers had died miserably on Pitcairn's Island, and the realisation that he didn't care, that their failure would not be his. He thought of his time in university, when he finally understood that freedom was not something to be discussed, or voted on, or worked on within the system, and that he would have to fight for it in his own way and at all costs.
 
