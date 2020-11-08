@@ -36,11 +36,11 @@ He poured himself some water from the pitcher and sat down at his computer to se
 he'd needed to send yesterday. He was just about to dash off a quick note to his supplier
 in Vietnam that he needed to double his order the following month when he saw it.
 
-A chat notification. Normally George muted those. He hated any kind of instant messenger and 
-only had one installed so he could communicate with a couple clients overseas. He was
-going to click out when he noticed the chat appeared to be from an application he
+A chat notification. Normally George muted those. He hated any kind of instant messenger and couldn't understand
+how anybody could get any work done with the constant distraction. He only had one installed so he could communicate with a couple clients overseas, and he was
+just moving his mouse to click out when he noticed the chat appeared to be from an application he
 had never used. 
 
-The preview simply said: <code style="font-family: courier new, monospace;"> Tax Refund</code>.
+*That's odd,* he thought. The preview simply said: <code style="font-family: courier new, monospace;"> Tax Refund</code>.
 
 
