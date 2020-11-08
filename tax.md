@@ -79,3 +79,7 @@ George froze. That was his social security number. <code style="font-family: cou
 He decided that his only option was to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, who is paying for it?"
   
 <code style="font-family: courier new, monospace;">lol.</code> M replied. <code style="font-family: courier new, monospace;">You're paying for it. It's a refund, after all.</code>
+
+That really wasn't George's question. He wanted to know where the money, if it even existed, was coming from. Almost like he was reading his mind, M typed again: <code style="font-family: courier new, monospace;">If you mean, "who is going to wake up tomorrow and realise they are missing a lot of money, well, I'm not too worried about that. I've been doing this a long time. Did you know there are over two million employees of our fine republic? If they each gave you fifty cents, would they even notice? A dollar? Would they notice? Would they even notice five dollars?</code>
+
+
