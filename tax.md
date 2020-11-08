@@ -52,7 +52,7 @@ He frowned at the message window, then typed: <code style="font-family: courier 
 
 <code style="font-family: courier new, monospace;">I am the Director of the ERS</code>, he replied.
 
-<code style="font-family: courier new, monospace;">That doesn't exist. Goodbye.</code> George was already bored of this conversation.
+<code style="font-family: courier new, monospace;">That doesn't exist. Goodbye.</code> If he didn't want to give him a real answer, George wasn't going to waste his time even if it was a *very* odd coincidence that someone messaged him about taxes right after his call with the IRS.
 
 <code style="font-family: courier new, monospace;">Sorry. It's a bad joke. The External Refund Service. I've wanted to use it for a long time. I guess you can call me M,</code> M replied, <code style="font-family: courier new, monospace;">but please, George, I don't have much time and it is important we discuss your refund.</code>
 
