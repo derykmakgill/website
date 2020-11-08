@@ -80,7 +80,7 @@ George froze. That was his social security number. <code style="font-family: cou
 
 <code style="font-family: courier new, monospace;">They had no right to do that, George.</code> M replied.
 
-*So he's some kind of hacker activist,* thought George. George didn't like activists. But M seemed different. And someone who hated the IRS as much as he did must be all right in his book. He decided to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, that you have a refund for me, who is paying for it?"
+*So he's some kind of hacker activist,* thought George. George didn't like activists of any stripe. He'd always thought the world would be a better place if they simply got a real job. But M seemed different. And someone who hated the IRS as much as he did must be all right in his book. He decided to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, that you have a refund for me, who is paying for it?"
   
 <code style="font-family: courier new, monospace;">lol.</code> M replied. <code style="font-family: courier new, monospace;">You're paying for it. It's a refund.</code>
 
