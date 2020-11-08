@@ -76,6 +76,10 @@ George froze. That was his social security number. <code style="font-family: cou
 
 *I should report him,* George thought to himself. He knew some guys at the FBI. He could report him to them and... *what?* he thought. *What would they do?* George was beginning to suspect that whoever this M was, he was not going to be easily caught.
 
+<code style="font-family: courier new, monospace;">You had no right to do that</code>, George wrote.
+
+<code style="font-family: courier new, monospace;">They had no right to do that, George.</code> M replied.
+
 He decided that his only option was to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, who is paying for it?"
   
 <code style="font-family: courier new, monospace;">lol.</code> M replied. <code style="font-family: courier new, monospace;">You're paying for it. It's a refund, after all.</code>
