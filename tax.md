@@ -70,6 +70,10 @@ M replied at once. The guy *could type!* <code style="font-family: courier new, 
 
 <code style="font-family: courier new, monospace;">598-391-9444.</code> M replied.
 
-George froze. That was his social security number.
+George froze. That was his social security number. <code style="font-family: courier new, monospace;">How the fuck did you get that?!</code> he typed. This guy...whoever he was, he was dangerous. He had his social security number and God knew what else. What did he really want?
+
+<code style="font-family: courier new, monospace;">Don't worry, I'm not going to hurt you. I'm trying to help.</code> M wrote. <code style="font-family: courier new, monospace;">I've been through all your tax records over the last twenty odd years. They've stolen a lot of money from you. I'm giving it back.</code>
+
+
 
 
