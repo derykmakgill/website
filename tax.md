@@ -45,6 +45,9 @@ had never used.
 
 He clicked open the chat. It wasn't like any chat application he had used in a long time. It was just a black box. And in the top left corner were the same words: <code style="font-family: courier new, monospace;"> Tax Refund</code>. 
 
-George was familiar with phishing scams. He'd made his money on the internet after all. He knew he should close the application and clean his system for whatever malware caused the application to be downloaded.
+George was familiar with phishing scams. He'd made his money on the internet after all. He knew he should close the application and clean his system for whatever malware caused the application to be downloaded. And that is exactly
+what he was about to do when another chat appeared in the box: <code style="font-family: courier new, monospace;">Hello George. I've been looking forward to chatting briefly with you for a long time.</code>. 
+
+
 
 
