@@ -39,6 +39,8 @@ in Vietnam that he needed to double his order the following month when he saw it
 A chat notification. Normally George muted those. He hated any kind of instant messenger and 
 only had one installed so he could communicate with a couple clients overseas. He was
 going to click out when he noticed the chat appeared to be from an application he
-had never used. The preview simply said: <code style="font-family: courier new, monospace;"> Tax Refund</code>.
+had never used. 
+
+The preview simply said: <code style="font-family: courier new, monospace;"> Tax Refund</code>.
 
 
