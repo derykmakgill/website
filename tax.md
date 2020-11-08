@@ -86,6 +86,8 @@ George froze. That was his social security number. <code style="font-family: cou
 
 That really wasn't George's question. He wanted to know where the money, if it even existed, was coming from. Almost like he was reading his mind, M typed again: <code style="font-family: courier new, monospace;">If you mean, "who is going to wake up tomorrow and realise they are missing a lot of money, well, I'm not too worried about that. I've been doing this a long time. Did you know there are over two million employees of our fine republic? If they each gave you fifty cents, would they even notice? A dollar? Would they notice? Would they even notice five dollars?</code>
 
-There it was. The thing George wanted was any trouble at all from the government. Sure, he occasionally lost his cool had a few choice words for IRS agents, but this was an entirely new level of defiance. <code style="font-family: courier new, monospace;">I don't want anything to do with this. Please stop.</code>
+There it was. The last thing George wanted was any trouble at all from the government. Sure, he occasionally lost his cool had a few choice words for IRS agents, but this was an entirely new level of defiance. Even if *he* knew it wasn't really stealing, it didn't matter in the eyes of the law. They would throw the *fucking* book at him. <code style="font-family: courier new, monospace;">I don't want anything to do with this. Please stop.</code>
 
-<code style="font-family: courier new, monospace;">Too late, George.</code> said M. <code style="font-family: courier new, monospace;">And stop acting like a pussy. You aren't one. So stop acting like one.</code>
+<code style="font-family: courier new, monospace;">Too late, George.</code> said M. <code style="font-family: courier new, monospace;">It's already started. And stop acting like a pussy. You aren't one. So stop acting like one.</code>
+
+George's phone beeped. A push notification from his mobile Bitcoin wallet showed a new unconfirmed transaction. Almost automatically, he swiped it and nearly spit out the water he'd been sipping. *1,000,000.* 
