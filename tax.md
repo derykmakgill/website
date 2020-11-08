@@ -98,4 +98,18 @@ George's phone beeped. A push notification from his mobile Bitcoin wallet showed
 
 <code style="font-family: courier new, monospace;">Good! That includes interest too at a decent rate. Those bastards aren't getting a free loan from you.</code> said M.
 
+<code style="font-family: courier new, monospace;">How did you get my Bitcoin address?</code> asked George. That was...concerning.
 
+<code style="font-family: courier new, monospace;">Would you like me to paste your private keys too? I suggest you change them. They're safe with me though!</code> said M.
+
+<code style="font-family: courier new, monospace;">Point taken...</code> said George. He was already thinking about moving the Bitcoin to a safer wallet. <code style="font-family: courier new, monospace;">One more question: is this really coming from every government employee in the country?</code>
+
+For the first time there was a long pause from M. George was just about to ask again when he replied.
+
+<code style="font-family: courier new, monospace;">I admit there are a couple people I was particularly intererested in involving in your refund. Do you remember that Senator who drafted the Overcompensated Owner law? She has a lot of refunding to do. I'm not done with her. And therer are other ways to get money. Blackmail, for example. There are a lot of things people in power have saved on their computers that they wouldn't want leaked. Car theft is another. Take it to a chop shop. Phishing. You probably won't believe it but there's a powerful congresswoman who fell for a Nigerian oil prince scheme and sent me a good amount of money. Details don't matter George other than that you're getting your money back from the people who took it. You're not taking it from men like yourself, I promise you that.</code>
+
+<code style="font-family: courier new, monospace;">What if I want to give it back to them?</code> asked George, though he privately knew he had no intention of giving it back.
+
+<code style="font-family: courier new, monospace;">That will be your choice. That's all I'm giving you. Choice. It's never been yours before, has it. Goodbye George.</code> That chat closed and M was gone. George quickly searched through his applications but couldn't find anything that looked like the chat application M had somehow installed on his computer. He checked his phone again. The money was still there, of course.
+
+*So that's it,* he thought. And George Hanawalt grinned.
