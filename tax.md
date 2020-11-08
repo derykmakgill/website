@@ -110,6 +110,6 @@ For the first time there was a long pause from M. George was just about to ask a
 
 <code style="font-family: courier new, monospace;">What if I want to give it back to them?</code> asked George, though he privately knew he had no intention of giving it back.
 
-<code style="font-family: courier new, monospace;">That will be your choice. That's all I'm giving you. Choice. It's never been yours before, has it. Goodbye George.</code> That chat closed and M was gone. George quickly searched through his applications but couldn't find anything that looked like the chat application M had somehow installed on his computer. He checked his phone again. The money was still there, of course.
+<code style="font-family: courier new, monospace;">That will be your choice. That's all I'm giving you. Choice. It's never been yours before, has it? Goodbye George.</code> That chat closed and M was gone. George quickly searched through his applications but couldn't find anything that looked like the chat application M had somehow installed on his computer. He checked his phone again. The money was still there, of course.
 
 *So that's it,* he thought. And George Hanawalt grinned.
