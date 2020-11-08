@@ -50,11 +50,15 @@ what he was about to do when another chat appeared in the box: <code style="font
 
 He frowned at the message window, then typed: <code style="font-family: courier new, monospace;">Who are you?</code>
 
-<code style="font-family: courier new, monospace;">I am the head of the IRS</code>.
+<code style="font-family: courier new, monospace;">I am the Director of the ERS</code>, he replied.
 
-<code style="font-family: courier new, monospace;">The Internal Revenue Service? No you aren't. Goodbye</code>.
-</code>. 
+<code style="font-family: courier new, monospace;">That doesn't exist. Goodbye.</code> George was already bored of this conversation.
 
+<code style="font-family: courier new, monospace;">Sorry. It's a bad joke. The External Refund Service. I've wanted to use it for a long time. I guess you can call me M,</code> M replied, <code style="font-family: courier new, monospace;">but please, George, I don't have much time and it is important we discuss your refund.</code>
+
+<code style="font-family: courier new, monospace;">I don't have a refund!</code> George pounded the keyboard.
+
+<code style="font-family: courier new, monospace;">You just spoke to an IRS agent about a letter you received in the mail about additional taxes you would owe this year. I'm the one who made that all go away.</code> 
 
 
 
