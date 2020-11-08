@@ -74,6 +74,6 @@ George froze. That was his social security number. <code style="font-family: cou
 
 <code style="font-family: courier new, monospace;">Don't worry, I'm not going to hurt you. I'm trying to help.</code> M wrote. <code style="font-family: courier new, monospace;">I've been through all your tax records over the last twenty odd years. They've stolen a lot of money from you. I'm giving it back.</code>
 
-
+*I should report him,* George thought to himself. He knew some guys at the FBI. He could report him to them and... *what?* he thought. *What would they do?* George was beginning to suspect that whoever this M was, he was not going to be easily caught.
 
 
