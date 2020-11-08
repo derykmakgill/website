@@ -62,7 +62,7 @@ He frowned at the message window, then typed: <code style="font-family: courier 
 
 How did this hacker, phisher, troll, FED, or whoever he was know George had made that call? He looked over at his phone suspiciously. Had it been compromised? Was he being watched now? 
 
-He began to type more nervously than angrily now: <code style="font-family: courier new, monospace;">how did you know that?</code>
+He began to type more nervously now: <code style="font-family: courier new, monospace;">how did you know that?</code>
 
 M replied at once. The guy *could type!* <code style="font-family: courier new, monospace;">That doesn't matter George. What matter is that I fixed it. You don't owe them any more money this year. The record is gone. But we really need to talk about your refund.</code>
 
