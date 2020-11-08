@@ -66,7 +66,7 @@ He began to type more nervously now: <code style="font-family: courier new, mono
 
 M replied at once. The guy *could type!* <code style="font-family: courier new, monospace;">That doesn't matter George. What matter is that I fixed it. You don't owe them any more money this year. The record is gone. But we really need to talk about your refund.</code>
 
-<code style="font-family: courier new, monospace;">Okay...I'm listening...but I'm not giving you anymore personal information.</code>
+<code style="font-family: courier new, monospace;">Okay...I'm listening...but I'm not giving you anymore personal information.</code> said George.
 
 <code style="font-family: courier new, monospace;">598-391-9444.</code> M replied.
 
