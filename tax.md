@@ -90,7 +90,12 @@ There it was. The last thing George wanted was any trouble at all from the gover
 
 <code style="font-family: courier new, monospace;">Too late, George.</code> said M. <code style="font-family: courier new, monospace;">It's already started. And stop acting like a pussy. You aren't one. So stop acting like one.</code>
 
-George's phone beeped. A push notification from his mobile Bitcoin wallet showed a new unconfirmed transaction. Almost automatically, he swiped it and nearly spit out the water he'd been sipping. *$1,000,000.* He sat there for several minutes in stunned silence, and it wasn't until he heard the tone of another incoming chat from his computer that he broke from the trance.
+George's phone beeped. A push notification from his mobile Bitcoin wallet showed a new unconfirmed transaction. Almost automatically, he swiped it and nearly spit out the water he'd been sipping. *$1,541,304.53.* He sat there for several minutes in stunned silence, and it wasn't until he heard the tone of another incoming chat from his computer that he broke from the trance.
 
 <code style="font-family: courier new, monospace;">Did you get the money?</code> asked M.
+
+<code style="font-family: courier new, monospace;">yes</code>. George didn't really know what else to say. None of this could be real. There had to be catch. There had to be another explanation.
+
+<code style="font-family: courier new, monospace;">Good! That includes interest too at a decent rate. Those bastards aren't getting a free loan on my watch.</code> said M.
+
 
