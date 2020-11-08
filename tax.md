@@ -58,7 +58,7 @@ He frowned at the message window, then typed: <code style="font-family: courier 
 
 <code style="font-family: courier new, monospace;">I don't have a refund!</code> George pounded the keyboard.
 
-<code style="font-family: courier new, monospace;">You just spoke to an IRS agent about a letter you received in the mail about additional taxes you would owe this year. I'm the one who made that all go away.</code> 
+<code style="font-family: courier new, monospace;">You just spoke to an IRS agent about a letter you received in the mail about additional taxes you would owe this year, but they said you owed nothing, right?</code> 
 
-
+How did this hacker, phisher, troll, FED, or whoever he was know George had made that call? He looked over at his phone suspiciously. Had it been compromised? Was he being watched now? 
 
