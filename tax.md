@@ -96,6 +96,6 @@ George's phone beeped. A push notification from his mobile Bitcoin wallet showed
 
 <code style="font-family: courier new, monospace;">yes</code>. George didn't really know what else to say. None of this could be real. There had to be catch. There had to be another explanation.
 
-<code style="font-family: courier new, monospace;">Good! That includes interest too at a decent rate. Those bastards aren't getting a free loan on my watch.</code> said M.
+<code style="font-family: courier new, monospace;">Good! That includes interest too at a decent rate. Those bastards aren't getting a free loan from you.</code> said M.
 
 
