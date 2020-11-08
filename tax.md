@@ -76,14 +76,16 @@ George froze. That was his social security number. <code style="font-family: cou
 
 *I should report him,* George thought to himself. He knew some guys at the FBI. He could report him to them and... *what?* he thought. *What would they do?* George was beginning to suspect that whoever this M was, he was not going to be easily caught.
 
-<code style="font-family: courier new, monospace;">You had no right to do that</code>, George wrote.
+<code style="font-family: courier new, monospace;">You had no right to do go through my finances like that</code>, George wrote.
 
 <code style="font-family: courier new, monospace;">They had no right to do that, George.</code> M replied.
 
-He decided that his only option was to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, who is paying for it?"
+*So he's some kind of hacker activist,* thought George. George didn't like activists. But M seemed different. And someone who hated the IRS as much as he did must be all right in his book. He decided to play along for now. <code style="font-family: courier new, monospace;">Okay. Assuming that is true, that you have a refund for me, who is paying for it?"
   
-<code style="font-family: courier new, monospace;">lol.</code> M replied. <code style="font-family: courier new, monospace;">You're paying for it. It's a refund, after all.</code>
+<code style="font-family: courier new, monospace;">lol.</code> M replied. <code style="font-family: courier new, monospace;">You're paying for it. It's a refund.</code>
 
 That really wasn't George's question. He wanted to know where the money, if it even existed, was coming from. Almost like he was reading his mind, M typed again: <code style="font-family: courier new, monospace;">If you mean, "who is going to wake up tomorrow and realise they are missing a lot of money, well, I'm not too worried about that. I've been doing this a long time. Did you know there are over two million employees of our fine republic? If they each gave you fifty cents, would they even notice? A dollar? Would they notice? Would they even notice five dollars?</code>
 
+There it was. The thing George wanted was any trouble at all from the government. Sure, he occasionally lost his cool had a few choice words for IRS agents, but this was an entirely new level of defiance. <code style="font-family: courier new, monospace;">I don't want anything to do with this. Please stop.</code>
 
+<code style="font-family: courier new, monospace;">Too late, George.</code> said M. <code style="font-family: courier new, monospace;">And stop acting like a pussy. You aren't one. So stop acting like one.</code>
