@@ -15,4 +15,4 @@ sue me
 (but only if it's payable in BTC)
 ```
 
-before quickly becoming a viral internet meme five years ago: 
+John wasn't a 4chan user and had only heard about it after, about a year later, it became a viral internet meme when BuzzFeed covered it in a profile about toxic mascunility and its response to "cancel culture."
