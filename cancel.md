@@ -6,13 +6,13 @@ title: Cancellation Insurance
 It had begun as an obscure 4chan post three years ago which John had forgotten about until today.
 
 ```
-CANCELLATYON INSURINCE: I type d that tyitle twice because I knew it was wrong the first time.  Still wrong.  w/e.  GF's out at a lesbian bar, BTC crashing WHY AM I HOLDING? I'LL TELL YOU WHY.  It's because I'm a bad trader and I KNOW I'M A BAD TRADER.  Yeah you good traders can spot the highs and the lows pit pat piffy wing wong wang just like that and make a millino bucks sure no problem bro.  Likewise the weak hands are like OH NO IT'S GOING DOWN I'M GONNA SELL he he he and then they're like OH GOD MY ASSHOLE when the SMART traders who KNOW WHAT THE FUCK THEY'RE DOING buy back in but you know what?  I'm not part of that group.  When the traders buy back in I'm already part of the market capital so GUESS WHO YOU'RE CHEATING day traders NOT ME~!  Those taunt threads saying "OHH YOU SHOULD HAVE SOLD" YEAH NO SHIT.  NO SHIT I SHOULD HAVE SOLD.  I SHOULD HAVE SOLD MOMENTS BEFORE EVERY SELL AND BOUGHT MOMENTS BEFORE EVERY BUY BUT YOU KNOW WHAT NOT EVERYBODY IS AS COOL AS YOU.  You only sell in a bear market if you are a good day trader or an illusioned noob.  The people inbetween hold.  In a zero-sum game such as this, traders can only take your money if you sell.
+CANCELLATYON INSURINCE: the other day I had the best idea. We keep getting fucked. Say something funny? LOSE YOURR JOB. One night stand? Get accused of rape and LOSE YOUR JOB. Old tweet? lose your job! GUESS WHO IS NOT GETTING FUCKED ANYMORE. ME ~! YOU TOO if you sign up today for CANCELLATYON INSURINCE. Y eah I know I spelled that wrong. w/e.  Spelling won't save you from losing your income and your reputation beacuse a bunch of snowflakes can't take a joke or just want to destroy you for spite. CANCELLATYON INSURINCE will. THis is the thing we should have had years ago. You lsoe your job for something stupud, you get PAID. And protected maybe? Would have savd Bill Cosby for sure. Wlel I don't know about that actually. BUt it'll save you as long as you don't do anything too stupid. Don't miss out. We don't take pre-existing conditions. You sign up now before you get fucked or you're on your own.
 
 so i've had some whiskey
-actually on the bottle it's spelled whisky
+a lot. But i'm serious.
 w/e
-sue me
-(but only if it's payable in BTC)
+sue me if im a liar.
+(plans only payable in BTC and ETH)
 ```
 
 John wasn't a 4chan user and had only heard about it when, about a year later, it became a viral internet meme when BuzzFeed covered it in a profile about toxic mascunility and its response to "cancel culture." At first he'd ignored it like he ignored most of the culture wars coverage on both sides. John was decidedly culturally and politically agnostic. His motto was "leave me alone, and I'll leave you alone." And with a motto like that, the last thing *he* would ever need to be worried about was getting *canceled.* 
