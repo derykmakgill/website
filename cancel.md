@@ -15,4 +15,6 @@ sue me
 (but only if it's payable in BTC)
 ```
 
-John wasn't a 4chan user and had only heard about it after, about a year later, it became a viral internet meme when BuzzFeed covered it in a profile about toxic mascunility and its response to "cancel culture."
+John wasn't a 4chan user and had only heard about it when, about a year later, it became a viral internet meme when BuzzFeed covered it in a profile about toxic mascunility and its response to "cancel culture." At first he'd ignored it like he ignored most of the culture wars coverage on both sides. John was decidedly culturally and politically agnostic. His motto was "leave me alone, and I'll leave you alone." And with a motto like that, the last thing *he* would ever need to be worried about was getting *canceled.* 
+
+
