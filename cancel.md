@@ -19,4 +19,4 @@ John wasn't a 4chan user and had only heard about it when, about a year later, i
 
 Had he seen some unfair witch hunts? Certainly. But he'd also seen a lot of people he thought had deserved what they got. John had figured if he just went about his work, treated everyone with respect by default, and did no harm, he would be okay. Then a friend of his in graduate school had lost a grant and his employment chances because of a *very* mildly inappropriate joke he'd while drunk at a bar. It was the kind of joke that until yesterday, even the most liberal Hollywood celebrities would have made in a movie and everyone from your raging communist barista to your stodgy conservative great uncle would have laughed about.
 
-
+And so John had bought some cancellation insurance from one of the hundreds of fly-by-night providers that had sprung up overnight and which only accepted payment in cryptocurrency.
