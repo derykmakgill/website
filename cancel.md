@@ -21,7 +21,7 @@ Had he seen some unfair witch hunts? Certainly. But he'd also seen a lot of peop
 
 So John had bought some cancellation insurance from one of the hundreds of fly-by-night providers that had sprung up overnight and which only accepted payment in cryptocurrency. He immediately regretted it. Reddit posts from angry young men and exposes in all the major news outlets revealed that all of the cancellation insurance "companies" were scams. Some were typical internet scam, others were left-wing honey pots and the few that tried to be legit turned out to have no idea what they were doing. Almost nobody reported ever getting a payout and the only positive reviews were unverifiable. 
 
-The meme died almost as quickly as it had exploded, and John had forgotten about it until today when, just two hours ago, he was put on temporary leave pending an investigation into a series of false accusations against him by a few members of his department.
+The meme died almost as quickly as it had exploded, and John had forgotten about it until today when, just two hours ago, he was put on temporary leave pending an investigation into a series of false accusations against him by a few members of a conference he had presented a paper at last month.
 
 
 
