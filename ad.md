@@ -33,7 +33,7 @@ Big ideas are usually simple ideas, Said Charles Kettering, the great General Mo
 
 ## **5.) <u>A first-class ticket</u>.**
 
-It pays to give most products an image of quality a first-class ticket.
+It pays to give most products an image of quality—a first-class ticket.
 
 Ogilvy & Mather has been conspicuously successful in doing this-for Pepperidge, Hathaway, Mercedes-Benz, Schweppes, Dove and others,
 
