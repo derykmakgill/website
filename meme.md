@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Ancient Memes and Their Modern Counterparts
+title: Ancient memes and their modern counterparts
 ---
