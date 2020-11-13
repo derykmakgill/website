@@ -16,4 +16,7 @@ or
 
 **Who the hell even are you?** Armchair researcher. I have no special qualifications whatsoever other than that I read a lot more than most people and have, not to flatter myself too much, a *very* good memory. But all more sources are cited and you can judge them for yourself. 
 
+## Disclaimers
+
+**Not for goldfish.** This is not a short narrative or listicle. It's a *very* long data-dump covering over a decade of history. It is organised chronologically and can be read straight through or by jumping around to dates that interest you. There is a *lot* of material here which has never before appeared together, and if I suspect the main criticism of this paper will be that I was rather not selective enough. If you want shorter essays, I can recommend John Blocke's fantastic essay on the [censorship of r/bitcoin](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43) and Daniel Morgan's excellent [scaling debate timeline](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada).
 
