@@ -133,9 +133,7 @@ CPokerDialogBase::CPokerDialogBase(wxWindow* parent, wxWindowID id, const wxStri
 
 ## 2010
 
-**14 July 2010:** A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client, effectively limiting the amount of transactions that could ever be processed on the Bitcoin network in a ten minute period.
-
-It's important to understand that the 1MB block size limit was considered a temporary hack by Satoshi and everybody involved in Bitcoin at the time, as this fact would soon be swept under the rug.
+**14 July 2010:** A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client, effectively limiting the amount of transactions that could ever be processed on the Bitcoin network in a ten minute period. It's important to understand that the 1MB block size limit was considered a temporary hack by Satoshi and everybody involved in Bitcoin at the time, as this fact would soon be swept under the rug.
 
 **19 September 2010:** After some discussion, Hal Finney, Satoshi (Bitcoin’s creator), and the user ‘Cryddit,’ who is Ray Dallingerr, on Bitcointalk imposed a [1MB default block size](https://github.com/bitcoin/bitcoin/commit/172f006020965ae8763a0610845c051ed1e3b522) to reduce the chance of spam transactions hijacking blockspace, or the possibility of cheap DoS attacks. [Cryddit below explains why this limit was put in place:](https://bitcointalk.org/index.php?topic=946236.msg10388435#msg10388435)
 
