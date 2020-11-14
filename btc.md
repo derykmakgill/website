@@ -23,3 +23,7 @@ or
 **No narrative claims.** I'm deliberately leaving out editorializing about grand conspiracies to co-opt Bitcoin. I have my own thoughts on that but in my own experience, starting with those claims tends to make people ignore the well-documented facts that show, whether the effort was intentional, coordinated, or not, it was corrupt, coercive, and effective. Instead I invite readers to form their own conclusions from the timeline of evidence and I hope people may see patterns that I did not. All of that said, I won't leave out information just because it lends itself to a particular theory. If I believe it is true, I have included it.
 
 **Always incomplete.** I may add new material to this document in the future or edit existing material. If the edits are trivial—spelling, dates, typos, etc, I won't make a note of them. If the edits are because a piece of information I included as true was fundamentally wrong, I will do a strikethrough and add a linked footnote with a correction.
+
+## 2010
+
+**14 July 2010:** A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client.
