@@ -64,7 +64,7 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 ## 2013
 
-**18 April 2013:** Someone by the name of John Dillon (john.dillon892@googlemail.com) emails the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
+**18 April 2013:** Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
 
 John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that his day job is high up in a US intelligence agency. He says that he doesn't like what the government is doing and wants to make up for it by helping Bitcoin.
 
