@@ -35,3 +35,13 @@ or
 >Several attempted "abuses" of the blockchain under the 1MB limit have proved Hal right about needing the limit at least for launching purposes.  A lot of people wanted to piggyback extraneous information onto the blockchain, and before miners (and the community generally) realized that blockchain space was a valuable resource they would have allowed it.  The blockchain would probably be several times as big a download now if that limit hadn't been in place, because it would have a lot of random 1-satoshi transactions that exist only to encode information for altcoins etc.
 >
 >At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
+
+## 2011
+
+**16 June 2011:** The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0) one of the earlier examples of censorship in Bitcoin. 
+
+**29 June 2011:** One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls.
+
+>forum.bitcoin.org is the single worst place on the internet to talk about bitcoin.
+>
+>Dissenting voices are regularly shouted down or dismissed as trolls. Moderators are now deleting longstanding threads of great interest. The worst part is, in bitcoin-forumland, the internet is nothing but America.
