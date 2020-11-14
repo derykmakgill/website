@@ -57,3 +57,17 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 >Theymos wasn't much better - wouldn't re-add any of the kicked mods and held it alone himself on some kind of power trip. Things got quite unfriendly after that - partially because theymos is a typical angry asshole libertarian, and partially because the scene grew so much that it was hard to maintain a close community.
 >
 >After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
+
+## 2013
+
+**18 April 2013:** Someone by the name of John Dillon (john.dillon892@googlemail.com) emails the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
+
+John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that his day job is high up in a US intelligence agency. He says that he doesn't like what the government is doing and wants to make up for it by helping Bitcoin.
+
+Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
+
+In the thread about Replace-By-Fee, Justus Ranvier says Peter Todd is being [overly theoretical](https://bitcointalk.org/index.php?topic=179612.msg1879731#msg1879731) in his analysis of the dangers of zero-conf transactions.
+
+>It's as if you've spent too much time playing The Sims and forget that both merchants and pool operators are sentient, intelligent beings instead of automatons.
+>
+>If the risks of zero conf double spends are worth expending resources to reduce or eliminate then the merchants will find a way to get it done. 
