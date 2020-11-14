@@ -153,6 +153,10 @@ CPokerDialogBase::CPokerDialogBase(wxWindow* parent, wxWindowID id, const wxStri
 
 >forum.bitcoin.org is the single worst place on the internet to talk about bitcoin. Dissenting voices are regularly shouted down or dismissed as trolls. Moderators are now deleting longstanding threads of great interest. The worst part is, in bitcoin-forumland, the internet is nothing but America.
 
+**01 July 2011:** A forum user complains about the [recent censorship](https://bitcointalk.org/index.php?topic=17872.msg313015#msg313015) on the Bitcoin forums and says he expects more in the future.
+
+>I will not bother contributing to this forum if my posts or even whole threads are going to be removed based on short-term goals by people controlling Bitcoin. Expect to be defaced in future.
+
 **19 July 2011:** r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
 
 Theymos becomes the new sole [moderator](https://bitcointalk.org/index.php?topic=30211.msg381922#msg381922) and refuses to allow the old ones back in. We see him as the sole moderator on the WayBack machine in [September 2011.](https://web.archive.org/web/20110927021847/https://www.reddit.com/r/Bitcoin/new/)
