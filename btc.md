@@ -40,6 +40,8 @@ It's important to understand that the 1MB block size limit was considered a temp
 
 ## 2011: The beginnings of censorship
 
+**26 April 2011:** Satoshi sends what would be his final email to Gavin Andresen and disapears. Without Satoshi there to explain Bitcoin and his vision for it, factions would begin to emerge about what Satoshi *really* intended.
+
 **16 June 2011:** The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0) one of the earlier examples of censorship in Bitcoin. 
 
 **29 June 2011:** One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls.
