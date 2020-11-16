@@ -11,7 +11,9 @@ records that you owe us anything. Did you say you got a letter in the mail from 
 "I have the letter in front of me now," George said, unable to hide his frustration. "Look,
 you guys have been in pain in my ass for a long time. I've paid you a fortune already in the past ten years,
 and the last thing I want is to get slapped with a bunch of fees because
-*you* weren't able to find the record in the system."
+*you* weren't able to find the record in the system." [^1]
+
+[^1]: This is the first footnote.
 
 "I don't know what to tell you Mr. Hanawalt," said the agent. "You don't owe us anything."
 
