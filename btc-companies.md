@@ -46,3 +46,7 @@ ProtonMail is included because although current customers can still pay with Bit
 >In addition to the frustration that buyers experience when their payments fail, Bitcoin users may also incur a non-refundable fee for every attempted payment. This is the fee the network charges to process a transaction. Therefore anyone trying to pay using Bitcoin opens themselves up to the risk of paying the Bitcoin processing fee, even if the payment fails. The processing fees themselves may vary according to the Bitcoin price and the time required for acceptance to the blockchain. The more Bitcoin gains in value, the higher these fees.
 >
 >The overall slow performance and computational power consumed by the Bitcoin blockchain to validate transactions, make Bitcoin less useful currently as a means of exchange and better-suited as an asset. It’s estimated that the Bitcoin network can only handle about 7 transactions per second. In comparison Visa performs at around 24,000 transactions per second and even newer cryptocurrencies fare significantly better than Bitcoin with Ripple processing approximately 1,500 transactions per second.
+
+## Reddit ([March 2015](https://www.coindesk.com/reddit-adds-bitcoin-payments-to-merchandise-store) - [May 2018](https://www.coindesk.com/reddit-drops-bitcoin-payment-option-for-gold-membership))
+
+>The upcoming Coinbase change, combined with some bugs around the Bitcoin payment option that were affecting purchases for certain users, led us to remove Bitcoin as a payment option.
