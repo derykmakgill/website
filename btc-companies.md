@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Companies that used to accept Bitcoin
+title: Companies that used to take Bitcoin payments
 ---
 
 ## WordPress ([November 2012](https://wordpress.com/blog/2012/11/15/pay-another-way-bitcoin/) - [February 2015](https://www.coindesk.com/wordpress-removes-bitcoin-payment-option))
