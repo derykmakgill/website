@@ -31,10 +31,18 @@ title: Companies that used to take Bitcoin payments
 
 ## Fiverr ([February 2014](https://www.coindesk.com/fiverr-coinbase-pay-services-bitcoin) - [January 2017](https://bitcointalk.org/index.php?topic=1761408.0))
 
-> We noticed that you previously used Bitcoin to purchase services on Fiverr. Effective January 19, 2017, Bitcoin will no longer be accepted as a form of payment on Fiverr. However, you will still be able to make purchases using your debit or credit card, PayPal, or Fiverr credit. Thank you for your understanding, Fiverr Team.
+>We noticed that you previously used Bitcoin to purchase services on Fiverr. Effective January 19, 2017, Bitcoin will no longer be accepted as a form of payment on Fiverr. However, you will still be able to make purchases using your debit or credit card, PayPal, or Fiverr credit. Thank you for your understanding, Fiverr Team.
 
 ## ProtonMail ([August 2017](https://protonmail.com/blog/bitcoin-secure-email/) - [Present*](https://protonmail.com/support/knowledge-base/paying-with-bitcoin/))
 
 ProtonMail is included because although current customers can still pay with Bitcoin, Bitcoin is no longer available at account creation.
 
->Payment with Bitcoin is currently only available for existing ProtonMail accounts due to the time it takes to confirm a Bitcoin transaction (up to 24 hours). If you currently do not have a ProtonMail account, we recommend creating a free ProtonMail account at protonmail.com/signup. Once you have created your free account, you will be able to upgrade to your desired premium account using Bitcoin following the steps found below:
+>Payment with Bitcoin is currently only available for existing ProtonMail accounts due to the time it takes to confirm a Bitcoin transaction (up to 24 hours). If you currently do not have a ProtonMail account, we recommend creating a free ProtonMail account at protonmail.com/signup. Once you have created your free account, you will be able to upgrade to your desired premium account using Bitcoin...
+
+## PayFast ([July 2014](https://www.payfast.co.za/blog/accept-bitcoin-payments-payfast/) - [July 2019](https://www.payfast.co.za/blog/ending-support-for-bitcoin/))
+
+>As Bitcoin has grown in popularity, it has become increasingly difficult for the network to sufficiently confirm transactions within the 10 minute time limit. Since the network isn’t able to handle the volume of instructions at the speed required, the majority of Bitcoin transactions on the PayFast platform ended up being unsuccessful.
+>
+>In addition to the frustration that buyers experience when their payments fail, Bitcoin users may also incur a non-refundable fee for every attempted payment. This is the fee the network charges to process a transaction. Therefore anyone trying to pay using Bitcoin opens themselves up to the risk of paying the Bitcoin processing fee, even if the payment fails. The processing fees themselves may vary according to the Bitcoin price and the time required for acceptance to the blockchain. The more Bitcoin gains in value, the higher these fees.
+>
+>The overall slow performance and computational power consumed by the Bitcoin blockchain to validate transactions, make Bitcoin less useful currently as a means of exchange and better-suited as an asset. It’s estimated that the Bitcoin network can only handle about 7 transactions per second. In comparison Visa performs at around 24,000 transactions per second and even newer cryptocurrencies fare significantly better than Bitcoin with Ripple processing approximately 1,500 transactions per second.
