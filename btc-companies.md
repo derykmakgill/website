@@ -33,3 +33,8 @@ title: Companies that used to take Bitcoin payments
 
 > We noticed that you previously used Bitcoin to purchase services on Fiverr. Effective January 19, 2017, Bitcoin will no longer be accepted as a form of payment on Fiverr. However, you will still be able to make purchases using your debit or credit card, PayPal, or Fiverr credit. Thank you for your understanding, Fiverr Team.
 
+## ProtonMail ([August 2017](https://protonmail.com/blog/bitcoin-secure-email/) - [Present*](https://protonmail.com/support/knowledge-base/paying-with-bitcoin/))
+
+ProtonMail is included because although current customers can still pay with Bitcoin, Bitcoin is no longer available at account creation.
+
+>Payment with Bitcoin is currently only available for existing ProtonMail accounts due to the time it takes to confirm a Bitcoin transaction (up to 24 hours). If you currently do not have a ProtonMail account, we recommend creating a free ProtonMail account at protonmail.com/signup. Once you have created your free account, you will be able to upgrade to your desired premium account using Bitcoin following the steps found below:
