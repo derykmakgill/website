@@ -80,6 +80,8 @@ Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, te
 
 >He isn't an admin and supeficially performing exactly the same set of edits does suggest a sock puppet (my initial reaction), though of course it's possible that it is someone up to mischief.
 
+---
+
 
 ## 16 June 2011
 
