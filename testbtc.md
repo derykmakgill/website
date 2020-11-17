@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Timeline History of Bitcoin
+---
 
 ## 29 October 1995
 
