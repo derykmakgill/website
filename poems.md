@@ -302,3 +302,46 @@ Where many had been burned before;
 The weeping parents wept in vain.
 Are such thing done on Albion's shore?
 ```
+
+## An American in Europe
+
+```
+'Tis fine to see the Old World, and travel up and down
+Among the famous palaces and cities of renown,
+To admire the crumbly castles and the statues of the kings,—
+But now I think I've had enough of antiquated things.
+
+So it's home again, and home again, America for me!
+My heart is turning home again, and there I long to be,
+In the land of youth and freedom beyond the ocean bars,
+Where the air is full of sunlight and the flag is full of stars.
+
+Oh, London is a man's town, there's power in the air;
+And Paris is a woman's town, with flowers in her hair;
+And it's sweet to dream in Venice, and it's great to study Rome;
+But when it comes to living, there is no place like home.
+
+I like the German fir-woods, in green battalions drilled;
+I like the gardens of Versailles with flashing fountains filled;
+But, oh, to take your hand, my dear, and ramble for a day
+In the friendly western woodland where Nature has her way!
+
+I know that Europe's wonderful, yet something seems to lack:
+The Past is too much with her, and the people looking back.
+But the glory of the Present is to make the Future free, --
+We love our land for what she is and what she is to be.
+
+So it's home again, and home again, America for me!
+I want a ship that's westward bound to plough the rolling sea,
+To the blessed Land of Room Enough beyond the ocean bars,
+Where the air is full of sunlight and the flag is full of stars.
+```
+
+## Vademecum — Vadetecum
+
+```
+Lured by my style and tendency,
+you follow and come after me?
+Follow your own self faithfully
+take time-and thus you follow me. 
+```
