@@ -334,6 +334,8 @@ Mircea Popescu writes a blog post [threatening to destroy any attempt to raise t
 
 >My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
 
+---
+
 ## 07 January 2015
 
 Mircea Popescu [describes a plan to manipulate the market and financially harm anyone supporting Bitcoin XT.](http://btcbase.org/log/?date=07-01-2015#967332) The attack is described further in a [blog post](http://qntra.net/2015/01/the-hard-fork-missile-crisis/) by another Bitcoin Core supporter.
@@ -343,6 +345,8 @@ Mircea Popescu [describes a plan to manipulate the market and financially harm a
 >It will be impossible for the Giga-chain to keep 1:1 parity with the main chain from which it forks, they contain different transaction, although some may overlap. Here a user broadcasts a transaction with inputs originating on the Main-chain, and is eventually included in a block on the Giga-chain, but not on the Main-chain. The coin is essentially duplicated onto both chains.
 >
 >Those siding with the wrong chain who end up accepting duplicated transactions from the other chain, such as a purchase from an exchange running on the losing blockchain, will lose those coins when the dust settles. No war is without casulties, the Great Blockchain Civil War will be no different.
+
+---
 
 **12 January 2015:** In response to Gavin Andresen's argument that Bitcoin's block size must be raised so more people can use it, Mircea Popescu writes in an unhinged rant that [Bitcoin is not for poor people.](http://trilema.com/2015/lets-address-some-of-the-more-common-pseudo-arguments-raised-by-the-very-stupid-people-that-like-the-gavin-scamcoin-proposal/)
 
