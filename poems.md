@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The world began when I was born
+title: The World Began When I Was Born
 ---
 
 ## An Anthology of Individualist Poetry
