@@ -1,12 +1,6 @@
 ---
 layout: page
-title: Bitcoin, Broken!
----
-
-or
-
-## A timeline history of Bitcoin: lies, propaganda, censorship, and more
-
+title: Timeline History of Bitcoin
 
 ## 29 October 1995
 
