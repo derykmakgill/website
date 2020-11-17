@@ -173,6 +173,18 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 ---
 
+## 30 July 2011
+
+Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https://web.archive.org/web/20140328052630/https://en.bitcoin.it/wiki/Talk:Scalability)
+
+>When techies hear about how bitcoin works they frequently stop at the word "flooding" and say "Oh-my-god! that can't scale!". The purpose of this article is to take an extreme example, the peak transaction rate of Visa, and show that bitcoin could technically reach that kind of rate without any kind of questionable reasoning, changes in the core design, or non-existent overlays. As such, it's merely an extreme example— not a plan for how bitcoin will grow to address wider needs (as a decentralized system it is the bitcoin using public who will decide how bitcoin grows)— it's just an argument that shows that bitcoin's core design can scale much better than an intelligent person might guess at first.
+>
+>Dan rightly criticizes the analysis presented here— pointing out that operating at this scale would significantly reduce the decentralized nature of bitcoin: If you have to have many terabytes of disk space to run a "full validating" node then fewer people will do it, and everyone who doesn't will have to trust the ones who do to be honest. Dan appears (from his slides) to have gone too far with that argument: he seems to suggest that this means bitcoins will be controlled by the kind of central banks that are common today. His analysis fails for two reasons (and the second is the fault of this page being a bit misleading):
+>
+>First, even at the astronomic scale presented here the required capacity is well within the realm of (wealthy) private individuals, and certainly would be at some future time when that kind of capacity was required. A system which puts private individuals, or at least small groups of private parties, on equal footing with central banks could hardly be called a centralized one, though it would be less decentralized than the bitcoin we have today. The system could also not get to this kind of scale without bitcoin users agreeing collectively to increase the maximum block size, so it's not an outcome that can happen without the consent of bitcoin users.
+
+---
+
 ## 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
