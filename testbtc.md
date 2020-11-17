@@ -326,6 +326,8 @@ Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin wil
 
 Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream) that "Blockstream plans to extend the capabilities of Bitcoin through sidechains technology."
 
+---
+
 ## 06 January 2015
 
 Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
