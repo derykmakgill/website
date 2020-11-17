@@ -140,3 +140,66 @@ It matters not how strait the gate,
 I am the master of my fate,
       I am the captain of my soul.
 ```
+
+## Paranoia 
+
+```
+This man 1 never saw before
+
+At 3 A.M. breaks down the door
+
+To tell me my aspirin is LSD.
+
+"It says right there on the bottle,
+
+Acetylsalicylic Acid."
+
+I tell you doctor, honestly,
+
+It seems like someone's after me.
+
+ 
+
+I don't think fighting is what I'm made for
+
+But this lottery ticket I never paid for
+
+Sold by a pusher known as Sam
+
+Has won me a ticket to Vietnam,
+
+A twelve months, expenses paid, tropical vacation
+
+With a funeral, free, from a grateful nation.
+
+But the doctor says I need therapy
+
+For thinking someone is after me.
+
+ 
+
+And then there are things I just can't ignore
+
+Like the little man in our bedroom door
+
+Says we'll be in jail by the end of the night
+
+Unless we turn over and do it right.
+
+Doctor, Doctor, come and see
+
+There's really someone after me.
+
+ 
+
+Then he asks, as he rips off the sheet,
+
+For our marriage license and tax receipt;
+
+Says "you need a license to shoot at a duck
+
+How come you think that it's free to . . ."
+
+Who so blind as will not see;
+
+The state, the state, is after me.
