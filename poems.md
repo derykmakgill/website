@@ -490,17 +490,21 @@ And knows not the coming of spring.
 
 I am. I think. I will.
 
-My hands... My spirit... My sky... My forest... This earth of mine.... 
+My hands... My spirit... My sky... My forest... 
+This earth of mine.... 
 What must I say besides? 
-These are the words. This is the answer.
+These are the words. 
+This is the answer.
 
 I stand here on the summit of the mountain. 
 I lift my head and I spread my arms. 
-This, my body and spirit, this is the end of the quest. 
+This, my body and spirit, 
+this is the end of the quest. 
 I wished to know the meaning of things. 
 I am the meaning. 
 I wished to find a warrant for being. 
-I need no warrant for being, and no word of sanction upon my being. 
+I need no warrant for being, 
+and no word of sanction upon my being. 
 I am the warrant and the sanction.
 
 It is my eyes which see, 
@@ -515,7 +519,8 @@ and the choice of my will is the only edict I must respect.
 Many words have been granted me, 
 and some are wise, 
 and some are false, 
-but only three are holy: “I will it!”
+but only three are holy: 
+“I will it!”
 
 Whatever road I take, the guiding star is within me; 
 the guiding star and the loadstone which point the way. 
@@ -544,15 +549,20 @@ and mine to guard,
 and mine to use, 
 and mine to kneel before!
 
-I do not surrender my treasures, nor do I share them. 
+I do not surrender my treasures, 
+nor do I share them. 
 The fortune of my spirit is not to be blown into coins of brass 
 and flung to the winds as alms for the poor of the spirit. 
-I guard my treasures: my thought, my will, my freedom. 
+I guard my treasures: 
+my thought, my will, my freedom. 
 And the greatest of these is freedom.
 
-I owe nothing to my brothers, nor do I gather debts from them. 
-I ask none to live for me, nor do I live for any others. 
-I covet no man’s soul, nor is my soul theirs to covet.
+I owe nothing to my brothers, 
+nor do I gather debts from them. 
+I ask none to live for me, 
+nor do I live for any others. 
+I covet no man’s soul, 
+nor is my soul theirs to covet.
 
 I am neither foe nor friend to my brothers, 
 but such as each of them shall deserve of me. 
@@ -569,7 +579,8 @@ and them I shall love and respect,
 but neither command nor obey. 
 And we shall join our hands when we wish, 
 or walk alone when we so desire. 
-For in the temple of his spirit, each man is alone. 
+For in the temple of his spirit, 
+each man is alone. 
 Let each man keep his temple untouched and undefiled. 
 Then let him join hands with others if he wishes, 
 but only beyond his holy threshold.
