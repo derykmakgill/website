@@ -7,6 +7,59 @@ or
 
 ## A timeline history of Bitcoin: lies, propaganda, censorship, and more
 
+
+## 29 October 1995
+
+In a discussion about Digicash on the Cypherpunk Mailing List, 
+James A. Donald [critisizes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
+the early electronic cash for having high fees.
+
+>While Chaum is a brilliant cryptographer, he is an incompetent businessman
+>
+>He has demonstrated this in numerous ways.
+>
+>The latest being "Cash" where the bank skims off 4% to 10% every time.
+>
+>No one is going to use digicash under these kinds of terms and 
+conditions.
+
+---
+
+## 30 Oct 1995
+
+Creator of the Cypherpunk Mailing List Timothy C. May [responds](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
+in agreement.
+
+>I don't know if the "skims off 4% to 10% every time" point accurately
+describes how the current Digicash model works, but certainly this will not
+fly as a long term rate. So many monetary transactions happen in the course
+of business that even a 4% fee _per transaction_ would rapidly wipe out
+most of the value.
+
+---
+
+## 14 June 1996
+
+Hal Finney argues for the [utility of online micropayments](http://mailing-list-archive.cryptoanarchy.wiki/archive/1996/06/b2345507ef1258011af9ea463ae9b03714f5cd29c4092458bd0002b360f1d545/) on the Cypherpunk Mailing List.
+
+>Consider two sites, one which acts as a proxy and cache but which
+charges something under a penny per page, and another which acts for
+free.  Won't the for-pay site be able to afford a larger disk, more
+servers, and better net connections?  It will be a superior service.
+>
+>Micropayments will allow new services and improved quality over what we
+have today where we have to rely on charity and advertising as
+motivations for much of what we find on the web.
+
+---
+
+## 02 May 1997
+
+Blockstream founder and Hashcash inventor Adam Back [writes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/05/ef17e389556d2b6e27e8e0036a85ce1fedc73e2de871cc30728e7fc8be3d7f09/) 
+on the Cypherpunk Mailing List that a successful digital cash project must be ultra low cost to transact with.
+
+>What we want is fully anonymous, *ultra low transaction cost,* transferable units of exchange.  If we get that going the banks will become the obsolete dinasaurs they deserve to become.
+
 ## 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
