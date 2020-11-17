@@ -357,7 +357,7 @@ With the evil race for power and place,
 
 And the taxes that hurt and grind.
 
-Chorus — Each man shall be free, whoever he be,
+Each man shall be free, whoever he be,
 
 And none shall say to him nay!
 
@@ -381,7 +381,21 @@ Of the changing creeds and the sneaking deeds
 
 And the passions rising high.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 We are sick of this buying and selling of souls,
 
@@ -391,7 +405,21 @@ Of the tarnished name and the cheap-held shame,
 
 Where man would be ruler of man.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 We are sick of the talkers who flatter and talk,
 
@@ -401,7 +429,21 @@ Of the givers who stand, with an open hand,
 
 To give from their neighbor’s store.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 We are sick of the parties who wrangle and fight,—
 
@@ -411,7 +453,21 @@ Of the people’s friends who have all the same ends,
 
 As friends of themselves, to pursue.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 We are sick of their pedants, their systems of clercs,
 
@@ -431,7 +487,21 @@ The creed of a man, who holds to the plan
 
 To have faith in himself and be free!
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 Till the poor man learns that the harsh-grinding laws
 
@@ -441,7 +511,21 @@ And that hands to be strong in the press and the throng
 
 Must be clasped with the heart’s consent.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 Till the rich man lives in the midst of his wealth,
 
@@ -451,7 +535,21 @@ And pleases himself what he does with his pelf —
 
 We care not a jot in our pride!
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 Then forward your heart set, each lad and each lass,
 
@@ -461,7 +559,21 @@ There are idols to break for sweet liberty’s sake,
 
 And many a chain to undo.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 Then forward your heart set, each lad and his lass,
 
@@ -471,5 +583,19 @@ That each man shall rule, be he wise man or fool,
 
 His own self, his one self, alone!
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 ```
