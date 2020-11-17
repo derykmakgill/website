@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Anthology of Individualist Poetry
+title: And the world began when I was born
 ---
 
-## The Westerner
+or 
+
+## An Anthology of Individualist Poetry
+
+### The Westerner
 
 <pre style="font-family: serif;">
 My fathers sleep on the sunrise plains,
@@ -20,8 +24,7 @@ They built high towns on their old log sills,
 Where the great, slow rivers gleamed,
 But with new, live rock from the savage hills
 I’ll build as they only dreamed.
-The smoke scarce dies where the trail camp
-lies,
+The smoke scarce dies where the trail camp lies,
 Till the rails glint down the pass;
 The desert springs into fruit and wheat
 And I lay the stones of a solid street
@@ -58,7 +61,7 @@ And the world began when I was born
 And the world is mine to win.
 </pre>
 
-## Untitled
+### Untitled
 
 <pre style="font-family: serif;">
 Why should you begrudge another 
@@ -67,7 +70,7 @@ Bless him, he's one brother
 That you don't have to keep!
 </pre>
 
-## What is a Communist?
+### What is a Communist?
 
 <pre style="font-family: serif;">
 What is a communist? One who hath yearnings
@@ -77,7 +80,7 @@ To fork out his penny, and pocket your shilling.
 And he has two names, Legion and Danger.
 </pre>
 
-## If
+### If
 
 <pre style="font-family: serif;">
 If you can keep your head when all about you   
@@ -117,7 +120,7 @@ Yours is the Earth and everything that’s in it,
     And—which is more—you’ll be a Man, my son!
 </pre>
 
-## Invictus
+### Invictus
 
 <pre style="font-family: serif;">
 Out of the night that covers me,
@@ -141,7 +144,7 @@ I am the master of my fate,
       I am the captain of my soul.
       </pre>
 
-## Paranoia 
+### Paranoia 
 
 <pre style="font-family: serif;">
 This man 1 never saw before
@@ -199,7 +202,7 @@ Who so blind as will not see;
 The state, the state, is after me.
 </pre>
 
-## Anarchy is Not Chaos
+### Anarchy is Not Chaos
 
 
 <pre style="font-family: serif;">
@@ -236,7 +239,7 @@ That's why there's instant justice on demand
 And safety in every neighborhood.
 </pre>
 
-## from Paradise Lost
+### from Paradise Lost
 
 <pre style="font-family: serif;">
 Will ye submit your necks, and choose to bend
@@ -257,7 +260,7 @@ Of those imperial titles, which assert
 Our being ordained to govern, not to serve?
 </pre>
 
-## from The Conquest of Granada
+### from The Conquest of Granada
 
 <pre style="font-family: serif;">
 Obeyed as sovereign by thy subjects be.
@@ -267,7 +270,7 @@ Ere the base laws of servitude began,
 When wild in woods the noble savage ran.
 </pre>
 
-## A Little Boy Lost
+### A Little Boy Lost
 
 <pre style="font-family: serif;">
 Nought loves another as itself,
@@ -301,7 +304,7 @@ The weeping parents wept in vain.
 Are such thing done on Albion's shore?
 </pre>
 
-## An American in Europe
+### An American in Europe
 
 <pre style="font-family: serif;">
 
@@ -336,7 +339,7 @@ To the blessed Land of Room Enough beyond the ocean bars,
 Where the air is full of sunlight and the flag is full of stars.
 </pre>
 
-## Vademecum — Vadetecum
+### Vademecum — Vadetecum
 
 <pre style="font-family: serif;">
 Lured by my style and tendency,
@@ -345,7 +348,7 @@ Follow your own self faithfully
 take time-and thus you follow me. 
 </pre>
 
-## Libertas in Excelsis.
+### Libertas in Excelsis.
 
 <pre style="font-family: serif;">
 Away with the crutches, away with the bribes,
@@ -476,7 +479,21 @@ State schools, and State rules, and for all of us fools
 
 The wisdom of office-drilled lips.
 
-Chorus — Each man, etc.
+Each man shall be free, whoever he be,
+
+And none shall say to him nay!
+
+There is only one rule for the wise and the fool —
+
+To follow his own heart’s way.
+
+For the heart of the free, whoever he be,
+
+May be stirred to a better thing;
+
+But the heart of the slave lies chill in its grave,
+
+And knows not the coming of spring.
 
 But bright on the world a new creed shall smile,
 
