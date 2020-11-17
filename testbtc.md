@@ -348,7 +348,9 @@ Mircea Popescu [describes a plan to manipulate the market and financially harm a
 
 ---
 
-**12 January 2015:** In response to Gavin Andresen's argument that Bitcoin's block size must be raised so more people can use it, Mircea Popescu writes in an unhinged rant that [Bitcoin is not for poor people.](http://trilema.com/2015/lets-address-some-of-the-more-common-pseudo-arguments-raised-by-the-very-stupid-people-that-like-the-gavin-scamcoin-proposal/)
+## 12 January 2015
+
+In response to Gavin Andresen's argument that Bitcoin's block size must be raised so more people can use it, Mircea Popescu writes in an unhinged rant that [Bitcoin is not for poor people.](http://trilema.com/2015/lets-address-some-of-the-more-common-pseudo-arguments-raised-by-the-very-stupid-people-that-like-the-gavin-scamcoin-proposal/)
 
 >Bitcoin isn't for everybody...
 >
@@ -359,6 +361,8 @@ Mircea Popescu [describes a plan to manipulate the market and financially harm a
 >Run along now, back to playing in the mud with the other naked kids in your village. Bitcoin's just not for your kind.
 
 He also asserts without evidence that Gavin Andresen is a mole for the US Government and threatens to "humiliatingly defeat" him.
+
+---
 
 **07 May 2015:** Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
 
