@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline History of Bitcoin
+title: Timeline History of Bitcoin Scaling
 ---
 
 ## 29 October 1995
