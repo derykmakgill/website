@@ -238,3 +238,33 @@ That's why there's instant justice on demand
 And safety in every neighborhood.
 ```
 
+## from Paradise Lost
+
+```
+Will ye submit your necks, and choose to bend
+The supple knee? Ye will not, if I trust
+To know ye right, or if ye know yourselves
+Natives and sons of Heaven possessed before
+By none; and if not equal all, yet free,
+Equally free; for orders and degrees
+Jar not with liberty, but well consist.
+Who can in reason then, or right, assume
+Monarchy over such as live by right
+His equals, if in power and splendour less,
+In freedom equal? or can introduce
+Law and edict on us, who without law
+Err not? much less for this to be our Lord,
+And look for adoration, to the abuse
+Of those imperial titles, which assert
+Our being ordained to govern, not to serve?
+```
+
+## from The Conquest of Granada
+
+```
+Obeyed as sovereign by thy subjects be.
+But know that I alone am king of me.
+I am as free as Nature first made man,
+Ere the base laws of servitude began,
+When wild in woods the noble savage ran.
+```
