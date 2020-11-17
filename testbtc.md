@@ -9,23 +9,23 @@ or
 
 ## 2011: The beginnings of censorship
 
-##16 June 2011
+### 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
 
-##29 June 2011
+### 29 June 2011
 
 One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls are shouting people down.
 
 >forum.bitcoin.org is the single worst place on the internet to talk about bitcoin. Dissenting voices are regularly shouted down or dismissed as trolls. Moderators are now deleting longstanding threads of great interest. The worst part is, in bitcoin-forumland, the internet is nothing but America.
 
-## 01 July 2011 
+### 01 July 2011 
 
 A forum user complains about the [recent censorship](https://bitcointalk.org/index.php?topic=17872.msg313015#msg313015) on the Bitcoin forums and says he expects more in the future.
 
 >I will not bother contributing to this forum if my posts or even whole threads are going to be removed based on short-term goals by people controlling Bitcoin. Expect to be defaced in future.
 
-## 19 July 2011
+### 19 July 2011
 
 r/bitcoin moderator u/AtlasLGo is [accused](https://bitcointalk.org/index.php?topic=30211.0) of trying to sell r/bitcoin. In the ensuing drama, someone contacts Reddit and he is removed along with three other mods we can see on the [WayBack Machine](https://web.archive.org/web/20110530125818/https://www.reddit.com/r/Bitcoin/new/) as late as May 2011.
 
@@ -43,7 +43,7 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 
 ## 2013
 
-##18 April 2013 
+### 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
 
@@ -51,13 +51,15 @@ John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that hi
 
 Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
 
-**17 May 2013:** Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to the [leaked emails.](https://archive.is/PK1I1)
+### 17 May 2013
+
+Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to the [leaked emails.](https://archive.is/PK1I1)
 
 <script src="https://fast.wistia.com/embed/medias/j58llpj0w6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div style="margin-bottom: 15px;" class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative; margin-bottom: 15px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%; margin-bottom: 10px;"><div class="wistia_embed wistia_async_j58llpj0w6 videoFoam=true" style="height:100%;position:relative;width:100%; margin-bottom: 10px;"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%; margin-bottom: 10px;"><img src="https://fast.wistia.com/embed/medias/j58llpj0w6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%; margin-bottom: 15px;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
 The YouTube responses are mostly negative and some are worth looking more at.
 
-##28 May 2013
+### 28 May 2013
 
 In the ongoing discussion about the Peter Todd video, a forum member [points out](https://bitcointalk.org/index.php?topic=208200.msg2293256#msg2293256) that Peter Todd's limited blocks + high fees solution will lead to proprietary payment networks, a sort of PayPal 2.0 rather than what Bitcoin was intended to be.
 
@@ -69,13 +71,13 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 >
 >The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
 
-## 30 August 2013
+### 30 August 2013
 
 [Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
 
 >I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
 
-## 18 September 2013
+### 18 September 2013
 
 Theymos writes in a now [deleted post](https://archive.is/YAYq6) that a handful of moderators should not control "truth" on the Bitcoin forums.
 
@@ -87,7 +89,7 @@ This is an important point to remember because we will see in the coming years t
 
 >Bitcoin is not a micro-payment system. Until someone creates one that works with Bitcoin reasonably, it probably shouldn't be mentioned as a feature.
 
-## 16 November 2013
+### 16 November 2013
 
 Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
 
@@ -103,7 +105,7 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 >I know, I'll admit he kinda creeps me out a bit sometimes... he's admitted he reads all my posts.
 
-## 26 May 2014
+### 26 May 2014
 
 [Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
 
@@ -111,7 +113,7 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 Mircea is banned from Twitter.
 
-## 05 October 2014
+### 05 October 2014
 
 A user reported an issue on the Gentoo bug forum that a version of [bitcoind (the official reference client for interacting with the bitcoin network) distributed with Gentoo was blocking particular bitcoin addresses.](https://bugs.gentoo.org/524512)
 
@@ -166,7 +168,9 @@ Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/sh
 
 A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
 
-**06 October 2014:** Gavin Andresen [publishes a post](https://web.archive.org/web/20150130122517/https://blog.bitcoinfoundation.org/a-scalability-roadmap/) proposing that the 1MB limit be raised to allow for scalability.
+### 06 October 2014
+
+Gavin Andresen [publishes a post](https://web.archive.org/web/20150130122517/https://blog.bitcoinfoundation.org/a-scalability-roadmap/) proposing that the 1MB limit be raised to allow for scalability.
 
 He argues that the 1mb fix was always a temporary hack and that Satoshi always intended to raise the block size.
 
@@ -176,7 +180,9 @@ He also writes that the expectation of Bitcoin holders from the start has always
 
 >I think the maximum block size must be increased for the same reason the limit of 21 million coins must NEVER be increased: because people were told that the system would scale up to handle lots of transactions, just as they were told that there will only ever be 21 million bitcoins.
 
-**22 October 2014:** [*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
+### 22 October 2014
+
+[*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
 
 >Because sidechains are still block chains independent of bitcoin, they are free to experiment with new transaction designs, trust models, economic models, asset issuance semantics, or cryptographic features.
 
@@ -186,7 +192,9 @@ The paper is co-authored by Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenba
 
 > ...finding additional alternative ways of scaling Bitcoin is what stared me working on sidechains...
 
-**23 October 2014:** Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
+### 23 October 2014
+
+Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
 
 >...we propose technology to enable new cryptocurrency networks that do not need new cryptocurrencies (see our sidechains whitepaper for more information, as well as read an interview with the Wall Street Journal BitBeat). Delivering on this vision will require continued investment in and cooperation with the Bitcoin ecosystem as a whole, along with the full-time support of many people with broad and specialized backgrounds. 
 
@@ -196,19 +204,27 @@ Greg Maxwell is asked in an AMA about the profit-model of Blockstream and [gives
 
 >Right now our focus is on building out the base infrastructure so that there is actually a place to build the revenue producing business we'd like to have, and then we hope to circulate that back into building more good technology.
 
-**06 November 2014:** Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin will be taken over and the methods by which it will happen.](https://www.youtube.com/watch?v=q-sMbf2OzOY&feature=youtu.be)
+### 06 November 2014
+
+Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin will be taken over and the methods by which it will happen.](https://www.youtube.com/watch?v=q-sMbf2OzOY&feature=youtu.be)
 
 >Let's not kill it outright. It's big enough now that people will see what we've done. What they're going to try to do is throw little bits of sand in it until most people find it too cumbersome to use. That is the great danger. 
 
-**17 November 2014:** [Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
+### 17 November 2014
+
+[Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
 
 Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream) that "Blockstream plans to extend the capabilities of Bitcoin through sidechains technology."
 
-**06 January 2015:** Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
+### 06 January 2015
+
+Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
 
 >My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
 
-**07 January 2015:** Mircea Popescu [describes a plan to manipulate the market and financially harm anyone supporting Bitcoin XT.](http://btcbase.org/log/?date=07-01-2015#967332) The attack is described further in a [blog post](http://qntra.net/2015/01/the-hard-fork-missile-crisis/) by another Bitcoin Core supporter.
+### 07 January 2015
+
+Mircea Popescu [describes a plan to manipulate the market and financially harm anyone supporting Bitcoin XT.](http://btcbase.org/log/?date=07-01-2015#967332) The attack is described further in a [blog post](http://qntra.net/2015/01/the-hard-fork-missile-crisis/) by another Bitcoin Core supporter.
 
 >As the Giga-blockchain and main-blockchain continue to grow from the fork, those actively attacking the Giga-Blockchain will create many transactions that allow their main-blockchain coins to duplicate over to the Giga-blockchain while remaining safely on the main-blockchain. The transactions that succeed can then be used to acquire more main-blockchain coins upon which the cycle repeats. Eventually the blockchain with the most financial resources behind it will continue to grow at a faster pace, while the other slowly, and eventually stops growing altogether.
 >
