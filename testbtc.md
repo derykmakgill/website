@@ -19,6 +19,8 @@ title: Timeline History of Bitcoin Scaling
 
 **Always incomplete.** I may add new material to this document in the future or edit existing material. If the edits are trivial—spelling, dates, typos, etc, I won't make a note of them. If the edits are because a piece of information I included as true was fundamentally wrong, I will do a strikethrough and add a linked footnote with a correction.
 
+---
+
 ## 29 October 1995
 
 In a discussion about Digicash on the Cypherpunk Mailing List, 
