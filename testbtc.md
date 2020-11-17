@@ -183,6 +183,8 @@ This is an important point to remember because we will see in the coming years t
 
 >Bitcoin is not a micro-payment system. Until someone creates one that works with Bitcoin reasonably, it probably shouldn't be mentioned as a feature.
 
+---
+
 ## 16 November 2013
 
 Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
@@ -199,6 +201,8 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 >I know, I'll admit he kinda creeps me out a bit sometimes... he's admitted he reads all my posts.
 
+---
+
 ## 26 May 2014
 
 [Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
@@ -206,6 +210,8 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 >But if it doesn’t stay that way, I will find you and I will kill you with my bare hands, how about that.
 
 Mircea is banned from Twitter.
+
+---
 
 ## 05 October 2014
 
@@ -261,6 +267,8 @@ He later writes that [SatoshiDice is being punished for being too popular.](http
 Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c46)
 
 A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
+
+---
 
 ## 06 October 2014
 
