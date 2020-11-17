@@ -203,3 +203,42 @@ How come you think that it's free to . . ."
 Who so blind as will not see;
 
 The state, the state, is after me.
+```
+
+## Anarchy is Not Chaos
+
+
+```
+In Washington there isn't any plan
+
+With "feeding David" on page sixty-four;
+
+It must be accidental that the milk man
+
+Leaves a bottle at my door.
+
+It must be accidental that the butcher
+
+Has carcasses arriving at his shop
+
+The very place where, when I need some meat,
+
+I accidentally stop.
+
+My life is chaos turned miraculous;
+
+I speak a word and people understand
+
+Although it must be gibberish since words
+
+Are not produced by governmental plan.
+
+Now law and order, on the other hand
+
+The state provides us for the public good;
+
+That's why there's instant justice on demand
+
+And safety in every neighborhood.
+```
+
