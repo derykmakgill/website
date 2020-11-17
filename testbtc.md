@@ -89,6 +89,30 @@ Satoshi Nakamoto [emails Wei Dai](https://www.gwern.net/docs/bitcoin/2008-nakamo
 
 ---
 
+## 14 February 2010
+
+Satoshi deletes what appears to be unfinished rudimtentary code for a p2p marketplace in a commit labeled ["strip out unfinished product, review and market stuff."](https://github.com/bitcoin/bitcoin/commit/cc4b78d59f566ff43881f57797a16ce45eb1b80ez) Though the code was never finished, it suggests Satoshi intended for Bitcoin to be used in commerce early on.
+
+Bitcoin developer Mike Hearn [commented](http://eigenjoy.com/2014/05/17/bitcoin-2014-amsterdam-day-two-notes/) on this years later.
+
+>When Satoshi launched bitcoin he was working on a p2p marketplace and you would be able to rate buyers and sellers and the weight would be according to how much mining they had done. He realized there were more important priorities.
+
+---
+
+## 14 July 2010
+
+A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client.
+
+---
+
+## 22 July 2010
+
+The Bitcoin.org website on [Wayback Archive](https://web.archive.org/web/20100722094110/http://www.bitcoin.org:80/) lists the main advantages of Bitcoin on the homepage. In bold, it says:
+
+> Bitcoin transactions are practically free, whereas credit cards and online payment systems typically cost 1-5% per transaction plus various other merchant fees up to hundreds of dollars.
+
+---
+
 ## 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
