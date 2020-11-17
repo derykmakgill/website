@@ -141,6 +141,8 @@ Peter Todd releases a highly downvoted video on why the [blocksize limit keeps B
 
 The YouTube responses are mostly negative and some are worth looking more at.
 
+---
+
 ## 28 May 2013
 
 In the ongoing discussion about the Peter Todd video, a forum member [points out](https://bitcointalk.org/index.php?topic=208200.msg2293256#msg2293256) that Peter Todd's limited blocks + high fees solution will lead to proprietary payment networks, a sort of PayPal 2.0 rather than what Bitcoin was intended to be.
@@ -153,11 +155,15 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 >
 >The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
 
+---
+
 ## 30 August 2013
 
 [Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
 
 >I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+
+---
 
 ## 18 September 2013
 
