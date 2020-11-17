@@ -282,6 +282,8 @@ He also writes that the expectation of Bitcoin holders from the start has always
 
 >I think the maximum block size must be increased for the same reason the limit of 21 million coins must NEVER be increased: because people were told that the system would scale up to handle lots of transactions, just as they were told that there will only ever be 21 million bitcoins.
 
+---
+
 ## 22 October 2014
 
 [*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
@@ -294,6 +296,8 @@ The paper is co-authored by Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenba
 
 > ...finding additional alternative ways of scaling Bitcoin is what stared me working on sidechains...
 
+---
+
 ## 23 October 2014
 
 Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
@@ -305,6 +309,8 @@ The co-founders are listed as: Adam Back, Gregory Maxwell, Pieter Wuille, Matt C
 Greg Maxwell is asked in an AMA about the profit-model of Blockstream and [gives a non-specific answer.](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/clhoo7d/)
 
 >Right now our focus is on building out the base infrastructure so that there is actually a place to build the revenue producing business we'd like to have, and then we hope to circulate that back into building more good technology.
+
+---
 
 ## 06 November 2014
 
