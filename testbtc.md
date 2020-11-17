@@ -318,6 +318,8 @@ Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin wil
 
 >Let's not kill it outright. It's big enough now that people will see what we've done. What they're going to try to do is throw little bits of sand in it until most people find it too cumbersome to use. That is the great danger. 
 
+---
+
 ## 17 November 2014
 
 [Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
