@@ -7,149 +7,11 @@ or
 
 ## A timeline history of Bitcoin: lies, propaganda, censorship, and more
 
-
-## FAQ (maxis read this first)
-
-**bcash is dead. Bitcoin moon. You lose. Why are you writing this?** I'll be the first person to admit in 2020 that the big-block Bitcoin fork experiment may be dead. Drama, network splits, bad decisions, and failure to grow quickly enough have made me less bullish on the success of Bitcoin Cash or Bitcoin SV than ever. But the failure of these experiments does not mean that Bitcoin itself shouldn't have continued along its intended scaling path, it only means that bootstrapping a minority chain may be impossible. Regardless, it is not my intention to prove that Bitcoin should not have changed to become something different than what Satoshi Nakamoto intended. It is only to document the history of how it changed, and to demonstrate that it was not technical or economic arguments that captured Bitcoin, but a social attack of lies, propaganda, threats, censorship, state action, and more.
-
-**Are you a shitcoiner?** No, I believe only one coin can "win" and that the coin that wins will almost certainly be some version Bitcoin with the same database going back to the genesis block. I would not be surprised if BTC is that coin. I would however, be disappointed unless I saw serious improvements over the next few decades. Bitcoin promised to be a lot more than what BTC has thus far delivered. This document, essay, timeline—whatever you want to call it—will show that.
-
-**Who the hell even are you?** Armchair researcher. I have no special qualifications whatsoever other than that I read a lot more than most people and have, not to flatter myself too much, a *very* good memory. But all more sources are cited and you can judge them for yourself. 
-
-## Methods and Disclaimers
-
-**Not for goldfish.** This is not a short narrative or listicle. It's a *very* long data-dump covering over a decade of history. It is organised chronologically and can be read straight through or by jumping around to dates that interest you. There is a *lot* of material here which has never before appeared together, and if I suspect the main criticism of this paper will be that I was rather not selective enough. If you want shorter essays, I can recommend John Blocke's fantastic essay on the [censorship of r/bitcoin](https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43) and Daniel Morgan's excellent [scaling debate timeline](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada). If you're new to the history of Bitcoin, those are also good places to start before wade through this.
-
-**No narrative claims.** I'm deliberately leaving out editorializing about grand conspiracies to co-opt Bitcoin. I have my own thoughts on that but in my own experience, starting with those claims tends to make people ignore the well-documented facts that show, whether the effort was intentional, coordinated, or not, it was corrupt, coercive, and effective. Instead I invite readers to form their own conclusions from the timeline of evidence and I hope people may see patterns that I did not. All of that said, I won't leave out information just because it lends itself to a particular theory. If I believe it is true, I have included it.
-
-**Always incomplete.** I may add new material to this document in the future or edit existing material. If the edits are trivial—spelling, dates, typos, etc, I won't make a note of them. If the edits are because a piece of information I included as true was fundamentally wrong, I will do a strikethrough and add a linked footnote with a correction.
-
-## 2006
-
-**22 January 2006:** Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia,](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/) many of the same tactics he would later use in Bitcoin.
-
->(Copied from WP:AN/3RR, because there were edits that amounted to vandalism, as well as excessive reverting)
->
->He has reverted Template:User freedom seven times despite repeated calls to stop from multiple editors. The version he is reverting to is far different from what the creators and users intended it for. I consider these edits to be an act of vandalism.
-
->I'm also surprised by the length of the block, because he was engaged in vandalism, not just edit warring. I'd block him myself but I was involved in a dispute with him over an image recently. Three examples of the edits I see as vandalism: he changed a box supporting the American military to one supporting the Iraqi insurgents. He inserted an image of a woman "hogtied" and gagged into a box opposing fox hunting, and changed the fox hunting link to BDSM. On Template:Wikiproject Terrorism, he replaced the image of a terrorist with one of a nuclear explosion.  
-
->Alert to all admins. Gmaxwell is going around to every user page that displays any kind of thumbnail or flag from Wikipedia Commons and declaring them "copyright violation". He is then blanking the user page and putting up a copyright violation notice. Is there any justification for this?
-
->Yes, I inadvertently fell foul of that a while ago. On that occasion, though, the person who alerted me merely removed the image and left me a polite note in explanation. Gmaxwell has for some time been behaving very oddly and aggressively with regard to image violations (real or occasionally imagined). Here, he's misapplying a rule about fair-use images to the use of public-domain images, and doing so in a heavy-handed manner.
-
->I've spoken to him several times about his aggression, since a dispute I had with him recently about an image (in which he called me "hysterical" and accused me of vandalism because I dared to revert his removal of it). What with this today and his behavior last night (see above), I'm unsure of the best way is to proceed, but something needs to happen.
-
->His behaviour is outrageous. Firstly, where fairuse images are wrongly on user pages it is invariably due to a misunderstanding, not an attempt to break the law. All he had to do was leave a message, not post a massive notice all but accusing the user of being a lawbreaker. Secondly, he is not removing the offending image, but all images, even those that can be displayed. Thirdly, blanking a user's page is grossly disrespectful to other users. Frankly, he is out of control at this stage. This bullying behavour of his has to stop.
-
->I move that all his edits be reverted and considered petty vandalism, and that the said user be blocked for a period of one week. We don't have time to entertain him or his dubious edits.
-
->OK, his contribs list is beyond the pale. It's vandalism, pretty clearly.
-
->On the evidence, it seems that Majorityrule was a sockpuppet of Gmaxwell. I have extended Maxwell's block to one week. Given his behaviour, if they are an admin perhaps a move should be made to have them desysoped.
-
->He isn't an admin and supeficially performing exactly the same set of edits does suggest a sock puppet (my initial reaction), though of course it's possible that it is someone up to mischief.
-
->He's not known for making "reasonable, patient attempts to protect the Foundation," unfortunately, but for acts of aggression that have led other users to leave the project. I'm concerned that, in his most recent statements, he has announced his intention to continue being disruptive, and has said he'll evade any blocks that are applied. That's a direct threat to the project, not an attempt to protect it.
-
->Today he seemed to indicate he has no intention of following our policies:
->
->"Like I give a crap about being blocked, it doesn't even inhibit me from editing."
->
->"Man. You think I've stopped because I'm blocked? Please! Blocking doesn't actually stop anyone but twits!" 
->
->"You're still wrong about me being blocked accomplishing *anything*, since I can still edit whenever I please... in fact, being blocked gives me far less incentive to be nice about it, in so far as there can be far less than nearly none at all."
->
->"I feel great because I can still do what I want, and I don't have to worry what rude jerks think about me ... I can continue to do whatever I think is right without the burden of explaining myself to a shreaking [sic] mass of people." 
->
->That's not even to mention the personal attacks.
-
->My opinion of this user is that he is a very dangerous individual whose edits speak for themselves. Full of sarcasm, threats, rude insults, impersonations of an admin, not to mention massive disprect of other users and blanking of user pages. I'm all about forgiving, but this is banable behavior. If further incidents occur, a ban would be warranted. 
-
-## 2008: Bitcoin Announced. Early Support and Opposition.
-
-**16 April 2008:** Early Bitcoin code generated by Satoshi prior to the release of Bitcoin shows [scraps of code for an online poker game,](https://sourceforge.net/p/bitcoin/code/1/tree/trunk/uibase.cpp) suggesting Satoshi intended from the start that Bitcoin would be useable for small online payments.
-	
-<pre style="overflow:scroll;">
-CPokerLobbyDialogBase::~CPokerLobbyDialogBase()
-{
-    // Disconnect Events
-    m_treeCtrl->Disconnect(wxEVT_COMMAND_TREE_SEL_CHANGED, wxTreeEventHandler(CPokerLobbyDialogBase::OnTreeSelChanged), NULL, this);
-    m_listCtrl->Disconnect(wxEVT_COMMAND_LIST_ITEM_ACTIVATED, wxListEventHandler(CPokerLobbyDialogBase::OnListItemActivated), NULL, this);
-    m_listCtrl->Disconnect(wxEVT_COMMAND_LIST_ITEM_SELECTED, wxListEventHandler(CPokerLobbyDialogBase::OnListItemSelected), NULL, this);
-    m_buttonNewTable->Disconnect(wxEVT_COMMAND_BUTTON_CLICKED, wxCommandEventHandler(CPokerLobbyDialogBase::OnButtonNewTable), NULL, this);
-}
-
-CPokerDialogBase::CPokerDialogBase(wxWindow* parent, wxWindowID id, const wxString& title, const wxPoint& pos, const wxSize& size, long style) : wxFrame(parent, id, title, pos, size, style)
-{
-    this->SetSizeHints(wxDefaultSize, wxDefaultSize);
-
-    wxBoxSizer* bSizer174;
-    bSizer174 = new wxBoxSizer(wxVERTICAL);
-
-    m_checkSitOut = new wxCheckBox(this, wxID_ANY, wxT("Deal Me Out"), wxDefaultPosition, wxDefaultSize, 0);
-
-    bSizer174->Add(m_checkSitOut, 0, wxALL, 5);
-
-    m_buttonDealHand = new wxButton(this, wxID_DEALHAND, wxT("&Deal Hand"), wxDefaultPosition, wxSize(150,25), 0);
-    bSizer174->Add(m_buttonDealHand, 0, wxALL, 5);
-
-    m_buttonFold = new wxButton(this, wxID_FOLD, wxT("&Fold"), wxDefaultPosition, wxSize(80,25), 0);
-    bSizer174->Add(m_buttonFold, 0, wxALL, 5);
-
-    m_buttonCall = new wxButton(this, wxID_CALL, wxT("&Call"), wxDefaultPosition, wxSize(80,25), 0);
-    bSizer174->Add(m_buttonCall, 0, wxALL, 5);
-
-    m_buttonRaise = new wxButton(this, wxID_RAISE, wxT("&Raise"), wxDefaultPosition, wxSize(80,25), 0);
-    bSizer174->Add(m_buttonRaise, 0, wxALL, 5);
-
-    m_buttonLeaveTable = new wxButton(this, wxID_LEAVETABLE, wxT("&Leave Table"), wxDefaultPosition, wxSize(90,25), 0);
-    bSizer174->Add(m_buttonLeaveTable, 0, wxALL, 5);
-
-    m_textDitchPlayer = new wxTextCtrl(this, wxID_DITCHPLAYER, wxEmptyString, wxDefaultPosition, wxSize(45,-1), wxTE_PROCESS_ENTER);
-    bSizer174->Add(m_textDitchPlayer, 0, wxALL, 5);
-
-    m_checkPreFold = new wxCheckBox(this, wxID_ANY, wxT("FOLD"), wxDefaultPosition, wxSize(100,-1), 0);
-
-    bSizer174->Add(m_checkPreFold, 0, wxALL, 5);
-
-    m_checkPreCall = new wxCheckBox(this, wxID_ANY, wxT("CALL"), wxDefaultPosition, wxSize(100,-1), 0);
-
-    bSizer174->Add(m_checkPreCall, 0, wxALL, 5);
-
-    m_checkPreCallAny = new wxCheckBox(this, wxID_ANY, wxT("CALL ANY"), wxDefaultPosition, wxSize(100,-1), 0);
-
-    bSizer174->Add(m_checkPreCallAny, 0, wxALL, 5);
-
-    m_checkPreRaise = new wxCheckBox(this, wxID_ANY, wxT("RAISE"), wxDefaultPosition, wxSize(100,-1), 0);
-
-    bSizer174->Add(m_checkPreRaise, 0, wxALL, 5);
-
-    m_checkPreRaiseAny = new wxCheckBox(this, wxID_ANY, wxT("RAISE ANY"), wxDefaultPosition, wxSize(100,-1), 0);
-
-    bSizer174->Add(m_checkPreRaiseAny, 0, wxALL, 5);
-</pre>
-
-
-## 2010
-
-**14 July 2010:** A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client, effectively limiting the amount of transactions that could ever be processed on the Bitcoin network in a ten minute period. It's important to understand that the 1MB block size limit was considered a temporary hack by Satoshi and everybody involved in Bitcoin at the time, as this fact would soon be swept under the rug.
-
-**19 September 2010:** After some discussion, Hal Finney, Satoshi (Bitcoin’s creator), and the user ‘Cryddit,’ who is Ray Dallingerr, on Bitcointalk imposed a [1MB default block size](https://github.com/bitcoin/bitcoin/commit/172f006020965ae8763a0610845c051ed1e3b522) to reduce the chance of spam transactions hijacking blockspace, or the possibility of cheap DoS attacks. [Cryddit below explains why this limit was put in place:](https://bitcointalk.org/index.php?topic=946236.msg10388435#msg10388435)
-
->I'm the guy who went over the blockchain stuff in Satoshi's first cut of the bitcoin code.  Satoshi didn't have a 1MB limit in it. The limit was originally Hal Finney's idea.  Both Satoshi and I objected that it wouldn't scale at 1MB.  Hal was concerned about a potential DoS attack though, and after discussion, Satoshi agreed.  The 1MB limit was there by the time Bitcoin launched.  But all 3 of us agreed that 1MB had to be temporary because it would never scale.
->
->Several attempted "abuses" of the blockchain under the 1MB limit have proved Hal right about needing the limit at least for launching purposes.  A lot of people wanted to piggyback extraneous information onto the blockchain, and before miners (and the community generally) realized that blockchain space was a valuable resource they would have allowed it.  The blockchain would probably be several times as big a download now if that limit hadn't been in place, because it would have a lot of random 1-satoshi transactions that exist only to encode information for altcoins etc.
->
->At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
-
 ## 2011: The beginnings of censorship
 
-**26 April 2011:** Satoshi sends what would be his final email to Gavin Andresen and disapears. Without Satoshi there to explain Bitcoin and his vision for it, factions would begin to emerge about what Satoshi *really* intended.
+**16 June 2011:** The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
 
-**16 June 2011:** The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0) one of the earlier examples of censorship in Bitcoin. 
-
-**29 June 2011:** One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls.
+**29 June 2011:** One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls are shouting people down.
 
 >forum.bitcoin.org is the single worst place on the internet to talk about bitcoin. Dissenting voices are regularly shouted down or dismissed as trolls. Moderators are now deleting longstanding threads of great interest. The worst part is, in bitcoin-forumland, the internet is nothing but America.
 
@@ -179,8 +41,234 @@ John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that hi
 
 Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
 
-**17 May 2013:** Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to [leaked emails.](https://archive.is/PK1I1)
+**17 May 2013:** Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to the [leaked emails.](https://archive.is/PK1I1)
 
 <script src="https://fast.wistia.com/embed/medias/j58llpj0w6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div style="margin-bottom: 15px;" class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative; margin-bottom: 15px;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%; margin-bottom: 10px;"><div class="wistia_embed wistia_async_j58llpj0w6 videoFoam=true" style="height:100%;position:relative;width:100%; margin-bottom: 10px;"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%; margin-bottom: 10px;"><img src="https://fast.wistia.com/embed/medias/j58llpj0w6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%; margin-bottom: 15px;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 
 The YouTube responses are mostly negative and some are worth looking more at.
+
+**28 May 2013:** In the ongoing discussion about the Peter Todd video, a forum member [points out](https://bitcointalk.org/index.php?topic=208200.msg2293256#msg2293256) that Peter Todd's limited blocks + high fees solution will lead to proprietary payment networks, a sort of PayPal 2.0 rather than what Bitcoin was intended to be.
+
+>This is just my opinion, but I think the vast majority of people would prefer a fully automated p2p network that's made up of thousands of nodes operated by enterprises, than a fully automated p2p network with hundreds of thousands of nodes operated by hobbyists, but with the disadvantage that you need to trust third party payment processors for any kind of real world use of currency.
+>
+>If we're going to use proprietary networks (and they have to be networks to avoid expensive on-chain transactions) to transfer bitcoin credit, instead of bitcoin itself around, we can just use banks, or some successor to e-gold or something.
+>
+>Limiting Bitcoin to 7 tps in my opinion virtually guarantees it will never have significant impact, because I believe people will opt for government-regulated networks, or alternative blockchains, if Bitcoin, as a p2p network, loses its transaction fee advantage.
+>
+>The 1 MB cap was put in place as a temporary measure, until a better way to control transaction spam was found. Trying to make the limit permanent is trying to change the vision of Bitcoin as originally conceived.
+
+**30 August 2013:** [Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
+
+>I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+
+**18 September 2013:** Theymos writes in a now [deleted post](https://archive.is/YAYq6) that a handful of moderators should not control "truth" on the Bitcoin forums.
+
+>The free and open discussions on this forum help individuals and the Bitcoin community achieve Truth. Everyone has some wisdom or knowledge to contribute to a discussion, and everyone who reads the discussion and gains that knowledge gets closer to the Truth. This is much more effective than having truth dictated by a handful of moderators or voted on by an electorate.
+
+This is an important point to remember because we will see in the coming years that Theymos starts doing exactly the opposite with devestating effects.
+
+**The same day:** Luke Dashjr creates a Github issue to [remove any mention of micropayments from Bitcoin.org.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/247#issue-19702662)
+
+>Bitcoin is not a micro-payment system. Until someone creates one that works with Bitcoin reasonably, it probably shouldn't be mentioned as a feature.
+
+**16 November 2013:** Some of John Dillon's [emails leaked in an alleged hack.](https://bitcointalk.org/index.php?topic=335658.0)
+
+The emails prove that someone who *claimed* to be US intelligence agent was instrumental in funding the video Peter Todd made about keeping the Bitcoin blocks small. He also asks about potentially hiring Peter Todd to implement some "important" Bitcoin features. Some selections from the leak are provided below.
+
+>Please don't make this public, but my day job involves intelligence, and I'm in a relatively high position.
+
+>To clarify Keep Bitcoin Free! is Peter's project, not mine. I only contributed funds and offered to let him use my name publicly as a supporter.
+
+>I see that Peter Todd recently completed his audit report, even writing a small patch for Litecoin. Could you comment a bit on how that process went? I and someone else may want to hire him directly, as opposed to the bounties I've offered before, to implement some Bitcoin features and we want to get a sense of how it all went.
+
+Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be obsessed with him.
+
+>I know, I'll admit he kinda creeps me out a bit sometimes... he's admitted he reads all my posts.
+
+**26 May 2014:** [Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
+
+>But if it doesn’t stay that way, I will find you and I will kill you with my bare hands, how about that.
+
+Mircea is banned from Twitter.
+
+**05 October 2014:** A user reported an issue on the Gentoo bug forum that a version of [bitcoind (the official reference client for interacting with the bitcoin network) distributed with Gentoo was blocking particular bitcoin addresses.](https://bugs.gentoo.org/524512)
+
+The posting showed Gentoo output blocking a transaction with a SatoshiDice address, which had been blacklisted, and complains that Luke Dashjr is responsible.
+
+>Enabling the stupidmoralnazi aka ljr [Luke Dashjr] use flag results in errors like these:
+>
+>2014-10-05 11:38:09 ERROR: AcceptToMemoryPool : ignoring transaction                289673d37df1a709829b3f3ea7b8549703f4251f26f5721863aacbccc47b95a9 with blacklisted output (SatoshiDice)
+>
+>A currency is worthless the moment you declare that you can use it to buy a bible but not the korean because we don't like that one.
+
+Luke replies "no sign anything is actually broken here. Looks like just a troll. Status: INVALID or WORKSFORME?”
+
+It turned out that Luke had quietly blacklisted the known addresses of several of the highest transaction-volume businesses in Bitcoin. At the time SatoshiDice in particular [was the most popular Bitcoin gambling site in the world.](https://www.coindesk.com/bitcoin-company-acquisitions-begin-gambling-site-satoshidice-sells-for-11-5m-126315-btc)
+
+The [relevant part of the code](https://pastebin.com/4xu8avtZ) is below:
+	
+```
++static struct BlacklistEntry BlacklistedPrefixes[] = {
++    {0x946cb2e0, 0x946cb2e0, "Mastercoin"},
++    {0x06f1b600, 0x06f1b6ff, "SatoshiDice"},
++    {0x74db3700, 0x74db59ff, "BetCoin Dice"},
++    {0xc4c5d791, 0xc4c5d791, "CHBS"},  // 1JwSSubhmg6iPtRjtyqhUYYH7bZg3Lfy1T
++    {0x434e5452, 0x434e5452, "Counterparty"},
++    {0x069532d8, 0x069532da, "SatoshiBones"},
++    {0xda5dde84, 0xda5dde94, "Lucky Bit"},
++};
+```
+
+In the later discussion on the bug forum, Dashjr called the businesses a [“DDoS attack on the bitcoin network“.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c7)
+
+Another user rightly points out that this is nonsense and that the patch is censoring Bitcoin and [changing how users expect it to work.](https://bugs.gentoo.org/524512#c8)
+
+>No, it's really not a DoS attack.
+>
+>There isn't a single reputable journalist or non-fringe blogger who refers to the popularity of the business model of satoshi dice and the other blocked businesses as a "DoS attack"
+>
+>There is nothing protocol-wise which is invalid about the transactions coming from the sources which are being blacklisted by this patch...
+
+>... this patch is actively censoring and changing the behaviors of bitcoin to no longer act the usual way as defined by the the official non-patched defaults.
+
+He later writes that [SatoshiDice is being punished for being too popular.](https://bugs.gentoo.org/524512#c6)
+
+>Just to want to clarify on why the censorship is happening:
+>
+>The (alleged) attack in question is nothing more than a popular business model which has been attractive and actively used to the point where a non-small amount of traffic was generated by the sites in question. Satoshi Dice, for instance, was widely used enough that it became a target for discrimination.
+>
+>Paraphrased: "Too popular, and therefore there is a risk of the bitcoin network running out of capacity because of such business plans and their subsequent usage of bitcoin as a method for conducting business operations"
+
+Luke later posted an apology and [removed the patch.](https://bugs.gentoo.org/show_bug.cgi?id=524512#c46)
+
+A year later, he wrote that the [trolls were lying and he never added blacklists to anything.](https://np.reddit.com/r/Bitcoin/comments/2zwwpi/i_feel_like_we_need_another_darkwallet_funding/cpnfgr1/)
+
+**06 October 2014:** Gavin Andresen [publishes a post](https://web.archive.org/web/20150130122517/https://blog.bitcoinfoundation.org/a-scalability-roadmap/) proposing that the 1MB limit be raised to allow for scalability.
+
+He argues that the 1mb fix was always a temporary hack and that Satoshi always intended to raise the block size.
+
+>Back in 2010, after Bitcoin was mentioned on Slashdot for the first time and bitcoin prices started rising, Satoshi rolled out several quick-fix solutions to various denial-of-service attacks. One of those fixes was to drop the maximum block size from infinite to one megabyte (the practical limit before the change was 32 megabytes– the maximum size of a message in the p2p protocol). The  intent has always been to raise that limit when transaction volume justified larger blocks.
+
+He also writes that the expectation of Bitcoin holders from the start has always been that Bitcoin would scale up and that meeting those expectations is the same as meeting the expectation that Bitcoin would never increase the coin limit.
+
+>I think the maximum block size must be increased for the same reason the limit of 21 million coins must NEVER be increased: because people were told that the system would scale up to handle lots of transactions, just as they were told that there will only ever be 21 million bitcoins.
+
+**22 October 2014:** [*Enabling Blockchain Innovations with Pegged Sidechains*](https://blockstream.com/sidechains.pdf) is published. The paper
+
+>Because sidechains are still block chains independent of bitcoin, they are free to experiment with new transaction designs, trust models, economic models, asset issuance semantics, or cryptographic features.
+
+The paper is co-authored by Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille.
+
+[Greg Maxwell writes in an AMA](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/clhoxvu/) about the paper that he is looking at sidechains as a way to scale Bitcoin without raising the blocksize.
+
+> ...finding additional alternative ways of scaling Bitcoin is what stared me working on sidechains...
+
+**23 October 2014:** Blockstream [announces](https://blockstream.com/2014/10/23/en-why-we-are-co-founders-of-blockstream/) itself to the world on their blog.
+
+>...we propose technology to enable new cryptocurrency networks that do not need new cryptocurrencies (see our sidechains whitepaper for more information, as well as read an interview with the Wall Street Journal BitBeat). Delivering on this vision will require continued investment in and cooperation with the Bitcoin ecosystem as a whole, along with the full-time support of many people with broad and specialized backgrounds. 
+
+The co-founders are listed as: Adam Back, Gregory Maxwell, Pieter Wuille, Matt Corallo, Mark Friedenbach, Jorge Timón , Austin Hill, Jonathan Wilkins, Francesca Hall, and Alex Fowler.
+
+Greg Maxwell is asked in an AMA about the profit-model of Blockstream and [gives a non-specific answer.](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/clhoo7d/)
+
+>Right now our focus is on building out the base infrastructure so that there is actually a place to build the revenue producing business we'd like to have, and then we hope to circulate that back into building more good technology.
+
+**06 November 2014:** Early Bitcoin adopter Stefan Molyneux makes a video predicting that [Bitcoin will be taken over and the methods by which it will happen.](https://www.youtube.com/watch?v=q-sMbf2OzOY&feature=youtu.be)
+
+>Let's not kill it outright. It's big enough now that people will see what we've done. What they're going to try to do is throw little bits of sand in it until most people find it too cumbersome to use. That is the great danger. 
+
+**17 November 2014:** [Blockstream closes a $21M seed round.](https://blockstream.com/2014/11/17/en-blockstream-closes-21m-seed-round/) “Can’t be evil" is the informal motto.
+
+Investor Reid Hoffman [writes](https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream) that "Blockstream plans to extend the capabilities of Bitcoin through sidechains technology."
+
+**06 January 2015:** Mircea Popescu writes a blog post [threatening to destroy any attempt to raise the block size on Bitcoin.](http://trilema.com/2015/if-you-go-on-a-bitcoin-fork-irrespective-which-scammer-proposes-it-you-will-lose-your-bitcoins/) He claims he has a larger budget than anyone to do this.
+
+>My budget to sink this scam exceeds the budget of everyone involved on the supporting side.
+
+**07 January 2015:** Mircea Popescu [describes a plan to manipulate the market and financially harm anyone supporting Bitcoin XT.](http://btcbase.org/log/?date=07-01-2015#967332) The attack is described further in a [blog post](http://qntra.net/2015/01/the-hard-fork-missile-crisis/) by another Bitcoin Core supporter.
+
+>As the Giga-blockchain and main-blockchain continue to grow from the fork, those actively attacking the Giga-Blockchain will create many transactions that allow their main-blockchain coins to duplicate over to the Giga-blockchain while remaining safely on the main-blockchain. The transactions that succeed can then be used to acquire more main-blockchain coins upon which the cycle repeats. Eventually the blockchain with the most financial resources behind it will continue to grow at a faster pace, while the other slowly, and eventually stops growing altogether.
+>
+>It will be impossible for the Giga-chain to keep 1:1 parity with the main chain from which it forks, they contain different transaction, although some may overlap. Here a user broadcasts a transaction with inputs originating on the Main-chain, and is eventually included in a block on the Giga-chain, but not on the Main-chain. The coin is essentially duplicated onto both chains.
+>
+>Those siding with the wrong chain who end up accepting duplicated transactions from the other chain, such as a purchase from an exchange running on the losing blockchain, will lose those coins when the dust settles. No war is without casulties, the Great Blockchain Civil War will be no different.
+
+**12 January 2015:** In response to Gavin Andresen's argument that Bitcoin's block size must be raised so more people can use it, Mircea Popescu writes in an unhinged rant that [Bitcoin is not for poor people.](http://trilema.com/2015/lets-address-some-of-the-more-common-pseudo-arguments-raised-by-the-very-stupid-people-that-like-the-gavin-scamcoin-proposal/)
+
+>Bitcoin isn't for everybody...
+>
+>Should blocks ever become full, older coinbases will be prioritized over newer coinbases, and larger mining fees and transactions prioritized over smaller mining fees and smaller transactions. This means that someone who wishes to pay for very little with Bitcoin will be forced to use something else, so to speak is forced to "give his seat" to someone richer. This is exactly the point and the intent of Bitcoin : to force the poor to yield to the rich, unversally, as a matter of course.
+>
+>You may not like this, but that is entirely an emotional problem of yours, which you're welcome to resolve any way you can: stop being poor, take a lot of pills, whatever...
+>
+>Run along now, back to playing in the mud with the other naked kids in your village. Bitcoin's just not for your kind.
+
+He also asserts without evidence that Gavin Andresen is a mole for the US Government and threatens to "humiliatingly defeat" him.
+
+**07 May 2015:** Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
+
+>But it would have lost critical momentum. It would have become the MySpace of digital currencies. The faithful would have lost a lot of faith, and businesses that were trying to bring Bitcoin to the mainstream would “pivot” towards something else. People who were motivated by Making The World A Better Place™ would conclude the ordinary people around them would never use their products, and so they’d leave.
+
+>I believe there are no situations in which Bitcoin can enter an overload situation and come out with its reputation and user base intact. Both would suffer heavily and as Bitcoin is the founder of the cryptocurrency concept, the idea itself would inevitably suffer some kind of negative repercussions.
+
+**12 June 2015:** Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
+
+![Miners Want Big Blocks](https://miro.medium.com/max/1400/0*3fpU-5KaDHJjXFao.)
+
+In an article translated on Medium, the miners argue:
+
+>If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
+
+**15 June 2015:** Bitcoin.org introduces an official ['position on hard-forks,'](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894) which meant it would not promote XT.
+
+>Bitcoin.org will not promote software or services that will leave the previous consensus because of a contentious hard fork attempt.
+
+The move has support from Theymos, Cobra, Greg Maxwell, Peter Todd, Luke Dashjr, and others according to the Github thread.
+
+![Position on Hard Forks](https://cloud.githubusercontent.com/assets/61096/8162837/d2c9b502-134d-11e5-9a8b-27c65c0e0356.png)
+
+Developer Mike Hearn strongly cririsizes this as a move [towards centraliziation and thought control.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112121007)
+
+>This is very disappointing David. You want to ensure new users don't learn about Bitcoin XT. Why not just say that outright?
+>
+>Your position is wrong and will just reduce bitcoin.org's utility as a place to learn important information.
+>
+>What's more, you are inherently supporting a status quo in which a tiny number of people can veto any change to Bitcoin regardless of how widely supported it is by the rest of the community. That's not decentralisation. And it is ultimately far more dangerous to Bitcoin. If you try and shut down the only method the community has to reject the decisions of this tiny group, you're effectively dooming the project to the whims of whoever happened to be around early on in the project and ended up with commit access.
+>
+>However, if you really want to "pick a side" in this debate like that, then given the wording of your policy if a >1mb chain wins you will have to replace Bitcoin Core completely and not mention it anywhere, as at that point, it would be the implementation leaving the consensus by attempting to produce a contentious hard fork (the 1mb only chain). So are you sure you thought this through? Are you ready for that pull request, if one day it comes?
+
+Will Binns writes that this move will effectively [sway public opinion towards one side of the debate.](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112123722)
+
+>Bitcoin.org should try to say as non-bias as possible in the midst of publicly debated issues. Hundreds of people, if not thousands, are coming to this site every day, many of which are new users learning about Bitcoin for the first time. For existing users in the space, this website is also an incredible resource in most cases.
+>
+>It seems like this post would be in an effort to sway public opinion more-so than anything else. It doesn't provide a complete context nor link to a wider array of information about the underlying issues it references so the reader can form their own opinion - it comes across as forcing a biased one.
+
+Mike Hearn comments again that the clever wording in this policy—"previous consensus—means that [almost all the major payment processors, exchanges, and wallets would need to be deleted](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112124088) in order to be consistent.
+
+>Rereading the policy, there's one more reason this policy is suicide - it says you will delist any wallet or service that announces it will operate on the other side of the "previous consensus".
+>
+>Currently every single wallet bar GreenAddress that we've polled has told us they support bigger blocks.
+>
+>Additionally, every major payment processor we've talked to has also said that.
+>
+>Plus the major exchanges.
+>
+>So to be consistent with this policy you will have to delete every wallet and all major services (except GreenAddress) from the website. This would eliminate bitcoin.org as a useful place to learn about Bitcoin products and services, which is one of the key functions of the site!
+
+He also correctly points out that raising the block size was always Satoshi's plan.
+
+>I understand you are concerned about the notion of a contentious hard fork. I think you're wrong about the possible consequences though. It should be clear from the block chain when the change has reached a sufficient amount of mining power and at that point there would be plenty of time for services to upgrade before the fork actually happens. Nobody should lose any money and nobody should feel disenfranchised: they can just switch to the winning chain and carry on. They can always sell their coins before or after if they really believe that the plan Satoshi had all along is so bad.
+
+After some back and forth, Mike concludes [the policy is entirely abitrary,](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894#issuecomment-112136250) that most people support raising the blocksize including some Blockstream employees, and that not doing so will harm Bitcoin.
+
+>Ah, so your policy is entirely arbitrary then.
+>
+>I can as well argue that in fact this situation is not contentious at all - as I said above, all major players agree on the need for larger blocks, indeed, even some Blockstream employees do (or say they do). It's really just a tiny number of people holding up progress at this point. So if you are going to decide that my definition of contentious is wrong and yours is right, just because "it's easy to say", then why have a policy at all? Why not just admit it's your opinion?
+>
+>Look. I don't mean to be antagonistic. I realise you are attempting to avoid harm to Bitcoin. But remember why Gavin and I are doing this - if the fork does not happen Bitcoin will suffer. You see this as some kind of one-sided deal: if a fork happens it might be bad and hurt Bitcoin, but if it doesn't happen there's no problem!
+>
+>I'm the developer of the first and still most widely used SPV wallets. Aaron Voisine is the developer of the most widely used SPV wallet on iOS. Both of us have reached the same conclusion about what will happen if capacity is not raised: it will hurt Bitcoin, a lot. Many others in the community have also reached that conclusion.
+>
+>By backing stasis you are not backing stability, or helping preserve Bitcoin's value. You are not taking a principled stand for a better development process. You are instead joining up with those who want to drive the network off a cliff. It is not bitcoin.org's place to make such decisions. Please reconsider this policy.
+
+The issue is merged on Github and the page goes live the following day.
