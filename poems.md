@@ -20,6 +20,7 @@ title: The World Began When I Was Born
 11. An American in Europe by Henry Van Dyke
 12. Vademecum — Vadetecum by Friedrich Wilhelm Nietzsche
 13. Libertas in Excelsis by Auberon Herbert
+14. from Anthem by Ayn Rand
 
 ### The Westerner
 
