@@ -19,6 +19,8 @@ title: Timeline History of Bitcoin Scaling
 
 **Always incomplete.** I may add new material to this document in the future or edit existing material. If the edits are trivial—spelling, dates, typos, etc, I won't make a note of them. If the edits are because a piece of information I included as true was fundamentally wrong, I will do a strikethrough and add a linked footnote with a correction.
 
+**Goals.** I hope writers, filmmakes, researchers and other creators will be able to make use of the information here in their own projects. I have no delusions that this paper itself will be a giant hit—it is much too long for that—but the material here could fuel documentaries, books, essays, art, research and a lot moe.
+
 ---
 
 ## 29 October 1995
