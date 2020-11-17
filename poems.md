@@ -69,9 +69,9 @@ That you don't have to keep!
 
 ## What is a Communist?
 
-``
+```
 What is a communist? One who hath yearnings
-For equal division of unequal earnings:
+For equal division of unequal earnings: 
 Idler, or bungler, or both, he is willing
 To fork out his penny, and pocket your shilling.
 And he has two names, Legion and Danger.
