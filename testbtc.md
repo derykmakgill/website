@@ -14,13 +14,7 @@ In a discussion about Digicash on the Cypherpunk Mailing List,
 James A. Donald [critisizes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
 the early electronic cash for having high fees.
 
->While Chaum is a brilliant cryptographer, he is an incompetent businessman
->
->He has demonstrated this in numerous ways.
->
->The latest being "Cash" where the bank skims off 4% to 10% every time.
->
->No one is going to use digicash under these kinds of terms and 
+>While Chaum is a brilliant cryptographer, he is an incompetent businessman. He has demonstrated this in numerous ways. The latest being "Cash" where the bank skims off 4% to 10% every time. No one is going to use digicash under these kinds of terms and 
 conditions.
 
 ---
