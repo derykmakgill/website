@@ -21,6 +21,8 @@ title: The World Began When I Was Born
 12. Vademecum — Vadetecum by Friedrich Wilhelm Nietzsche
 13. Libertas in Excelsis by Auberon Herbert
 14. from Anthem by Ayn Rand
+15. Success by Henry Wadsworth Longfellow
+16. A Thousand to One by Berton Braley
 
 ### The Westerner
 
@@ -76,6 +78,8 @@ And the world began when I was born
 And the world is mine to win.
 </pre>
 
+<small>Gaius Valerius Catullus (ca. 84–85 BC) was a Latin poet of the late Roman Republic. (Poem translated by Thomas Campion in 1601.)</small>
+
 ### Untitled
 
 <pre style="font-family: serif;">
@@ -84,6 +88,8 @@ The fortunes he does reap?
 Bless him, he's one brother 
 That you don't have to keep!
 </pre>
+
+<small>Gaius Valerius Catullus (ca. 84–85 BC) was a Latin poet of the late Roman Republic. (Poem translated by Thomas Campion in 1601.)</small>
 
 ### What is a Communist?
 
@@ -94,6 +100,8 @@ Idler, or bungler, or both, he is willing
 To fork out his penny, and pocket your shilling.
 And he has two names, Legion and Danger.
 </pre>
+
+<small>Gaius Valerius Catullus (ca. 84–85 BC) was a Latin poet of the late Roman Republic. (Poem translated by Thomas Campion in 1601.)</small>
 
 ### If
 
@@ -622,4 +630,59 @@ this god who will grant them joy and peace and pride.
 This god, this one word:
 
 “I.”
+</pre>
+
+### Success
+
+<pre style="font-family: serif;">
+We have not wings, we cannot soar;
+But we have feet to scale and climb
+By slow degrees, by more and more,
+The cloudy summits of our time.
+
+The mighty pyramids of stone
+That wedge-like cleave the desert airs,
+When nearer seen and better known,
+Are but gigantic flights of stairs.
+
+The distant mountains, that uprear
+Their solid bastions of the skies,
+Are crossed by pathways that appear
+As we to higher levels rise.
+
+The heights by great men reached and kept
+Were not attained by sudden flight,
+But they, while their companions slept,
+Were toiling upward in the night.
+</pre>
+
+### A Thousand to One
+
+<pre style="font-family: serif;">
+There’s a thousand “Can’t-be-done-ers”
+For the one who says “It can!”
+But the whole amount of deeds that count
+Is done by the latter clan.
+For the “Can’t-be-done-ers” grumble,
+And hamper, oppose and doubt,
+While the daring man who says “It can!”
+Proceeds to work it out.
+
+There isn’t a new invention
+Beneath the shining sun,
+That was ever wrought by the deed or thought
+Of the tribe of “Can’t-be-done.”
+For the “Can’t-be-done-ers” mutter
+While the “Can-be’s” cool, sublime,
+Make their “notions” work till the others smirk.
+“Oh, we knew it all the time!”
+
+“Oh, the “Can-be’s” clan is meager,
+Its membership is small,
+And it’s mighty few who see their dreams come true
+Or hear fame’s trumpet call;
+But it’s better to be a “Can-be,”
+And labor and dream—and die,
+Than one who runs with the “Can’t-be-done’s”
+Who haven’t the pluck to try.
 </pre>
