@@ -372,6 +372,8 @@ Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks g
 
 >I believe there are no situations in which Bitcoin can enter an overload situation and come out with its reputation and user base intact. Both would suffer heavily and as Bitcoin is the founder of the cryptocurrency concept, the idea itself would inevitably suffer some kind of negative repercussions.
 
+---
+
 ## 12 June 2015
 
 Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
@@ -381,6 +383,8 @@ Chinese miners signed a statement that they want [8MB blocks.](https://www.reddi
 In an article translated on Medium, the miners argue:
 
 >If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
+
+---
 
 ## 15 June 2015
 
