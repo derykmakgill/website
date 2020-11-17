@@ -98,7 +98,7 @@ The posting showed Gentoo output blocking a transaction with a SatoshiDice addre
 >Enabling the stupidmoralnazi aka ljr [Luke Dashjr] use flag results in errors like these:
 >
 >2014-10-05 11:38:09 ERROR: AcceptToMemoryPool: ignoring transaction289673d37df1a709829b3f3ea <br>
-	7b8549703f4251f26f5721863aacbccc47b95a9with blacklisted output (SatoshiDice)
+	7b8549703f4251f26f5721863aacbccc47b95a9 <br> with blacklisted output (SatoshiDice)
 >
 >A currency is worthless the moment you declare that you can use it to buy a bible but not the korean because we don't like that one.
 
