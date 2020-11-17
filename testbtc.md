@@ -11,17 +11,23 @@ or
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
 
+---
+
 ## 29 June 2011
 
 One early Bitcoiner comments that the Bitcoin [forums are becoming a horrible place to discuss things](https://bitcointalk.org/index.php?topic=17872.msg304289#msg304289) because of moderators censoring old threads and trolls are shouting people down.
 
 >forum.bitcoin.org is the single worst place on the internet to talk about bitcoin. Dissenting voices are regularly shouted down or dismissed as trolls. Moderators are now deleting longstanding threads of great interest. The worst part is, in bitcoin-forumland, the internet is nothing but America.
 
+---
+
 ## 01 July 2011 
 
 A forum user complains about the [recent censorship](https://bitcointalk.org/index.php?topic=17872.msg313015#msg313015) on the Bitcoin forums and says he expects more in the future.
 
 >I will not bother contributing to this forum if my posts or even whole threads are going to be removed based on short-term goals by people controlling Bitcoin. Expect to be defaced in future.
+
+---
 
 ## 19 July 2011
 
@@ -38,6 +44,8 @@ Now former moderator u/edzillion [recounted](https://www.reddit.com/r/btc/commen
 >Theymos wasn't much better - wouldn't re-add any of the kicked mods and held it alone himself on some kind of power trip. Things got quite unfriendly after that - partially because theymos is a typical angry asshole libertarian, and partially because the scene grew so much that it was hard to maintain a close community.
 >
 >After a while of lobbying to get back in and failing, I gave up on it but I still feel disabused by that situation. I put a lot of good work into making bitcoin and r/bitcoin what it is today. We were all crazy wide-eyed zealots back then shouting it from the rooftops. I figured I at least deserved some kind of explanation, let alone my modship (which, let's face it is a somewhat useful position in the btc world).
+
+---
 
 ## 18 April 2013 
 
