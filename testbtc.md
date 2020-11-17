@@ -131,6 +131,8 @@ John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that hi
 
 Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
 
+---
+
 ## 17 May 2013
 
 Peter Todd releases a highly downvoted video on why the [blocksize limit keeps Bitcoin free and decentralized](https://bitcointalk.org/index.php?topic=208200.0) that is [paid for](https://bitcointalk.org/index.php?topic=208200.msg2292636#msg2292636) by the psuednonymous US intelligence agent John Dillon according to the [leaked emails.](https://archive.is/PK1I1)
