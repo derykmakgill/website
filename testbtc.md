@@ -68,6 +68,19 @@ Sometime in 2002 (exact date unknown), Nick Szabo publishes [*Shelling Out -- Th
 
 ---
 
+## 22 January 2006
+
+Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia,](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/) many of the same tactics he would later use in Bitcoin.
+
+>I'm also surprised by the length of the block, because he was engaged in vandalism, not just edit warring. I'd block him myself but I was involved in a dispute with him over an image recently. Three examples of the edits I see as vandalism: he changed a box supporting the American military to one supporting the Iraqi insurgents. He inserted an image of a woman "hogtied" and gagged into a box opposing fox hunting, and changed the fox hunting link to BDSM. On Template:Wikiproject Terrorism, he replaced the image of a terrorist with one of a nuclear explosion.  
+
+>Alert to all admins. Gmaxwell is going around to every user page that displays any kind of thumbnail or flag from Wikipedia Commons and declaring them "copyright violation". He is then blanking the user page and putting up a copyright violation notice. Is there any justification for this?
+
+>On the evidence, it seems that Majorityrule was a sockpuppet of Gmaxwell. I have extended Maxwell's block to one week. Given his behaviour, if they are an admin perhaps a move should be made to have them desysoped.
+
+>He isn't an admin and supeficially performing exactly the same set of edits does suggest a sock puppet (my initial reaction), though of course it's possible that it is someone up to mischief.
+
+
 ## 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
