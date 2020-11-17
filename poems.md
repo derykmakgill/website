@@ -321,7 +321,6 @@ Are such thing done on Albion's shore?
 ### An American in Europe
 
 <pre style="font-family: serif;">
-
 'Tis fine to see the Old World, and travel up and down
 Among the famous palaces and cities of renown,
 To admire the crumbly castles and the statues of the kings,—
