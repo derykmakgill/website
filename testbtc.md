@@ -259,6 +259,12 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 ---
 
+## 08 April 2014
+
+Gavin Andresen [steps down as the lead developer for Bitcoin Core](https://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer) and passes the reins to Wladimir van der Laan.
+
+---
+
 ## 26 May 2014
 
 [Mircea Popescu threatens to kill Andreas Antonoplous on Twitter](https://web.archive.org/web/20160503210834/http://www.thecoinfront.com/andreas-antonopolous-threatened-with-murder-over-twitter/) after he says Bitcoin shouldn't just be a tool of the ultra-privileged. 
@@ -497,3 +503,43 @@ After some back and forth, Mike concludes [the policy is entirely abitrary,](htt
 >By backing stasis you are not backing stability, or helping preserve Bitcoin's value. You are not taking a principled stand for a better development process. You are instead joining up with those who want to drive the network off a cliff. It is not bitcoin.org's place to make such decisions. Please reconsider this policy.
 
 The issue is merged on Github and the page goes live the following day.
+
+---
+
+## 20 June 2015
+
+In response to a post on r/Bitcoin about scaling Bitcoin by raising the size of the blocks in Bitcoin XT, Luke Dashjr comments that [Lightning Network does that.](https://np.reddit.com/r/Bitcoin/comments/3aieuj/gavin_andresens_block_size_increase_code_8mb_cap/csd88la/)
+
+At the time, the Lightning Network alpha wasn't even operational.
+
+---
+
+## 13 August 2015
+
+/u/aminok has his post [(archive)](https://archive.is/E75Cx#selection-1969.95-1969.299) deleted, in which he asked the r/Bitcoin mods: “please don’t try to impose your will on the Bitcoin community.” 
+
+>Allow posts that promote hard forks in the sub. A hard fork to raise the hard limit has been part of the development plan for Bitcoin since 2010. Posts about it are entirely appropriate for this subreddit.
+
+He posted a [private message](https://www.reddit.com/r/bitcoin_uncensored/comments/3gxup6/another_meta_post_deleted_in_rbitcoin_what_can_we/cu2j0ea?utm_source=share&utm_medium=web2x) he received from the moderators about it in an uncensored Bitcoin subreddit.
+
+>Regarding the specific post that was removed: There have been several front-page posts about r/Bitcoin's XT-related moderation over the last few days. Your post added nothing to this discussion and was generally repetitive. See the rules:
+>
+>Please avoid repetition — r/bitcoin is a subreddit devoted to new information and discussion about Bitcoin and its ecosystem.
+>
+>Even if you think that something is important, you can't keep bringing it up day after day on r/Bitcoin without some significant+notable additional thoughts/news. It might get upvoted, but overall it's annoying and hurts the usability of r/Bitcoin.
+
+---
+
+## 15 August 2015
+
+A now [deleted](https://www.reddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/) post [(archive)](https://archive.is/rum9c) on /r/bitcoin calling for the moderators to step down garnered more than 2,800 upvotes (91% upvoted), making it one of the highest-voted threads of /r/bitcoin history. The community demonstrated consensus (heh) that the current /r/bitcoin mod squad was corrupt, participating in censorship, and needed to go.
+
+One user comments the following:
+
+>Everytime I have something to say critical of bitcoin or something nice to say about an altcoin I get banned here. These mods censor conversation. It is disingenious to censor anything that isn't pro bitcoin. Stop the circle jerk. (and yes I love bitcoin but don't censor me fucks)
+
+Another user comments that the censorship of Bitcoin XT topics is rallying the community to push back against them.
+
+>The comically open and heavy-handed censorship combined with simple ad hominen attacks (XT is ALTCOIN) makes this feel almost like a troll campaign for the purpose of rallying the community. We all rally against the censorship and mods by running XT. Thus quickly settling consensus rather than dragging it out over months. Maybe. Maybe
+
+Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/)
