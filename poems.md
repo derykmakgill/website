@@ -5,7 +5,7 @@ title: Anthology of Individualist Poetry
 
 ## The Westerner
 
-```
+<pre style="font-family: serif;">
 My fathers sleep on the sunrise plains,
 And each one sleeps alone.
 Their trails may dim to the grass and rains,
@@ -56,30 +56,30 @@ Or a mournful “might have been,”
 For the sun wheels swift from morn to morn
 And the world began when I was born
 And the world is mine to win.
-```
+</pre>
 
 ## Untitled
 
-```
+<pre style="font-family: serif;">
 Why should you begrudge another 
 The fortunes he does reap?
 Bless him, he's one brother 
 That you don't have to keep!
-```
+</pre>
 
 ## What is a Communist?
 
-```
+<pre style="font-family: serif;">
 What is a communist? One who hath yearnings
 For equal division of unequal earnings: 
 Idler, or bungler, or both, he is willing
 To fork out his penny, and pocket your shilling.
 And he has two names, Legion and Danger.
-```
+</pre>
 
 ## If
 
-```
+<pre style="font-family: serif;">
 If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
 If you can trust yourself when all men doubt you,
@@ -115,11 +115,11 @@ If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,   
 Yours is the Earth and everything that’s in it,   
     And—which is more—you’ll be a Man, my son!
-```
+</pre>
 
 ## Invictus
 
-```
+<pre style="font-family: serif;">
 Out of the night that covers me,
       Black as the pit from pole to pole,
 I thank whatever gods may be
@@ -139,11 +139,11 @@ It matters not how strait the gate,
       How charged with punishments the scroll,
 I am the master of my fate,
       I am the captain of my soul.
-```
+      </pre>
 
 ## Paranoia 
 
-```
+<pre style="font-family: serif;">
 This man 1 never saw before
 
 At 3 A.M. breaks down the door
@@ -186,8 +186,6 @@ Doctor, Doctor, come and see
 
 There's really someone after me.
 
- 
-
 Then he asks, as he rips off the sheet,
 
 For our marriage license and tax receipt;
@@ -199,12 +197,12 @@ How come you think that it's free to . . ."
 Who so blind as will not see;
 
 The state, the state, is after me.
-```
+</pre>
 
 ## Anarchy is Not Chaos
 
 
-```
+<pre style="font-family: serif;">
 In Washington there isn't any plan
 
 With "feeding David" on page sixty-four;
@@ -236,11 +234,11 @@ The state provides us for the public good;
 That's why there's instant justice on demand
 
 And safety in every neighborhood.
-```
+</pre>
 
 ## from Paradise Lost
 
-```
+<pre style="font-family: serif;">
 Will ye submit your necks, and choose to bend
 The supple knee? Ye will not, if I trust
 To know ye right, or if ye know yourselves
@@ -257,21 +255,21 @@ Err not? much less for this to be our Lord,
 And look for adoration, to the abuse
 Of those imperial titles, which assert
 Our being ordained to govern, not to serve?
-```
+</pre>
 
 ## from The Conquest of Granada
 
-```
+<pre style="font-family: serif;">
 Obeyed as sovereign by thy subjects be.
 But know that I alone am king of me.
 I am as free as Nature first made man,
 Ere the base laws of servitude began,
 When wild in woods the noble savage ran.
-```
+</pre>
 
 ## A Little Boy Lost
 
-```
+<pre style="font-family: serif;">
 Nought loves another as itself,
 Nor venerates another so,
 Nor is it possible to thought
@@ -301,11 +299,12 @@ And burned him in a holy place
 Where many had been burned before;
 The weeping parents wept in vain.
 Are such thing done on Albion's shore?
-```
+</pre>
 
 ## An American in Europe
 
-```
+<pre style="font-family: serif;">
+
 'Tis fine to see the Old World, and travel up and down
 Among the famous palaces and cities of renown,
 To admire the crumbly castles and the statues of the kings,—
@@ -335,20 +334,20 @@ So it's home again, and home again, America for me!
 I want a ship that's westward bound to plough the rolling sea,
 To the blessed Land of Room Enough beyond the ocean bars,
 Where the air is full of sunlight and the flag is full of stars.
-```
+</pre>
 
 ## Vademecum — Vadetecum
 
-```
+<pre style="font-family: serif;">
 Lured by my style and tendency,
 you follow and come after me?
 Follow your own self faithfully
 take time-and thus you follow me. 
-```
+</pre>
 
 ## Libertas in Excelsis.
 
-```
+<pre style="font-family: serif;">
 Away with the crutches, away with the bribes,
 
 Away with the laws that bind,
@@ -598,4 +597,4 @@ May be stirred to a better thing;
 But the heart of the slave lies chill in its grave,
 
 And knows not the coming of spring.
-```
+</pre>
