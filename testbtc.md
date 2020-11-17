@@ -60,6 +60,20 @@ on the Cypherpunk Mailing List that a successful digital cash project must be ul
 
 >What we want is fully anonymous, *ultra low transaction cost,* transferable units of exchange.  If we get that going the banks will become the obsolete dinasaurs they deserve to become.
 
+---
+
+## May 1999
+
+Nick Szabo publishes [*Micropayments and Mental Transaction Costs.*](https://nakamotoinstitute.org/static/docs/micropayments-and-mental-transaction-costs.pdf) The paper argues against the viability of online micropayments and suggests security is a more important investment than reducing network resource usage to enable cheaper transactions.
+
+---
+
+## ~ 2002
+
+Sometime in 2002 (exact date unknown), Nick Szabo publishes [*Shelling Out -- The Origins of Money.*](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/shell.html) The paper presents a theory of the beginnings of money that would later come to dominate part of the future Bitcoin community.
+
+---
+
 ## 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
