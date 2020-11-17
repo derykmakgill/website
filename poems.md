@@ -7,19 +7,19 @@ title: The world began when I was born
 
 ## List of Poems
 
-- The Westerner by C.B. Clarke
-- Untitled by Anonymous
-- What is a Communist? by Ebenezer Elliott
-- If by Rudyard Kipling
-- Invictus by William Ernest Henley
-- Paranoia by David Friedman
-- Anarchy is Not Chaos by David Friedman
-- from Paradise Lost by John Milton
-- from The Conquest of Granada by John Dryden
-- A Little Boy Lost by William Blake
-- An American in Europe by Henry Van Dyke
-- Vademecum — Vadetecum by Friedrich Wilhelm Nietzsche
-- Libertas in Excelsis by Auberon Herbert
+1. The Westerner by C.B. Clarke
+2. Untitled by Anonymous
+3. What is a Communist? by Ebenezer Elliott
+4. If by Rudyard Kipling
+5. Invictus by William Ernest Henley
+6. Paranoia by David Friedman
+7. Anarchy is Not Chaos by David Friedman
+8. from Paradise Lost by John Milton
+9. from The Conquest of Granada by John Dryden
+10. A Little Boy Lost by William Blake
+11. An American in Europe by Henry Van Dyke
+12. Vademecum — Vadetecum by Friedrich Wilhelm Nietzsche
+13. Libertas in Excelsis by Auberon Herbert
 
 ### The Westerner
 
