@@ -158,8 +158,6 @@ I tell you doctor, honestly,
 
 It seems like someone's after me.
 
- 
-
 I don't think fighting is what I'm made for
 
 But this lottery ticket I never paid for
@@ -175,8 +173,6 @@ With a funeral, free, from a grateful nation.
 But the doctor says I need therapy
 
 For thinking someone is after me.
-
- 
 
 And then there are things I just can't ignore
 
