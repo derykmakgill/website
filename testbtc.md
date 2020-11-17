@@ -364,13 +364,17 @@ He also asserts without evidence that Gavin Andresen is a mole for the US Govern
 
 ---
 
-**07 May 2015:** Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
+## 07 May 2015 
+
+Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
 
 >But it would have lost critical momentum. It would have become the MySpace of digital currencies. The faithful would have lost a lot of faith, and businesses that were trying to bring Bitcoin to the mainstream would “pivot” towards something else. People who were motivated by Making The World A Better Place™ would conclude the ordinary people around them would never use their products, and so they’d leave.
 
 >I believe there are no situations in which Bitcoin can enter an overload situation and come out with its reputation and user base intact. Both would suffer heavily and as Bitcoin is the founder of the cryptocurrency concept, the idea itself would inevitably suffer some kind of negative repercussions.
 
-**12 June 2015:** Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
+## 12 June 2015
+
+Chinese miners signed a statement that they want [8MB blocks.](https://www.reddit.com/r/Bitcoin/comments/3a0n4m/why_upgrade_to_8mb_but_not_20mb/?utm_source=share&utm_medium=web2x) Signatories included the large mining companies F2pool, BTCChina, Antpool, Huobi, and BW.
 
 ![Miners Want Big Blocks](https://miro.medium.com/max/1400/0*3fpU-5KaDHJjXFao.)
 
@@ -378,7 +382,9 @@ In an article translated on Medium, the miners argue:
 
 >If the current network is incapable of supporting blocks larger than 1MB, then Core’s insistence on the block size limit is understandable. But actually, even with the Great Firewall in place, Chinese mining pools have all said they want an 8MB block size.
 
-**15 June 2015:** Bitcoin.org introduces an official ['position on hard-forks,'](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894) which meant it would not promote XT.
+## 15 June 2015
+
+Bitcoin.org introduces an official ['position on hard-forks,'](https://github.com/bitcoin-dot-org/bitcoin.org/pull/894) which meant it would not promote XT.
 
 >Bitcoin.org will not promote software or services that will leave the previous consensus because of a contentious hard fork attempt.
 
