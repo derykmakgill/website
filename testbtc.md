@@ -85,6 +85,13 @@ Sometime in 2002 (exact date unknown), Nick Szabo publishes [*Shelling Out -- Th
 
 ---
 
+
+## 01 August 2002
+
+Adam Back releases the [Hash Cash paper](http://www.hashcash.org/papers/hashcash.pdf) which would later be cited in the Bitcoin whitepaper by Satoshi Nakamoto. Insofar as the single reference in the whitepaper gave Adam Back enormous influence over the development direction of Bitcoin in the future, this is a very important moment.
+
+---
+
 ## 22 January 2006
 
 Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia,](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/) many of the same tactics he would later use in Bitcoin.
