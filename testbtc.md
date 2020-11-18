@@ -448,6 +448,10 @@ He also asserts without evidence that Gavin Andresen is a mole for the US Govern
 
 ---
 
+## 05 May 2015
+
+Gavin Andresen writes another article on [increasing the blocksize](http://gavinandresen.ninja/block-size-and-miner-fees-again) and Coinbase Tweets their [support for the article.](https://twitter.com/coinbase/status/595741967759335426)
+
 ## 07 May 2015 
 
 Mike Hearn writes a popular article explaining why [letting the Bitcoin blocks get full would be devesating to adoption of Bitcoin](https://medium.com/@octskyward/crash-landing-f5cc19908e32) and trust in its future. He predits the rise of an altcoin market as businesses look for new options besides Bitcoin.
