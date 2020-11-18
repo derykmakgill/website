@@ -206,6 +206,8 @@ effortlessly pay a few cents to a website as easily as dropping
 coins in a vending machine. 
 ```
 
+---
+
 ## 14 February 2010
 
 Satoshi deletes what appears to be unfinished rudimtentary code for a p2p marketplace in a commit labeled ["strip out unfinished product, review and market stuff."](https://github.com/bitcoin/bitcoin/commit/cc4b78d59f566ff43881f57797a16ce45eb1b80ez) Though the code was never finished, it suggests Satoshi intended for Bitcoin to be used in commerce early on.
