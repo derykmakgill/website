@@ -111,6 +111,62 @@ Satoshi Nakamoto [emails Wei Dai](https://www.gwern.net/docs/bitcoin/2008-nakamo
 
 ---
 
+## 31 October 2008
+
+Satoshi Nakamoto releases the Bitcoin whitepaper on the Cryptography Mailing List.
+
+---
+
+## 02 November 2008
+
+The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald.
+
+>We very, very much need such a system, but the way I understand your
+proposal, it does not seem to scale to the required size.
+
+---
+
+## 03 November 2008
+
+Satoshi Nakamoto argues that Bitcoin can scale easily on-chain through the use of specialised data centers and Simplified Payment Verification.
+
+```
+Long before the network gets anywhere near as large as that, it would be safe 
+for users to use Simplified Payment Verification (section 8) to check for double 
+spending, which only requires having the chain of block headers, or about 12KB 
+per day. Only people trying to create new coins would need to run network nodes. 
+At first, most users would run network nodes, but as the network grows beyond a 
+certain point, it would be left more and more to specialists with server farms 
+of specialized hardware. A server farm would only need to have one node on the 
+network and the rest of the LAN connects with that one node.
+
+The bandwidth might not be as prohibitive as you think. A typical transaction 
+would be about 400 bytes (ECC is nicely compact). Each transaction has to be 
+broadcast twice, so lets say 1KB per transaction. Visa processed 37 billion 
+transactions in FY2008, or an average of 100 million transactions per day. 
+That many transactions would take 100GB of bandwidth, or the size of 12 DVD or
+2 HD quality movies, or about $18 worth of bandwidth at current prices.
+
+If the network were to get that big, it would take several years, and by then, 
+sending 2 HD movies over the Internet would probably not seem like a big deal.
+```
+
+---
+
+## 07 November 2008
+
+Hal Finney [tells Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/emails/cryptography/threads/1/#014827) about Nick Szabo's Bit Gold idea (apparently) for the first time. This is an important moment in Bitcoin history because comparisons between Bitcoin and Bit Gold are used as evidence to suggest that Bitcoin was always intended to scale with a second layer, like Szabo's Bit Gold. However, the evidence suggests Satoshi did not even know of Bit Gold when he developed Bitcoin.
+
+Hal also tells Satoshi that Bitcoin could be a heavyweight open system that forms the basis for a lightweight anonymous payment system (second layer) on top.
+
+```
+There havealso been proposals for building light-weight anonymous payment 
+schemes on top of heavy-weight non-anonymous systems so Bitcoin could be leveraged
+to allow for anonymity even beyond the mechanisms discussed in the paper.
+```
+
+---
+
 ## 14 February 2010
 
 Satoshi deletes what appears to be unfinished rudimtentary code for a p2p marketplace in a commit labeled ["strip out unfinished product, review and market stuff."](https://github.com/bitcoin/bitcoin/commit/cc4b78d59f566ff43881f57797a16ce45eb1b80ez) Though the code was never finished, it suggests Satoshi intended for Bitcoin to be used in commerce early on.
