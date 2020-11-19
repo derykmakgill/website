@@ -719,6 +719,53 @@ after all and Bitcoin should not be perceived as a drain.
 
 ---
 
+## 31 January 2013
+
+[Greg Maxwell](https://bitcointalk.org/index.php?topic=140233.msg1492537#msg1492537) writes on BitcoinTalk that Bitcoin cannot be secure without a block limit.
+
+```
+Without a sharp constraint on the maximum blocksize there is currently _no_ rational 
+reason to believe that Bitcoin would be secure at all once the subsidy goes down.
+
+Bitcoin is valuable because of scarcity. One of the important scarcities is the 
+limited supply of coins, another is the limited supply of block-space: Limited 
+blockspace creates a market for transaction fees, the fees fund the mining needed 
+to make the chain robust against hostile reorganization.  I have not yet seen any 
+suggestion as to how Bitcoin is long term viable without this except ones that argue 
+for cartel or regulatory behavior (both of which I don't consider viable: they moot 
+the decentralized purpose of Bitcoin).
+```
+
+theymos [responds to Greg Maxwell](https://bitcointalk.org/index.php?topic=140233.msg1492629#msg1492629) and tells him that Satoshi always intended to increase the blocksize limit and that Mike Hearn is correct in his claims that Satoshi anticipated most people running light software. He argues himself in favor of increasing the limit in a free-market way rather than something fixed in the code.
+
+```
+Satoshi definitely intended to increase the hard max block size. See:
+https://bitcointalk.org/index.php?topic=1347.0
+
+I believe that Satoshi expected most people to use some sort of lightweight 
+node, with only companies and true enthusiasts being full nodes. Mike Hearn's 
+view is similar to Satoshi's view.
+
+I strongly disagree with the idea that changing the max block size is a violation
+of the "Bitcoin currency guarantees". Satoshi said that the max block size could 
+be increased, and the max block size is never mentioned in any of the standard 
+descriptions of the Bitcoin system.
+
+IMO Mike Hearn's plan would probably work. The market/community would find a way 
+to pay for the network's security, and it would be easy enough to become a full 
+node that the currency wouldn't be at risk. The max block size would not truly be 
+unlimited, since miners would always need to produce blocks that the vast majority 
+of full nodes and other miners would be able and willing to process in a reasonable 
+amount of time.
+
+However, enforcing a max block size is safer. It's not totally clear that an unlimited 
+max block size would work. So I tend to prefer a max block size for Bitcoin. Some 
+other cryptocurrency can try the other method. I'd like the limit to be set in a more 
+decentralized, free-market way than a fixed constant in the code, though.
+```
+
+---
+
 ## 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
