@@ -356,6 +356,14 @@ the rate of Moore's Law, about 60% per year.
 
 Satoshi tells Mike Hearn that he has moved on from Bitcoin and that the project is in ["good hands with Gavin..."](https://plan99.net/~mike/satoshi-emails/thread5.html)
 
+---
+
+## 26 April 2011
+
+Satoshi [sends what appears to be his last email](https://nakamotostudies.org/emails/satoshis-final-email-to-gavin-andresen/) and disapears. Without Satoshi to hold the project together,  disagreements about his vision for Bitcoin, how Bitcoin works, coding decisions, and economics will become increasingly hostile.
+
+---
+
 ## 16 June 2011
 
 The original threads about the Silk Road on BitcoinTalk are [revealed to have been deleted,](https://bitcointalk.org/index.php?topic=17872.0).
