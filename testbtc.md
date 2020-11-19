@@ -484,6 +484,103 @@ that it is simply easier to make users pay to a single address
 for everything, such actions should generally be discouraged.
 ```
 
+Stefan Thomas [replies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001551.html) to Mike's thread with one of the earliest economic arguments for removing the blocksize limit, adderssing concerrns about fees, orphans, etc.
+
+
+```
+What does this mean? The miner generating a 1 TB block knows this would
+happen. So in terms of economic self interest he will generate the
+largest possible block that he is still confident that other miners will
+accept and process. A miner who receives a block will also consider
+whether to build on it based on whether they think other miners will be
+able to download it. In other words, if I receive a large block I may
+decide not to mine on it, because I believe that the majority of mining
+power will not mine on it - because it is either too large for them to
+download or because their rules against large blocks reject it.
+
+It's important to understand that in practice economic actors tend to
+plan ahead. In other words, if there is no block size limit that doesn't
+mean that there will be constant forks and total chaos. Rather, no miner
+will ever want to have a block rejected due to size, there is plenty of
+incentive to be conservative with your limits. Even if there are forks,
+this simply means that miners have decided that they can make more money
+by including more transactions at the cost of the occasional dud.
+
+Therefore, from an economic perspective, we do not need a global block
+size limit of any kind. As "guardians of the network" the only thing we
+need to do is to let miners figure out what they wanna do.
+
+HOWEVER, the existing economic incentives won't manifest unless somebody
+translates them into code. We have to give our users (miners & endusers)
+the tools to create a genuine fee-based verification market.
+
+On the miner side: I would make the block size limit configurable with a
+relatively high default. If the default is too low few people will
+bother changing it, which means that it is not worth changing (because a
+majority uses the default anyway), which means even fewer people will
+change it and so on.
+
+The block size limit should also be a soft rather than a hard limit...
+
+...
+
+The rationale for the soft limit is to allow for gradual upward
+adjustment. It needs to be risky for individual miners to raise the size
+of their blocks to new heights, but ideally there won't be one solid
+wall for them to run into.
+```
+
+Stefan also critisizes Matt Corallo in the same email for trying to centrally plan human action in Bitcoin at the protocol level.
+
+```
+You're forcing people into privacy best practices which you think are
+good, but others may not subscribe to. For example I have absolutely
+zero interest in privacy, anyone who cares that I buy Bitcoins with my
+salary and spend them on paragliding is welcome to know about it.
+Frankly, if I cared about privacy I wouldn't be using Bitcoin. If other
+people want to use mixing services and randomize their addresses and
+communicate through Tor that's fine, but the client shouldn't force me
+to do those things if I don't want to by "deprioritizing" my transactions.
+```
+
+[Amir Taaki expands](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001555.html) on Stefan's points and argues it would be a huge issue to try to force users to behave a certain way with their addresses because everyone has different needs and priorities. In regards to blocksize, he writes that raising it is not a concern and that Bitcoin should become more and more specialised over time.
+
+```
+Forcing users to switch addresses per received payment to work around a bad fee system would be a braindead decision. You might love software and playing with web plugins, but not everyone does. Artists like Rap News can right now simply throw up an address and begin accepting donations. That's a hugely powerful and impactful selling point for Bitcoin.
+
+I don't really see these problems as a concern. Stefan made an excellent post which touched on this, in that miners have an incentive to keep block sizes low so that their blocks propagate. The real problem here is not about block propagation but the user experience. The way I see it, Bitcoin is becoming more specialised over time and part of that process is abstraction. In the past we all used the Satoshi client for mining, merchant functions, validating blocks and personal uses. These are rapidly diverging, and managing the blockchain is not something that user clients should be doing.
+
+Mike is right when he says the network only needs a few thousand nodes to function fairly. I am not worried about Bitcoin becoming corrupted because of it being a network "by bankers for bankers" because unlike the conventional finance industry, there are no artificial barriers to entry beyond the base cost. This network would always be competitive and strictly operate based on market dynamics.
+
+Case in point: http://en.wikipedia.org/wiki/Coase_theorem
+
+With strict property rights and zero (or low) transaction costs, the allocation of a system does not matter. The system will make efficient use of its resources. I don't see why a cabal would try to corrupt Bitcoin at expense to themselves when a new competitor can enter the market and undercut them.
+```
+
+[Greg Maxwell replies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001550.html) that it is an existential risk to Bitcoin to let the blocksize float and that Satoshi Nakamoto was wrong in his node calculations. He also says that slow or costly trarnsactions would still make Bitcoin competitive.
+
+```
+By itself letting the size float has non-trivial existential risk.  A
+Bitcoin with expensive transactions due to competition for space in
+blocks can be front-ended with fast payment systems and still provide
+the promised decentralized currency. Bitcoin with a very large
+blockchain and blocks does not.  
+
+...
+
+Mike pointed out that  "Before he left Satoshi made a comment saying
+he used to think Bitcoin would need millions of nodes if it became
+really popular, but in the end he thought it could do fine with just
+tens of thousands"    I'm not so sure— and I think the truth is in
+between. 
+
+...
+
+An alternative which was autonomous and decentralized even if the
+transactions were somewhat slow or costly would be excellent competition 
+for everything. else, and it's something I think man kind ought to have.
+```
+
 ---
 
 ## 18 April 2013 
