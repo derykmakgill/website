@@ -45,6 +45,10 @@ I hope writers, filmmakes, researchers and other creators will be able to make u
 
 It's possible that this paper will benefit from some kind of dynamic tagging and display function that can allow readers to display only the material they want to read topically, however I think a complete chronology will always be the best way to get a full grasp of this history for those who are willing to put in the work.
 
+### Corrections policy
+
+I may edit this document with new material or make minor edits (dates, spelling errors, small factual details) without notice in the paper. Major changes that substantially alter the meaning or significance of a data point will be marked and noted.
+
 ---
 
 ## 29 October 1995
