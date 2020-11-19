@@ -686,3 +686,28 @@ And labor and dream—and die,
 Than one who runs with the “Can’t-be-done’s”
 Who haven’t the pluck to try.
 </pre>
+
+<pre style="font-family: serif;">
+## The Soldier's Creed
+
+"Captain, what do you think," I asked,
+"Of the part your soldiers play?"
+But the captain answered, "I do not think;
+I do not think, I obey!"
+"Do you think you should shoot a patriot down,
+Or help a tyrant slay?"
+But the captain answered, "I do not think;
+I do not think, I obey!"
+"Do you think your conscience was made to die,
+And your brain to rot away?"
+But the captain answered, "I do not think;
+I do not think, I obey!"
+"Then if this is your soldier's creed," I cried,
+"You're a mean unmanly crew;
+And for all your feathers and gilt and braid
+I am more of a man than you!
+"For whatever my place in life may be,
+And whether I swim or sink,
+I can say with pride, 'I do not obey;
+I do not obey, I think!' "
+</pre>
