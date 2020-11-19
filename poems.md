@@ -687,9 +687,9 @@ Than one who runs with the “Can’t-be-done’s”
 Who haven’t the pluck to try.
 </pre>
 
-<pre style="font-family: serif;">
 ## The Soldier's Creed
 
+<pre style="font-family: serif;">
 "Captain, what do you think," I asked,
 "Of the part your soldiers play?"
 But the captain answered, "I do not think;
