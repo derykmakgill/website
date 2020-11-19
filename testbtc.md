@@ -779,4 +779,40 @@ Another user comments that the censorship of Bitcoin XT topics is rallying the c
 
 Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/)
 
+---
+
+## 12 December 2019
+
+Greg Maxwell [attempts](https://en.wikipedia.org/w/index.php?title=Wikipedia:Articles_for_deletion/Lightning_Network&diff=prev&oldid=930392324) to have Bitcoin XT scrubbed from the Bitcoin Wikipedia page.
+
+```
+I feel like this subject could get adequately covered as 
+part of a broader article on consensusless decenteralized 
+payment systems, but considering that lightning is the only
+such system with even moderately wide deployment and that 
+there aren't a lot of secondary sources on the broader idea... 
+that gets in the way of covering it that way.  There are a lot 
+of bit-rotten obscure cryptocurrency articles that should probably 
+be [removed](https://en.wikipedia.org/wiki/Talk:Bitcoin_XT#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out_of_date,_should_this_be_deleted?)
+```
+
+---
+
+## 16 December 2019
+
+Former Bitcoin Core YouTube personality Richard Heart claims that he and others [orchestrated a social manipulation campaign in order to put Segwit through on Bitcoin.](https://www.youtube.com/watch?v=1UPLA9-ICJg&lc=UgxHNItC2Cyc8zwRMzJ4AaABAg)
+
+>Two years ago we got Segwit. Which we lied and cheated and stealed -- and I was part of the lying and cheating and stealing -- to get Segwit, to get Lightning, which by the way had critical vulnerabilities and lost people's money.
+
+---
+
+## 17 February 2020
+
+Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_ver_escaped_taxes/fhzg431?utm_source=share&utm_medium=web2x) to report Roger Ver to the federal government.
+
+>Surely you didn't conceal your assets... that would have been extraordinarily unwise considering how widely you have bragged about your holdings, especially considering that the IRS will pay whistleblowers up to 30% of the underpayment when the total under-paid is at least $2m. But if you did disclose your assets you should be on the list?
+
+---
+
 <small>Thanks to Isaac Morehouse and Steve Patterson for comments/ideas/corrections/discussion/etc.</small>
+
