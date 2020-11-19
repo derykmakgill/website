@@ -711,3 +711,28 @@ And whether I swim or sink,
 I can say with pride, 'I do not obey;
 I do not obey, I think!' "
 </pre>
+
+## Egoism
+
+<pre style="font-family: serif;">
+Not as mine their thoughts who pass:
+Each has his life's looking-glass
+Limning therein the light and shade
+His own entity has made.
+I have my life's vision still
+Coloured for me, good or ill,
+And my point of view must be
+But my own immortally.
+Could I guess at theirs, or know
+What shapes in their vision go.
+Lift the veil by day and night
+That's laid on another's light, —
+They might with a fancy free
+Get, too, at the gist of me,
+And with a plebeian shout
+Turn the Gods I worship out,
+To be in a concourse lewd
+Jeered at by the multitude,
+While I with a reeling brain
+Talked with Demons in the fane!
+</pre>
