@@ -221,6 +221,26 @@ coins in a vending machine.
 
 ---
 
+## 13 April 2009
+
+Satoshi [emails Mike Hearn](https://plan99.net/~mike/satoshi-emails/thread1.html) and explains that 0-confirmation transactions are should still be much safer than credit cards and that businesses will be willing to accept some extra risk for speed and ease.
+
+```
+For micropayments, you can safely accept the payment immediately.  
+The size of the payment is too small for the effort to steal it. 
+Micropayments are almost always for intellectual property, where 
+there's no physical loss to the merchant.  Anyone trying to steal 
+a micropayment would probably not be a paying customer anyway, and 
+if they want to steal intellectual property they can use the file 
+sharing networks.
+
+Currently, businesses accept a certain chargeoff rate.  
+I believe the risk with 1 or even 0 confirming blocks will be much 
+less than the rate of chargebacks on verified credit card transactions.
+```
+
+---
+
 ## 14 February 2010
 
 Satoshi deletes what appears to be unfinished rudimtentary code for a p2p marketplace in a commit labeled ["strip out unfinished product, review and market stuff."](https://github.com/bitcoin/bitcoin/commit/cc4b78d59f566ff43881f57797a16ce45eb1b80ez) Though the code was never finished, it suggests Satoshi intended for Bitcoin to be used in commerce early on.
@@ -262,6 +282,37 @@ After some discussion, Hal Finney, Satoshi (Bitcoinâ€™s creator), and the user â
 One of the [earliest posts](https://www.reddit.com/r/Bitcoin/comments/eef3h/a_short_introduction_to_bitcoin_a_peer_to_peer/) on r/Bitcoin is made linking to an article titlted *A Short Introduction to Bitcoin - A Peer to Peer Cryptocurrency.* The [linked article](https://bluishcoder.co.nz/2010/10/10/a-short-introduction-to-bitcoin.html) describes the author's interest in Bitcoin's ability to offer micropayments.
 
 >I'm interested in the approach of using bitcoin as a way to do micro-transactions and ease online payments and donations.
+
+---
+
+## 29 December 2010
+
+Satoshi [explains to Mike Hearn](https://plan99.net/~mike/satoshi-emails/thread3.html) that the blocksize limit can be increased in time and describes a future in which pooled minesr and server farms run network nodes and users run client-only software. He also says that Bitcoin can scale with Moore's Law.
+
+```
+>The final number I'm interested in is the 500kb limit on block sizes.
+>According to Wikipedia, Visa alone processed 62 billion transactions
+>in 2009. Dividing through we get an average of 2000 transactions per
+>second, so peak rate is probably around double that at 4000
+>transactions/sec. With a ten minute block target, at peak a block
+>might need to contain 2.4 million transactions, which just won't fit
+>into 500kb. Is this 500kb a temporary limitation that will be slowly
+>removed over time from the official client or something more
+?fundamental?
+
+A higher limit can be phased in once we have actual use closer to the limit 
+and make sure it's working OK.
+
+Eventually when we have client-only implementations, the block chain size won't 
+matter much.  Until then, while all users still have to download the entire 
+block chain to start, it's nice if we can keep it down to a reasonable size.
+
+With very high transaction volume, network nodes would consolidate and there would 
+be more pooled mining and GPU farms, and users would run client-only.  
+With dev work on optimising and parallelising, it can keep scaling up.
+
+Whatever the current capacity of the software is, it automatically grows at 
+the rate of Moore's Law, about 60% per year.
 
 ---
 
