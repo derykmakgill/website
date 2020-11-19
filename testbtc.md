@@ -546,15 +546,34 @@ to do those things if I don't want to by "deprioritizing" my transactions.
 [Amir Taaki expands](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001555.html) on Stefan's points and argues it would be a huge issue to try to force users to behave a certain way with their addresses because everyone has different needs and priorities. In regards to blocksize, he writes that raising it is not a concern and that Bitcoin should become more and more specialised over time.
 
 ```
-Forcing users to switch addresses per received payment to work around a bad fee system would be a braindead decision. You might love software and playing with web plugins, but not everyone does. Artists like Rap News can right now simply throw up an address and begin accepting donations. That's a hugely powerful and impactful selling point for Bitcoin.
+Forcing users to switch addresses per received payment to work around 
+a bad fee system would be a braindead decision. You might love software 
+and playing with web plugins, but not everyone does. Artists like Rap News 
+can right now simply throw up an address and begin accepting donations. 
+That's a hugely powerful and impactful selling point for Bitcoin.
 
-I don't really see these problems as a concern. Stefan made an excellent post which touched on this, in that miners have an incentive to keep block sizes low so that their blocks propagate. The real problem here is not about block propagation but the user experience. The way I see it, Bitcoin is becoming more specialised over time and part of that process is abstraction. In the past we all used the Satoshi client for mining, merchant functions, validating blocks and personal uses. These are rapidly diverging, and managing the blockchain is not something that user clients should be doing.
+I don't really see these problems as a concern. Stefan made an excellent 
+post which touched on this, in that miners have an incentive to keep block 
+sizes low so that their blocks propagate. The real problem here is not about 
+block propagation but the user experience. The way I see it, Bitcoin is 
+becoming more specialised over time and part of that process is abstraction. 
+In the past we all used the Satoshi client for mining, merchant functions, 
+validating blocks and personal uses. These are rapidly diverging, and managing 
+the blockchain is not something that user clients should be doing.
 
-Mike is right when he says the network only needs a few thousand nodes to function fairly. I am not worried about Bitcoin becoming corrupted because of it being a network "by bankers for bankers" because unlike the conventional finance industry, there are no artificial barriers to entry beyond the base cost. This network would always be competitive and strictly operate based on market dynamics.
+Mike is right when he says the network only needs a few thousand nodes to 
+function fairly. I am not worried about Bitcoin becoming corrupted because of 
+it being a network "by bankers for bankers" because unlike the conventional 
+finance industry, there are no artificial barriers to entry beyond the base 
+cost. This network would always be competitive and strictly operate based on 
+market dynamics.
 
 Case in point: http://en.wikipedia.org/wiki/Coase_theorem
 
-With strict property rights and zero (or low) transaction costs, the allocation of a system does not matter. The system will make efficient use of its resources. I don't see why a cabal would try to corrupt Bitcoin at expense to themselves when a new competitor can enter the market and undercut them.
+With strict property rights and zero (or low) transaction costs, the allocation 
+of a system does not matter. The system will make efficient use of its resources. 
+I don't see why a cabal would try to corrupt Bitcoin at expense to themselves 
+when a new competitor can enter the market and undercut them.
 ```
 
 [Greg Maxwell replies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001550.html) that it is an existential risk to Bitcoin to let the blocksize float and that Satoshi Nakamoto was wrong in his node calculations. He also says that slow or costly trarnsactions would still make Bitcoin competitive.
