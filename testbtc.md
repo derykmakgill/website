@@ -679,3 +679,5 @@ Another user comments that the censorship of Bitcoin XT topics is rallying the c
 >The comically open and heavy-handed censorship combined with simple ad hominen attacks (XT is ALTCOIN) makes this feel almost like a troll campaign for the purpose of rallying the community. We all rally against the censorship and mods by running XT. Thus quickly settling consensus rather than dragging it out over months. Maybe. Maybe
 
 Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/comments/3h5f90/these_mods_need_to_be_changed_upvote_if_you_agree/)
+
+<small>Thanks to Isaac Morehouse and Steve Patterson for comments/ideas/corrections/discussion/etc.</small>
