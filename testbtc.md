@@ -313,6 +313,13 @@ After some discussion, Hal Finney, Satoshi (Bitcoinâ€™s creator), and the user â
 
 ---
 
+## 03 October 2010
+
+[theymos writes](https://bitcointalk.org/index.php?topic=1314.msg15143#msg15143) that the blocksize will be increased in the future and people will run only light software.
+
+---
+
+
 ## 01 December 2010
 
 One of the [earliest posts](https://www.reddit.com/r/Bitcoin/comments/eef3h/a_short_introduction_to_bitcoin_a_peer_to_peer/) on r/Bitcoin is made linking to an article titlted *A Short Introduction to Bitcoin - A Peer to Peer Cryptocurrency.* The [linked article](https://bluishcoder.co.nz/2010/10/10/a-short-introduction-to-bitcoin.html) describes the author's interest in Bitcoin's ability to offer micropayments.
