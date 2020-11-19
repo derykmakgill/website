@@ -416,6 +416,38 @@ Greg Maxwell suggests that [Bitcoin can scale and remain decentralized.](https:/
 
 ---
 
+## 17 December 2011
+
+Theymos writes in an [email](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-December/000910.html) that he believes Bitcoin should scale with lightweight clients.
+
+```
+My preferred solution for handling scalability in the future is to
+have lightweight clients download only headers and Merkle trees (which
+are both small and easy to distribute), and then require senders to
+contact recipients directly in order to transmit their transactions.
+Then lightweight clients never need full blocks to build their
+balances, and full nodes don't have to handle expensive queries from
+lightweight clients.
+```
+
+---
+
+## 18 December 2011
+
+Theymos writes in an [email](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-December/000924.html) that most people will not be able to run full nodes in the future unless they limit the blocksize, which would lead to "uncompetitive" transaction fee rates.
+
+```
+For everyone to keep being a full node, hardware costs would need to
+constantly go down enough for all nodes to be able to handle enough
+transactions to meet demand. If hardware doesn't become cheap enough
+quickly enough, either some people would be unable to handle being full
+nodes, or the max block size wouldn't rise enough to meet demand and
+transaction fees would become noncompetitive.
+```
+
+---
+
+
 ## 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
