@@ -602,6 +602,123 @@ for everything. else, and it's something I think man kind ought to have.
 
 ---
 
+## 04 December 2012
+
+[Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002069.html) argues with [Greg Maxwell](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002064.html) about SPV nodes and slow vs fast adoption. Mike's position is that not everyone needs to run a node and that Bitcoin needs to move fast or it will lose its opportunity.
+
+```
+>It sounds to me that you're insisting that you're asking people who
+>oppose degrading our recommendations to commit to a costly rushed
+>development timeline. I think this is a false choice.
+>
+>There is no set timeline for the adoption of Bitcoin— man has survived
+>eons without Bitcoin just fine— and there are many practical reasons
+>why slow adoption is beneficial, including reducing the harm users
+>experience from growing pains.  By allowing things to mature at their
+>own pace we can preserve the principles that make the system valuable.
+
+
+Hardly. I don't have any particular timeline in mind. But I disagree
+we have "forever". New ideas have a certain time window to take off
+and become credible. If they never overcome their problems in that
+time window, eventually people just give up and move on. Does anyone
+take desktop Linux seriously anymore? No. "The year of desktop Linux"
+is a joke. People took it seriously in 2001 but despite great progress
+since, the excitement and attention has gone. There were steady
+improvements over the last 10 years but nobody is creating desktop
+Linux startups anymore - Bitcoin shouldn't go the same way.
+
+It's unclear we need to have every man and his dog run a full node.
+Tor is a successful P2P network where the number of users vastly
+outstrips the number of nodes, and exit nodes in particular are a
+scarce resource run by people who know what they're doing and commit
+to it.
+
+The Tor guys could have said "every node should be an exit if
+possible", but that would have been a short term optimization at the
+cost of long term stability, and anyway doesn't seem to have been
+necessary so far. Even with no incentives, they were able to obtain
+the resources they need.
+
+So why should Bitcoin be different? If there are a million users
+supported by 50,000 full nodes, that wouldn't sound unhealthy to me.
+```
+
+Greg Maxwell [responds](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002070.html) that we can't trust the free market to provide security for Bitcoin.
+
+```
+If we depend on the organic need for full nodes to overcome cost and
+effort to run one there will always be major incentives to let someone
+else do that, and the system would have its equilibrium right on the
+brink of insecurity. Perhaps worse, since insecurity is most obvious
+retrospectively. Security doesn't make for a good market force.
+```
+
+[Alan Reiner replies](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002072.html) in agreement with Mike that Bitcoin should focus on getting as many users as possible even if they don't all run full nodes, and that Greg's position sounds like he's arguing to not grow the network.
+
+```
+This discussion sounds to be veering slightly off track.  I think we should
+be focusing on how we will ease the transition for new users to get on the
+network and use it.  Talking about the necessity and costs of running full
+nodes in the future is important, but irrelevant here:  unless we don't
+want users who aren't willing to run full nodes, we need to accommodate
+users who want to simply "use" the network, not necessarily "support" it.  *I'm
+making an assumption here that we want new users whether they use a full
+node or not*.  Greg's point looks like it's veering towards "we don't want
+to grow the network unless we're going to get more full nodes out of it."
+I'm of the opinion, like Mike Hearn, that the number of full nodes needed
+for a healthy network is *not* O(N) in the number of users of the network.
+I expect it to be something more like O(sqrt(N))... or perhaps there's
+even an upper limit above which the network gets no benefit, even if all 7
+billion humans were using it.  (the bottleneck would be size of blocks and
+CPU processing power at that point, not a shortage of full nodes).  Would
+we rather have a system that is "full-node-or-nothing" and drive away users
+that won't support the network, or accommodate those users with various
+gradations of participation?
+
+I think it is very much in everyone's interest here to encourage new users
+to start "using" Bitcoin, even if they don't "support" it.  As long as
+there is a convenient channel for interested users to get more information
+about the system, the benefits of spending the effort to run a full node,
+and the features available in more-advanced clients that they might benefit
+from, then I'm not personally concerned about a shortage of full nodes, and
+we should carry forward with the idea of promoting SPV nodes for the
+really-new users.
+```
+---
+
+## 05 December 2012
+
+In the same [Roadmap to getting users onto SPV clients](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002074.html) thread, Alan Reiner writes in defense of SPV that it is far more important to get people experiencing how valuable it is to send money quickly and cheaply anywhere in the world.
+
+```
+Users need to experience, as quickly and easily as possible, that they
+can move money across the world, without signing up for anything or
+paying any fees.  After they understand the value of the system and want
+to use it, they are much more likely to become educated and willing to
+support the network with full node. 
+```
+
+[Gary Rowe writes in response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002082.html) that everyone he has introduced Bitcoin to with SPV is "wowed" by the experience, and that that experience must continue for Bitcoin to succeed.
+
+```
+Without exception, everyone that I have introduced Bitcoin (which is a lot
+of people) have expected an "instant-on" experience. It has to clobber
+PayPal and credit cards or people won't give it a second look, let alone a
+second chance. SPV clients deliver on that expectation.
+
+Once the user has the great initial "wow!" moment then their interest in
+Bitcoin is reinforced and they tend to explore further, particularly into
+the economic theory behind it. Many decide to install the full node out of
+a sense of community contribution to the security of the network.
+
+Having a hybrid mode of SPV first then full node second should be something
+that a user has control over - it is their computing resources we are using
+after all and Bitcoin should not be perceived as a drain.
+```
+
+---
+
 ## 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
