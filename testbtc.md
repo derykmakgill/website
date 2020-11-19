@@ -3,6 +3,12 @@ layout: page
 title: Timeline History of Bitcoin Scaling
 ---
 
+<img src="https://i.imgur.com/CFp7TGh.png" style="
+    float: right;
+    max-width: 30%;
+    padding: 20px;
+">
+
 ## FAQ (maxis read this first)
 
 ### bcash is dead. Bitcoin moon. You lose. Why are you writing this?
