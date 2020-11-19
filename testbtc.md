@@ -221,6 +221,42 @@ coins in a vending machine.
 
 ---
 
+## 12 April 2009
+
+Satoshi [answers Mike Hearn's question](https://plan99.net/~mike/satoshi-emails/thread1.html) about scaling Bitcoin to Visa levels. He says that Bitcoin can already scale to Visa levels on existing hardware and that scaling should never hit a ceiling. He also details a fee market that would emerge with individual node operators reacting to market pricing forces.
+
+```
+>If I understand correctly, there is only one (or maybe a few) global
+>chain[s] into which all transactions are hashed. If there is only one
+>chain recording "the story of the economy" so to speak, how does this
+>scale? In an imaginary planet-wide deployment there would be millions
+>of even billions of transactions per hour being hashed into the chain.
+>I realize that each PoW can wrap many transactions in one block,
+>nonetheless, that's a large amount of data to hash
+
+The existing Visa credit card network processes about 15 million Internet purchases 
+per day worldwide.  Bitcoin can already scale much larger than that with existing 
+hardware for a fraction of the cost.  It never really hits a scale ceiling.  If you're 
+interested, I can go over the ways it would cope with extreme size.
+
+By Moore's Law, we can expect hardware speed to be 10 times faster in 5 years and 
+100 times faster in 10.  Even if Bitcoin grows at crazy adoption rates, I think 
+computer speeds will stay ahead of the number of transactions.
+
+I don't anticipate that fees will be needed anytime soon, but if it becomes too 
+burdensome to run a node, it is possible to run a node that only processes transactions 
+that include a transaction fee.  The owner of the node would decide the minimum fee 
+they'll accept.  Right now, such a node would get nothing, because nobody includes a fee, 
+but if enough nodes did that, then users would get faster acceptance if they include a 
+fee, or slower if they don't.  The fee the market would settle on should be minimal.  
+If a node requires a higher fee, that node would be passing up all transactions with 
+lower fees.  It could do more volume and probably make more money by processing as 
+many paying transactions as it can.  The transition is not controlled by some human in 
+charge of the system though, just individuals reacting on their own to market forces.
+```
+
+---
+
 ## 13 April 2009
 
 Satoshi [emails Mike Hearn](https://plan99.net/~mike/satoshi-emails/thread1.html) and explains that 0-confirmation transactions are should still be much safer than credit cards and that businesses will be willing to accept some extra risk for speed and ease.
