@@ -1163,8 +1163,10 @@ such system with even moderately wide deployment and that
 there aren't a lot of secondary sources on the broader idea... 
 that gets in the way of covering it that way.  There are a lot 
 of bit-rotten obscure cryptocurrency articles that should probably 
-be [removed](https://en.wikipedia.org/wiki/Talk:Bitcoin_XT
-#Bitcoin_XT_is_long_defunct_and_the_article_is_massively_out
+be [removed](https://en.wikipedia.org/wiki/
+Talk:Bitcoin_XT
+#Bitcoin_XT_is_long_defunct_and_the_
+article_is_massively_out
 _of_date,_should_this_be_deleted?)
 ```
 
