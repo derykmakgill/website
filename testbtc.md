@@ -287,7 +287,7 @@ One of the [earliest posts](https://www.reddit.com/r/Bitcoin/comments/eef3h/a_sh
 
 ## 29 December 2010
 
-Satoshi [explains to Mike Hearn](https://plan99.net/~mike/satoshi-emails/thread3.html) that the blocksize limit can be increased in time and describes a future in which pooled minesr and server farms run network nodes and users run client-only software. He also says that Bitcoin can scale with Moore's Law.
+Satoshi responds to Mike Hearn's question about competing with Visa and [explains](https://plan99.net/~mike/satoshi-emails/thread3.html) that the blocksize limit can be increased in time and describes a future in which pooled minesr and server farms run network nodes and users run client-only software. He also says that Bitcoin can scale with Moore's Law.
 
 ```
 >The final number I'm interested in is the 500kb limit on block sizes.
@@ -313,7 +313,7 @@ With dev work on optimising and parallelising, it can keep scaling up.
 
 Whatever the current capacity of the software is, it automatically grows at 
 the rate of Moore's Law, about 60% per year.
-
+```
 ---
 
 ## 16 June 2011
