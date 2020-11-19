@@ -447,6 +447,44 @@ transaction fees would become noncompetitive.
 
 ---
 
+## 15 June 2012
+
+Mike Hearn [sends an email](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001533.html) to the Bitcoin-development list stating that he is against proposals to de-rank transactions
+using the same address and that addressing artifical limits and scalability is a better way to handle growing businesses like SatoshiDice.
+
+```
+There was discussion of some one-off changes to address the current
+situation, namely de-ranking transactions that re-use addresses. Gavin
+and myself were not keen on this idea, primarily because it just
+avoids the real problem and Bitcoin already has a good way to
+prioritize transactions via the fees mechanism itself. The real issue
+is that SatoshiDice does indeed pay fees and generates a lot of
+transactions, pushing more traditional traffic out due to artificial
+throttles.
+
+...
+
+(3) Scalability improvements seem like a no brainer to everyone, it's
+just a case of how complicated they are.
+
+(4) Making the block size limit float is better than picking a new
+arbitrary threshold.
+
+On the forums Matt stated that block chain pruning was a no-go because
+"it makes bitcoin more centralized". I think we've thrashed this one
+out sufficiently well by now that there should be a united opinion on
+it....
+```
+
+Matt Corallo [responds](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-June/001536.html) in favor of punishing businesses that re-use addresses at the protocol level.
+
+```
+If, for whatever reason, someone designing a bitcoin site decides 
+that it is simply easier to make users pay to a single address 
+for everything, such actions should generally be discouraged.
+```
+
+---
 
 ## 18 April 2013 
 
