@@ -5,8 +5,11 @@ title: Timeline History of Bitcoin Scaling (1995-2020)
 
 ## What Happened to Bitcoin and How
 
+<figure>
 <img src="https://i.imgur.com/CFp7TGh.png" style="
  max-width: 40%;">
+ <figcaption>Gregory Maxwell, Troll</figcaption>
+	</figure>
 
 ## Introduction
 
