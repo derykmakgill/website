@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline History of Bitcoin Scaling
+title: Timeline History of Bitcoin Scaling (1995-2020)
 ---
 
 <img src="https://i.imgur.com/CFp7TGh.png" style="
