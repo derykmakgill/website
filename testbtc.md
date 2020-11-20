@@ -136,6 +136,12 @@ Since Adam Back would later write that no early person in electronic cash cared 
 
 ---
 
+## ~ November 1997
+
+Wei Dai published his [b-money](http://www.weidai.com/bmoney.txt) paper that would later be cited in the Bitcoin whitepaper.
+
+---
+
 ## May 1999
 
 Nick Szabo publishes [*Micropayments and Mental Transaction Costs.*](https://nakamotoinstitute.org/static/docs/micropayments-and-mental-transaction-costs.pdf) The paper argues against the viability of online micropayments and suggests security is a more important investment than reducing network resource usage to enable cheaper transactions.
