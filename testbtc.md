@@ -72,7 +72,7 @@ the bank skims off 4% to 10% every time. No one is going to use digicash
 under these kinds of terms and conditions.
 ```
 
-The discussion is one of the incredible coincidences in the history of electronic cash, because it takes place nearly 13 years to the day before Bitcoin was launched! What is more, James A. Donald was one of the first people to respond to Satoshi Nakamoto's announcement.
+The discussion is one of the incredible coincidences in the history of electronic the first person to respond to Satoshi Nakamoto's announcement on the Cryptography Mailing List.
 
 ---
 
