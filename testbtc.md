@@ -76,7 +76,7 @@ The discussion is one of the incredible coincidences in the history of electroni
 
 ---
 
-## 30 Oct 1995
+## 30 October 1995
 
 Creator of the Cypherpunk Mailing List Timothy C. May says [Digicash can never work with high fees](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span> 
 
@@ -89,6 +89,20 @@ most of the value.
 ```
 
 ---
+
+## 31 October 1995
+
+Michael Shields [comments on the Cypherpunk List](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/37c0d0347831fe7bb5ade48e4c8e8fa93511635776c015d379f1c41c923bb2d4/) comments that the fees for Digicash will add up at every economic transaction, making it impossible to be digital cash used for everything.
+
+```
+We think of eventually using digicash for everything.  You wouldn't just
+use it to pay Sears for a sweater, but Sears would use it to pay for the
+wool and for their taxes.  A 5% hit may be ok for the final transaction,
+but it's impossible if you incur it every time money is exchanged.
+```
+
+---
+
 
 ## 14 June 1996
 
