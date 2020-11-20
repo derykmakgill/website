@@ -183,10 +183,10 @@ Satoshi Nakamoto releases the Bitcoin whitepaper on the Cryptography Mailing Lis
 
 The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald. <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span>
 
-```
+<pre>
 We very, very much need such a system, but the way I understand your
-proposal, it does not seem to scale to the required size.
-```
+proposal, it does not seem to scale to the required size. <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span>
+</pre>
 
 ---
 
