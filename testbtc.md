@@ -1201,6 +1201,55 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 11 August 2018
+
+Cobra creates a Github issue to discuss [relisting companies that were removed from Bitcoin.org for supporting the 2mb hard fork block size increase.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) His reasoning is that the delisting *worked* to stop the increase and that these companies are unlikely to try it again.
+
+>After the whole S2X situation, we removed links to many of the businesses that had signed the NYA. The site doesn't mention Coinbase, Xapo, BitPay, BTC.com, etc. I think enough time has passed for us to reconsider the situation. The removal and subsequent period of not linking to them was reasonable, since these companies could have attempted another contentious hard fork shortly after S2X failed, but time has shown that they've completely failed and given up at taking over Bitcoin, and are unlikely to try again.
+>
+>I believe that attacks on Bitcoin through manipulating large economic actors like Coinbase are a thing of the past. 
+
+Theymos [replies and says they should not be relisted](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) unless they publicly apologize and issue a statement on why they were wrong.
+
+>As far as I can tell, if they don't do anything like that again, it'll be because it's become too difficult now, not because they've learned from it. So I wouldn't re-add them unless they admit their mistakes and in particular acknowledge that Bitcoin is not governed, especially not by miners.'
+
+---
+
+## 07 November 2018
+
+Blockstream announces their release of the Liquid full node binaries & source code and claims that ["any user can join the #P2P #LiquidNetwork by operating a full node, in order to trustlessly use the #sidechain just like with the #Bitcoin"](https://twitter.com/Blockstream/status/1059886244853886987)
+
+Former co-founder of Blockstrearm Matt Corallo tweets that [this is a lie](https://twitter.com/TheBlueMatt/status/1060101587584991233?s=20).
+
+>Uhhhh, I don't really know how to describe this use of the word "trustless" except "lie". Maybe someone is trying to redefine the word?
+
+Bitcoin.org Co-owner Cobra replies that it is ["very dangerous" for him to call out Blockstream like that.](https://twitter.com/CobraBitcoin/status/1060175987277729792)
+
+---
+
+## 26 December 2018
+
+Samson Mow cheers and threatens Bitcoin Cash Association creator Paul Wasensteiner's arrest and [tags the SEC on Twitter.](https://twitter.com/excellion/status/1078051212052684800)
+
+>You’ll see real cheering when you and your wife go to jail for using @CNBCFastMoney to pump and dump #Bcash on noobs. @SEC_Enforcement.
+
+**The same day:** [In a comment on a post by Vlad Zamfir,](https://medium.com/@VitalikButerin/he-imagines-a-world-in-which-crypto-political-and-legal-processes-are-necessarily-going-to-go-fb073b80dd7e) Vitalik Buterin reiterates his belief that failure to raise the block size caused huge damages to Bitcoin:
+
+>I continue to believe that Bitcoin’s *failure* to raise its blocksize by a significant amount in 2016–17 was a travesty and a great violation of many people’s expectations of the protocol, and one that led to more total losses due to excess txfees than the amount lost in the MtGox hack), but this is the argument that you need to be arguing against.
+
+---
+
+## 27 May 2019
+
+Former Blockstream Cofounder Matt Corallo blocks Samson Mow on Twitter, calling it the "best decision" he's ever made and says ["I'm honestly pretty embarrassed to have helped cofound @Blockstream."](https://twitter.com/TheBlueMatt/status/1133040768531214338)
+
+He strongly crisizes the [troll culture popular at the company.](https://twitter.com/TheBlueMatt/status/1133042374320562177?s=20)
+
+>The kind of "let's be mean just because it's fun" culture exposed by a number of 
+@Blockstream folks and their management is a lot of what's wrong with (a small subset) of the Bitcoin culture.
+
+---
+
 ## 29 May 2019
 
 Bitcoin Core influencer Tuur Demeester writes that ["at full maturity, using the Bitcoin blockchain will be as rare and specialized as chartering an oil tanker."](https://twitter.com/TuurDemeester/status/1133735055115866112?s=20)
