@@ -1219,5 +1219,11 @@ Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_
 
 ---
 
+## 19 November 2020
+
+[Michael Saylor tweets](https://twitter.com/michael_saylor/status/1329446490117451785) that governments should handle currency while Bitcoin should only store value. Sadly, the post is very popular.
+
+>Bitcoin should be neither a currency, nor a payment network. The principles of humility & harmony dictate that we should allow technology partners to provide for payments, & defer to governments on matters of currency.  $BTC is a purely engineered Store of Value.
+
 <small>Thanks to Isaac Morehouse and Steve Patterson for comments/ideas/corrections/discussion/etc.</small>
 
