@@ -436,6 +436,12 @@ the rate of Moore's Law, about 60% per year.
 
 ---
 
+## 28 January 2011
+
+[Hal Finney writes](https://bitcointalk.org/index.php?topic=3025.msg42185#msg42185) that mining should be expensive because it protects the network from "a well financed attacker..."
+
+---
+
 ## 23 April 2011
 
 Satoshi tells Mike Hearn that he has moved on from Bitcoin and that the project is in ["good hands with Gavin..."](https://plan99.net/~mike/satoshi-emails/thread5.html)
