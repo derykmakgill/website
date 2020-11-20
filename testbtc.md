@@ -1201,6 +1201,86 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 15 February 2018
+
+Ethereum creator Vitalik Buterin says what Theymos has done to r/Bitcoin with censorship is ["deplorable."](https://twitter.com/VitalikButerin/status/964126608654151681?ref_src=twsrc%5Etfw_
+
+>I consider Theymos's moderation policies on /r/bitcoin absolutely deplorable, but if the subreddit had been called /r/lounge_of_theymos the whole time instead, then it would be 100% totally ok.
+
+---
+
+## 20 April 2018
+
+CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://www.cheapair.com/blog/a-letter-to-our-bitcoin-customers/) and other coins [because they offer lower fees and better transaction experiences than Bitcoin.](https://news.bitcoin.com/expedia-drops-bitcoin-payments-official-confirms/)
+
+>In different ways, Litecoin, Bitcoin Cash, and Dash all promise improved transactability than their predecessor, with faster transaction times and/or lower fees,” Cheapair noted in a press release. “Over the last six months, we’ve seen a huge uptick in the number of customers requesting alternative currencies, so we’ve worked hard to integrate the three that were most requested.
+
+---
+
+## 07 May 2018
+
+[CoinMarketCap deletes Bitcoin.com from their BTC listing](https://cointelegraph.com/news/coinmarketcap-quietly-removes-bch-promoting-bitcoincom-from-its-btc-page) as punishment after Bitcoin Core supporters drum up a false effort to accuse them of misleading customers over BTC and BCH.
+
+Bitcoin Core Twitter personalty Ragnar Lifthrasir helped [organize the campaign.](https://cointelegraph.com/news/outraged-pro-btc-community-alleges-bitcoincom-is-misleading-buyers-into-buying-bch)
+
+>If you've lost bitcoin because of misleading language, ticker symbols, graphics, or photos on any Roger Ver website or wallet (like Bitcoin .com) please submit your report to: https://t.co/Tvk2YG4bju we also have a Telegram group.
+
+The problem? Days before CoinMarketCap delisted Bitcoin.com the entire effort had been [dropped because they couldn't get enough supporters](https://cointelegraph.com/news/pro-btc-movement-scraps-lawsuit-against-vers-bitcoincom-citing-lack-of-funds) to say they had been mislead by Bitcoin.com and contribute to the cause. 
+
+---
+
+## 14 May 2018
+
+Popular Bitcoin podcast host, Peter McCormack, asks in r/bitcoin if someone can help him understand both sides of the scaling debate. [His post is immediately deleted.](https://twitter.com/derykmakgill/status/996110493793173504?s=20)
+
+Longtime Bitcoiner [Bryan Micon comments](https://twitter.com/BryanMicon/status/996384902089199616?s=20) in frustration and notes that r/bitcoin has become a bubble:
+
+>Censoring the mere mention of an altcoin, in a legitimate post discussing Bitcoin vs. said altcoin, is what's wrong with r/bitcoin.
+>
+>Missing the old days where ideas flowed freely there. 
+>
+>Now it's an echo chamber where wrongthink is quickly swept away.
+
+---
+
+## 21 May 2018
+
+Blockstream's Chief Strategy Officer Samson Mow asks for an [SEC investigation](https://twitter.com/Excellion/status/976628574919671808?s=20) into CNBC for discussing Bitcoin Cash and jail time.
+
+>Nice selective timeframe to pump the $BCH altcoin to your viewers. May as well make a graphic putting it on a throne for dramatic effect right? Seriously, if these guys at @CNBC aren’t in jail by year end, someone isn’t doing their job.  @SEC_Enforcement
+
+He asks if there are any [current investigations.](https://twitter.com/Excellion/status/998650624370663425?s=20)
+
+>My question is if there are any pending investigations into @CNBCFastMoney by @SEC_News for @BKBrianKelly and other staff pumping and dumping $BCH, or accepting bribes to market the altcoin to investors.
+
+He also [asks for material he can send the SEC directly.](https://twitter.com/Excellion/status/998762417470373888?s=20)
+
+>Collecting some gems for @SEC_Enforcement @SEC_News to take a closer look at @CNBCFastMoney @CNBC pumping and dumping altcoins on their viewers. Enough is enough. If you have more tweets, post below and I’ll add them to the Moment. 
+
+Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tells a now-deleted Bitcoin Cash account that [Bitcoin Cashers will be jailed.](https://twitter.com/LukeDashjr/status/976677047589396480?s=20)
+
+>Maybe after some of you start ending up in jail, you'll stop trying to advertise your altcoin as something it isn't (Bitcoin).
+
+---
+
+## 10 June 2018
+
+[Expedia drops Bitcoin as a payment option after having accepted it since 2014.](https://cointelegraph.com/news/confirmed-travel-booking-giant-expedia-has-quietly-removed-bitcoin-payment-option)
+
+---
+
+## 21 July 2018
+
+Cobra creates a [Github issue proposing to redo the long-standing informational video on Bitcoin.org.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2535#issue-343348067) From his comment, we can tell his concern is that users would think that Bitcoin is meant to be used for payments.
+
+>...Claims fees are low which is not necessarily true...
+>
+>Overall the video just feels... empty. Anyone who watches it won't even get close to a true understanding of what Bitcoin is. It just presents Bitcoin as something slightly better than PayPal. I think it's better if we get a new more up to date video made.
+
+It is notable that nobody had ever complained about the video and the impression it left newcomers with about Bitcoin for years.
+
+---
+
 ## 11 August 2018
 
 Cobra creates a Github issue to discuss [relisting companies that were removed from Bitcoin.org for supporting the 2mb hard fork block size increase.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/2577) His reasoning is that the delisting *worked* to stop the increase and that these companies are unlikely to try it again.
