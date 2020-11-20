@@ -63,7 +63,7 @@ I may edit this document with new material or make minor edits (dates, spelling 
 
 In a discussion about Digicash on the Cypherpunk Mailing List, 
 James A. Donald [critisizes](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
-the early electronic cash for having high fees.
+the early electronic cash for having high fees. <span class="footnote"><span class="fnHide"> (Footnote: </span>I do not mean by including the early cyphepunk discussions in this timeline to suggest that the cypherpunks were necessarily some kind of ancestors or "founding fathers" of Bitcoin. To the contrary, I think the evidence shows that Satoshi was likely not deeply involved with the cypherpunks and was largely unfamiliar with their literature and thinking. I'm sharing them for two reasons: 1) because there is a common myth that the cypherpunks did not care about transaction fees in e-cash. As evidenced by this email and others, that is false. The cypherpunks were of mixed opinions on this issue, and 2) because although I do not believe the evidence shows the cypherpunks were ancestors of Bitcoin and Satoshi Nakamoto, the myth that they were and the false ideas about some of them has been very influential in shaping the development coure of Bitcoin after Satoshi Nakamoto left the project. It's important to understand the origins of these myths as well as their innaccuracies.<span class="fnHide">)</span></span> 
 
 ```
 While Chaum is a brilliant cryptographer, he is an incompetent businessman. 
