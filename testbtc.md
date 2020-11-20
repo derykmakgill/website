@@ -3,8 +3,6 @@ layout: page
 title: Timeline History of Bitcoin Scaling (1995-2020)
 ---
 
-or 
-
 ## What happened to Bitcoin and why
 
 <img src="https://i.imgur.com/CFp7TGh.png" style="
