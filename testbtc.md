@@ -692,6 +692,12 @@ for everything. else, and it's something I think man kind ought to have.
 
 ---
 
+## 11 September 2012
+
+[BitPay reports](https://www.americanbanker.com/news/bitpay-signs-1-000-merchants-to-accept-bitcoin-payments) having over 1,000 merchants accepting bitcoin under its payment processing service.
+
+---
+
 ## 04 December 2012
 
 [Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002069.html) argues with [Greg Maxwell](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2012-December/002064.html) about SPV nodes and slow vs fast adoption. Mike's position is that not everyone needs to run a node and that Bitcoin needs to move fast or it will lose its opportunity.
@@ -1397,6 +1403,12 @@ Former Bitcoin Core YouTube personality Richard Heart claims that he and others 
 Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_ver_escaped_taxes/fhzg431?utm_source=share&utm_medium=web2x) to report Roger Ver to the federal government.
 
 >Surely you didn't conceal your assets... that would have been extraordinarily unwise considering how widely you have bragged about your holdings, especially considering that the IRS will pay whistleblowers up to 30% of the underpayment when the total under-paid is at least $2m. But if you did disclose your assets you should be on the list?
+
+---
+
+## 21 October 2020
+
+[PayPal announces](https://ca.reuters.com/article/ctech-us-paypal-cryptocurrency-idCAKBN2761L6-OCATC) it will allow people to buy and sell Bitcoin on its platform, but not withdraw or deposit funds. It's one of the first big finance moves towards custodial payment processing.
 
 ---
 
