@@ -163,7 +163,7 @@ Adam Back releases the [Hash Cash paper](http://www.hashcash.org/papers/hashcash
 
 ## 25 December 2005
 
-Nick Szabo published his [Bit gold paper.](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+Nick Szabo publishes his [Bit gold paper.](http://unenumerated.blogspot.com/2005/12/bit-gold.html) <span class="footnote"><span class="fnHide"> (Footnote: </span>An interesting piece of evidence that people have cited in support of the claim that Nick Szabo is Satoshi is the fact that the paper was re-dated to December 2008 on his blog, as if he were trying to hide the fact that he first published the paper 2005 before the release of Bitcoin. This, I think, can be easily debunked, as Nick re-dated many of his posts in 2008 as <a href="https://unenumerated.blogspot.com/2008/08/reruns.html" target="_blank">"reruns."</a> Regardless, the possibility of Szabo being Satoshi has very strong meme power. For example, in justifying his opposition to the 2mb blocksize increase in 2017, Litecoin creator <a href="https://twitter.com/SatoshiLite/status/928132580469227520" target="_blank">Charlie Lee</a> said that Szabo was the closest thing to Satoshi, if not Satoshi himself, and because he opposes it Charlie will oppose it too.  <span class="fnHide">)</span></span> 
 
 ---
 
