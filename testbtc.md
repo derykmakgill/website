@@ -161,6 +161,12 @@ Adam Back releases the [Hash Cash paper](http://www.hashcash.org/papers/hashcash
 
 ---
 
+## 25 December 2005
+
+Nick Szabo published his [Bit gold paper.](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+
+---
+
 ## 22 January 2006
 
 Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, terrorist sympathizing, sockpupettry and more on Wikipedia,](https://np.reddit.com/r/btc/comments/45ail1/wikipedians_on_greg_maxwell_in_2006_now_cto_of/) many of the same tactics he would later use in Bitcoin.
