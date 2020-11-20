@@ -350,6 +350,12 @@ Bitcoin developer Mike Hearn [commented](http://eigenjoy.com/2014/05/17/bitcoin-
 
 ---
 
+## 22 May 2010
+
+On 22 May 2010, Laszlo Hanyecz made the first real-world transaction by buying two pizzas in Jacksonville, Florida, for 10,000 BTC.
+
+---
+
 ## 14 July 2010
 
 A <code>max_block_size</code> [value of 1MB](https://github.com/bitcoin/bitcoin/commit/a30b56ebe76ffff9f9cc8a6667186179413c6349#diff-118fcbaaba162ba17933c7893247df3aR2614) set on the client.
