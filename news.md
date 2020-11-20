@@ -3,7 +3,7 @@ layout: page
 title: The Newsmakers
 ---
 
-<p>The HTML code for the footnotes consists of a tiny bit of code that wraps the footnote content. It is identical for all footnotes which means that it can be saved as a code snippet for repeated use.</p> <span class="footnote"><span class="fnHide"> (Footnote: </span>Note that generally you will not want a space between the character immediately before the footnote reference <span class="fnHide">)</span></span>
+<p>The HTML code for the footnotes consists of a tiny bit of code that wraps the footnote content. It is identical for all footnotes which means that it can be saved as a code snippet for repeated use.</p> <span class="footnote"><span class="fnHide"> (Footnote: </span><img src="https://ds86ezgzhjiyh.cloudfront.net/images/supfort-web-design-seo-and-development-logo-2x.jpg" alt="Supfort Web Design, SEO, and Development in Dallas &amp; Fort Worth, Texas" width="200" height="76"> Note that generally you will not want a space between the character immediately before the footnote reference <span class="fnHide">)</span></span>
 
 
 
