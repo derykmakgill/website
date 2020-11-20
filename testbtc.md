@@ -181,7 +181,7 @@ Satoshi Nakamoto releases the Bitcoin whitepaper on the Cryptography Mailing Lis
 
 ## 02 November 2008
 
-The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald.
+The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald. <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span>
 
 ```
 We very, very much need such a system, but the way I understand your
@@ -192,7 +192,7 @@ proposal, it does not seem to scale to the required size.
 
 ## 03 November 2008
 
-Satoshi Nakamoto argues that Bitcoin can scale easily on-chain through the use of specialised data centers and Simplified Payment Verification.
+Satoshi Nakamoto argues that Bitcoin can scale easily on-chain through the use of specialised data centers and Simplified Payment Verification. <span class="footnote"><span class="fnHide"> (Footnote: </span>For more on SPV, see the whitepaper <span class="fnHide">)</span></span>
 
 ```
 Long before the network gets anywhere near as large as that, it would be safe 
@@ -1224,6 +1224,9 @@ Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_
 [Michael Saylor tweets](https://twitter.com/michael_saylor/status/1329446490117451785) that governments should handle currency while Bitcoin should only store value. Sadly, the post is very popular.
 
 >Bitcoin should be neither a currency, nor a payment network. The principles of humility & harmony dictate that we should allow technology partners to provide for payments, & defer to governments on matters of currency.  $BTC is a purely engineered Store of Value.
+
+
+<div id = "Footnotes"><p class="invis">Footnotes:</p></div>
 
 <small>Thanks to Isaac Morehouse and Steve Patterson for comments/ideas/corrections/discussion/etc.</small>
 
