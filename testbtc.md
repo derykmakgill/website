@@ -210,19 +210,17 @@ Satoshi Nakamoto releases the Bitcoin whitepaper on the Cryptography Mailing Lis
 
 ## 02 November 2008
 
-The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald. <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span>
-
+The Bitcoin 'Scaling Wars' arguably begin with the first reply to Satoshi Nakamoto's whitepaper release by James A. Donald. 
 <pre>
 We very, very much need such a system, but the way I understand your
-proposal, it does not seem to scale to the required size. <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span>
+proposal, it does not seem to scale to the required size. 
 </pre>
 
 ---
 
 ## 03 November 2008
 
-Satoshi Nakamoto argues that Bitcoin can scale easily on-chain through the use of specialised data centers and Simplified Payment Verification. <span class="footnote"><span class="fnHide"> (Footnote: </span>For example, on this page, I used the basic class "footnote" for the footnote span and the basic id "Footnotes" of the Footnotes div for the first group of footnotes, and I used the class "footnoteCode" for the footnote span and the id "FootnotesCode" for the Footnotes div for the bottom group of footnotes, and I used the class "footnoteSide" for the footnote span and the id "FootnotesSide" for the Footnotes div for the Side Box group of footnotes. Note that this means that in the code snippets shown above the suffixes will need to be added manually.<br><br><span style="display:inline-block;padding-left:2em;">
-And this longer section of text. Though having said that in theory only inline elements should be used within the footnote content, in practice, if you include block level elements inside inline tags it doesn’t produce invalid HTML, and it seems to display correctly in all browsers.</span><br><br>This is an important moment in Bitcoin history because comparisons between Bitcoin and Bit Gold are used as evidence to suggest that Bitcoin was always intended to scale with a second layer, like Szabo's Bit Gold. However, the evidence suggests Satoshi did not even know of Bit Gold when he developed Bitcoin.<span class="fnHide">)</span></span>
+Satoshi Nakamoto argues that Bitcoin can scale easily on-chain through the use of specialised data centers and Simplified Payment Verification. 
 
 ```
 Long before the network gets anywhere near as large as that, it would be safe 
