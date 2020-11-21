@@ -1425,6 +1425,9 @@ Greg Maxwell [threatens](https://www.reddit.com/r/btc/comments/f5lm9r/how_roger_
 
 >Bitcoin should be neither a currency, nor a payment network. The principles of humility & harmony dictate that we should allow technology partners to provide for payments, & defer to governments on matters of currency.  $BTC is a purely engineered Store of Value.
 
+---
+
+## Notes
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
 
