@@ -1429,7 +1429,7 @@ Sadly, the post is very popular.
 
 ---
 
-## Notes
+## Notes (Digressions, Marginalias, Theories, Extras, Etc)
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
 
