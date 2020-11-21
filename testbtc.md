@@ -943,6 +943,12 @@ Peter Todd himself wrote that John Dillon creeped him out a bit and seemed to be
 
 ---
 
+## 18 December 2013
+
+BitcoinTalk member GameKyuubi creates the ['hodling'](https://bitcointalk.org/index.php?topic=375643.0) meme that would come to takeover all of Bitcoin.
+
+---
+
 ## 08 April 2014
 
 Gavin Andresen [steps down as the lead developer for Bitcoin Core](https://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer) and passes the reins to Wladimir van der Laan.
