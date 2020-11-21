@@ -78,8 +78,7 @@ The discussion is one of the incredible coincidences in the history of electroni
 
 ## 30 October 1995
 
-Creator of the Cypherpunk Mailing List Timothy C. May says [Digicash can never work with high fees](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) <span class="footnote"><span class="fnHide"> (Footnote: </span>James A. Donald is incidentally, a pedophile per his blog at blog.jim.com <span class="fnHide">)</span></span> 
-
+Creator of the Cypherpunk Mailing List Timothy C. May says [Digicash can never work with high fees](http://mailing-list-archive.cryptoanarchy.wiki/archive/1995/10/cedf031887bdce1f992b8382dc4c27486c61a68bebd117b9bf2818fa2d6dbe23/) 
 ```
 I don't know if the "skims off 4% to 10% every time" point accurately
 describes how the current Digicash model works, but certainly this will not
