@@ -339,21 +339,83 @@ The Bitcoin.org website on [Wayback Archive](https://web.archive.org/web/2010072
 
 ---
 
-## 19 September 2010
+## 08 September 2010
 
-After some discussion, Hal Finney, Satoshi (Bitcoin’s creator), and the user ‘Cryddit,’ who is Ray Dallingerr, on Bitcointalk imposed a [1MB default block size](https://github.com/bitcoin/bitcoin/commit/172f006020965ae8763a0610845c051ed1e3b522) to reduce the chance of spam transactions hijacking blockspace, or the possibility of cheap DoS attacks. [Cryddit below explains why this limit was put in place:](https://bitcointalk.org/index.php?topic=946236.msg10388435#msg10388435)
+[Satoshi explains](https://bitcointalk.org/index.php?topic=994.msg12237#msg12237) that the limits currently exist to control spam but that they can easily change the threshold when it is necessary in the future.
 
->I'm the guy who went over the blockchain stuff in Satoshi's first cut of the bitcoin code.  Satoshi didn't have a 1MB limit in it. The limit was originally Hal Finney's idea.  Both Satoshi and I objected that it wouldn't scale at 1MB.  Hal was concerned about a potential DoS attack though, and after discussion, Satoshi agreed.  The 1MB limit was there by the time Bitcoin launched.  But all 3 of us agreed that 1MB had to be temporary because it would never scale.
->
->Several attempted "abuses" of the blockchain under the 1MB limit have proved Hal right about needing the limit at least for launching purposes.  A lot of people wanted to piggyback extraneous information onto the blockchain, and before miners (and the community generally) realized that blockchain space was a valuable resource they would have allowed it.  The blockchain would probably be several times as big a download now if that limit hadn't been in place, because it would have a lot of random 1-satoshi transactions that exist only to encode information for altcoins etc.
->
->At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
+```
+The threshold can easily be changed in the future.  We can decide 
+to increase it when the time comes.  It's a good idea to keep it 
+lower as a circuit breaker and increase it as needed.  If we hit 
+the threshold now, it would almost certainly be some kind of flood 
+and not actual use.  Keeping the threshold lower would help limit 
+the amount of wasted disk space in that event.
+```
+
+---
+
+## 30 September 2010
+
+[Early Bitcoiners discuss](https://bitcointalk.org/index.php?topic=1314.msg1461) competing with Visa on BitcoinTalk and scaling Bitcoin with a blocksize increase.
+
+```
+I did a quick Google search on the topic, and discovered an old Visa 
+press release that stated that during the peak hour for the year of 2005 
+(Dec 23rd) Visa processed an average of 6,363 transactions per second, 
+or just shy of 3.82 million transactions within a ten minute span.  The 
+same press release made the claim that Visa processed more transactions 
+within a coffee break than all of the world's public stock exchanges have 
+ever done on their best day. combined.  I'm afraid I can't link it however, 
+you will have to search for it yourself.  "How many transactions?" should 
+work.
+```
+
+```
+That's a lot. Bitcoin won't allow blocks over 1MB, so assuming a (rather small)
+average transaction size of 216 bytes, Bitcoin can only handle 4,629 transactions 
+per 10 minutes.
+```
+
+```
+That hard limit is going to have to be bumped up if/when Bitcoin takes off.  463
+transactions per minute wouldn't be anywhere near viable for a worldwide online 
+currency.  We, at least, need to be able to handle the number of average transactions 
+per minute that paypal claims they currently average.
+```
+
+```
+Maybe we can scale the block limit, like we scale the difficulty?
+Compute average block size over past two weeks, and don't accept 
+blocks over AVG_SIZE*100 ?
+```
+
+```
++1 Scaling to high transaction rate has always been my main concern about viability 
+of bitcoin.  I'm much more concerned about scalability than government shutdown, 
+for example.
+````
+
+---
+
+## 01 October 2010
+
+[theymos says](https://bitcointalk.org/index.php?topic=1314.msg14795#msg14795) the blocksize can be carefully raised when necessary and points out that since blocks are never full at the time, it's not a problem.
+
+[Jeff Garzik writes](https://bitcointalk.org/index.php?topic=1314.msg14911#msg14911) that at minimum Bitcoin needs to compete with PayPal level speed.
+
+```
+Otherwise, I don't see how we can convince others that bitcoin is a long 
+term viable [micro]currency, if technical limitations keep bitcoin below 
+500 transactions/minute.
+```
 
 ---
 
 ## 03 October 2010
 
 [theymos writes](https://bitcointalk.org/index.php?topic=1314.msg15143#msg15143) that the blocksize will be increased in the future and people will run only light software.
+
+When asked where the limit comes from, Theymos [writes](https://bitcointalk.org/index.php?topic=1314.msg15122#msg15122) that the limit is arbitrary and probably there to reduce DDos.
 
 ---
 
@@ -1087,6 +1149,18 @@ In response to Gavin Andresen's argument that Bitcoin's block size must be raise
 >Run along now, back to playing in the mud with the other naked kids in your village. Bitcoin's just not for your kind.
 
 He also asserts without evidence that Gavin Andresen is a mole for the US Government and threatens to "humiliatingly defeat" him.
+
+---
+
+## 07 February 2015
+
+[‘Cryddit,’ who is Ray Dallinger,](https://bitcointalk.org/index.php?topic=946236.msg10388435#msg10388435) explains on BitcoinTalk why Satoshi imposed a [1MB default block size]() to reduce the chance of spam transactions hijacking blockspace, or the possibility of cheap DoS attacks.
+
+>I'm the guy who went over the blockchain stuff in Satoshi's first cut of the bitcoin code.  Satoshi didn't have a 1MB limit in it. The limit was originally Hal Finney's idea.  Both Satoshi and I objected that it wouldn't scale at 1MB.  Hal was concerned about a potential DoS attack though, and after discussion, Satoshi agreed.  The 1MB limit was there by the time Bitcoin launched.  But all 3 of us agreed that 1MB had to be temporary because it would never scale.
+>
+>Several attempted "abuses" of the blockchain under the 1MB limit have proved Hal right about needing the limit at least for launching purposes.  A lot of people wanted to piggyback extraneous information onto the blockchain, and before miners (and the community generally) realized that blockchain space was a valuable resource they would have allowed it.  The blockchain would probably be several times as big a download now if that limit hadn't been in place, because it would have a lot of random 1-satoshi transactions that exist only to encode information for altcoins etc.
+>
+>At this point I don't think random schmoes who would allow just any transaction are getting a  lot of blocks. The people who have made a major investment in hashing power are doing the math to figure out which tx are worthwhile to include because block propagation time (and therefore the risk of orphan blocks) is proportional to block size. So at this point I think blockchain bloat as such is no longer likely to a problem, and the 1MB limit is no longer necessary.  It has been more-or-less replaced by a profitability limit that motivates people to not waste blockchain bandwidth, and miners are now reliably dropping transactions that don't pay fees. 
 
 ---
 
