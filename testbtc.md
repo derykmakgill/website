@@ -1252,6 +1252,12 @@ CheapAir CEO Jeff Klee announces their [plans to accept Bitcoin Cash](https://ww
 
 ---
 
+## 23 April 2018
+
+[Bitcoin Twitter personality Ragnar Lifthasir](https://siliconangle.com/2018/04/29/lawsuit-targets-bitcoin-com-alleged-bitcoin-cash-deceptive-practices/) tweets that Roger Ver should go to jail for promoting Bitcoin Cash.
+
+---
+
 ## 07 May 2018
 
 [CoinMarketCap deletes Bitcoin.com from their BTC listing](https://cointelegraph.com/news/coinmarketcap-quietly-removes-bch-promoting-bitcoincom-from-its-btc-page) as punishment after Bitcoin Core supporters drum up a false effort to accuse them of misleading customers over BTC and BCH.
