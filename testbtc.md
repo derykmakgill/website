@@ -443,6 +443,8 @@ the rate of Moore's Law, about 60% per year.
 
 [One of the first documented payments for services using Bitcoin.](https://web.archive.org/web/20130618021437/http://www.bitcoinblogger.com/2011/01/power-of-bitcoins.html)
 
+---
+
 ## 28 January 2011
 
 [Hal Finney writes](https://bitcointalk.org/index.php?topic=3025.msg42185#msg42185) that mining should be expensive because it protects the network from "a well financed attacker..."
