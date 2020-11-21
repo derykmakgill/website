@@ -140,9 +140,9 @@ Future Blockstream Cofounder Greg Maxwell is [accused of vandalism, bullying, te
 
 ---
 
-[Greg Maxwell is again accused](http://nonbovine-ruminations.blogspot.com/2007/07/reactionary-english-wikipedia-admins.html) of aggressive and harassing behavior on WikiPedia.
-
 ## 14 July 2007
+
+[Greg Maxwell is again accused](http://nonbovine-ruminations.blogspot.com/2007/07/reactionary-english-wikipedia-admins.html) of aggressive and harassing behavior on WikiPedia.
 
 > Just look at the talk page - people complained about 1) not discussing this first and for being concocted off-wiki. and 2) it slowed down the site for people seeing the message. Fair complaints? I think so. Then Gmaxwell swoops in and has a temper tantrum. No wonder it didn't go anywhere, despite being a great idea...
 >
