@@ -1244,6 +1244,15 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 16 November 2017
+
+[Coinbase founder Brian Armstrong](https://youtu.be/AIC62BkY4Co) says in an interview that Bitcoin broke his heart by not scaling as it should have.
+
+>I think Bitcoin was my first true love, but it did break my heart a little bit...“Bitcoin ended up not scaling to be that..Right now, it’s ended up being a little more like digital gold. People are using it to kind of flee in times of uncertainty or to hold large amounts of it, but the transactions are too expensive on Bitcoin right now….It could be something on the order of one cent U.S. or less [each] to send every payment in the world...That’s where we need to get. Bitcoin, right now, only can do about three to five transactions a second. Visa does about 4,000 a second, so we’ve got a couple of orders of magnitude to go.
+
+
+---
+
 ## 15 February 2018
 
 Ethereum creator Vitalik Buterin says what Theymos has done to r/Bitcoin with censorship is ["deplorable."](https://twitter.com/VitalikButerin/status/964126608654151681?ref_src=twsrc%5Etfw_
