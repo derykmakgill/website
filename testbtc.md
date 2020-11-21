@@ -260,7 +260,7 @@ to allow for anonymity even beyond the mechanisms discussed in the paper.
 
 ## 13 January 2009
 
-Satoshi writes in an email to Dustin Trammel that it was Hal Finney who pointed out to him that Bitcoin could be a "long-odds" investment. Although its hard to be sure, the email hints at the possibility that Satoshi was not thinking of Bitcoin as a 'store of value' when he first developed it. He also lays out his vision for bootstrapping Bitcoin as a tool for micropayments in the range of a few cents.
+Satoshi writes in an email to Dustin Trammel that it was Hal Finney who pointed out to him that Bitcoin could be a "long-odds" investment. <span class="footnote"><span class="fnHide"> (Footnote: </span>An alternative version of this email exists on the public mailing lists due to the fact that this email was forwarded by Satoshi with permission from Dustin Trammel. For whatever reason though, it does not include the comment about Hal Finney's price predictions. That comment comes from Trammel's own archive of his emails which are no longer live on his site. It's hard to make much more of it but it is perhaps worth speculating on. <span class="fnHide">)</span></span> Although its hard to be sure, the email hints at the possibility that Satoshi was not thinking of Bitcoin as a 'store of value' when he first developed it. He also lays out his vision for bootstrapping Bitcoin as a tool for micropayments in the range of a few cents.
 
 ```
 Hal sort of alluded to the possibility that it could be seen as a
