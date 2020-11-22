@@ -1500,6 +1500,14 @@ Sadly, the post is very popular.
 
 ---
 
+## 22 November 2020
+
+[Vitalik Buterin](https://twitter.com/VitalikButerin/status/1330403226101841920) tells Samson Mow that Blockstream only exists to monetize the fact that Bitcoin was prohibited from scaling.
+
+>Dude, you're literally part of a company that created a proprietary consortium chain for people to stick their tokens onto that only needs to exist because BTC (and even trustless L2s on top of it) don't have the scalability or functionality to do so natively.
+
+---
+
 ## Notes (Digressions, Marginalias, Theories, Extras, Etc)
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
