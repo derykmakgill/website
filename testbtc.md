@@ -1168,6 +1168,8 @@ He also asserts without evidence that Gavin Andresen is a mole for the US Govern
 
 Gavin Andresen writes another article on [increasing the blocksize](http://gavinandresen.ninja/block-size-and-miner-fees-again) and Coinbase Tweets their [support for the article.](https://twitter.com/coinbase/status/595741967759335426)
 
+[Andreas Antonoplous tweets:](https://twitter.com/aantonop/status/595601619581964289) "Gavin is right. The time to increase the block size limit is before transaction processing shows congestion problems. Discuss now, do soon."
+
 ---
 
 ## 07 May 2015 
