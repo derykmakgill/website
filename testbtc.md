@@ -1301,6 +1301,14 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 04 January 2018
+
+[theymos](https://www.reddit.com/r/Bitcoin/comments/7nz69v/can_we_get_a_link_to_the_whitepaper_in_the_sidebar/ds61skm/) replies to a comment about adding the Bitcoin whitepaper to the sidebar of r/Bitcoin. He says that the whitepaper is a bad way to learn about Bitcoin.
+
+>The paper is not a good introduction to Bitcoin. It was written in 2008 (before Bitcoin even existed) in order to convince users of the cryptography mailing list that the idea was workable. It was never a complete description of Bitcoin, and it was never good for newbies. I was very familiar with crypto and P2P when I first discovered Bitcoin, and it took me a while to fully understand the paper even with the benefit of being able to ask Satoshi about any questions I had. It is especially not good for newbies 10 years later, when the very language we use to talk about these things has changed substantially. The paper is a historical artifact, very interesting and not inaccurate, but very very bad for actually gaining technical understanding of anything.
+
+---
+
 ## 15 February 2018
 
 Ethereum creator Vitalik Buterin says what Theymos has done to r/Bitcoin with censorship is ["deplorable."](https://twitter.com/VitalikButerin/status/964126608654151681?ref_src=twsrc%5Etfw_
@@ -1366,6 +1374,18 @@ He also [asks for material he can send the SEC directly.](https://twitter.com/Ex
 Blockstream 'contractor' and Bitcoin Core developer Luke Dashjr joins in and tells a now-deleted Bitcoin Cash account that [Bitcoin Cashers will be jailed.](https://twitter.com/LukeDashjr/status/976677047589396480?s=20)
 
 >Maybe after some of you start ending up in jail, you'll stop trying to advertise your altcoin as something it isn't (Bitcoin).
+
+---
+
+## 08 June 2018
+
+A [r/Bitcoin user] (https://www.reddit.com/r/Bitcoin/comments/8pfdjh/bitcoinorgs_new_version_is_live/e0bulzn/)comments on the new Bitcoin.org that removing CoinBase and BitPay is "insane and political."
+
+>STRONGLY DISAGREE. What is the point of this site? To educate beginners right? Onboard new users? How does removal of the two biggest payment processors help with that?
+
+The post is very popular, and [theymos replies](https://www.reddit.com/r/Bitcoin/comments/8pfdjh/bitcoinorgs_new_version_is_live/e0c90cm/) in a heavily downvoted comment that CoinBase and BitPay have tried to take over Bitcoin.
+
+>They repeatedly supported attempts to take over Bitcoin, such as "NYA". Bitcoin was created to change the world, not to make people lots of money, and bitcoin.org does not need to point people to companies which have proven that they are fundamentally opposed to the principles behind Bitcoin just so that it's easier to "onboard" people. That's pump-and-dump thinking, not Bitcoin thinking.
 
 ---
 
@@ -1444,6 +1464,12 @@ Bitcoin Core influencer Tuur Demeester writes that ["at full maturity, using the
 
 >The worst parts of Bitcoin culture reliably come from folks like @Excellion and a few of the folks he has hired at 
 @Blockstream.
+
+---
+
+## 17 July 2019
+
+[theymos](https://www.reddit.com/r/Bitcoin/comments/cedkch/rep_patrick_mchenry_theres_no_capacity_to_kill/eu1xn7f/?utm_source=reddit&utm_medium=web2x&context=3) writes in a post that it's possible to imagine that Lightning Network nodes will fall under harmful regulatory capture.
 
 ---
 
