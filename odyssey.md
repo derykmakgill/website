@@ -11,7 +11,7 @@ Regardless of their literary merit relative to eachother, The Odyssey is certain
 
 A teaser might read something like this: *Troy is ruined, as are the Greeks who ruined it. Agammemnon, murdererd by his wife and her lover! Aias, dashed against the rocks for pissing off a god. Achilles, dead, as are countless others. And Odysseus, missing in action while his wife and son try to protect their wealth and lives against the men of Itacha who have come to take Odysseuses place in his absence! Where is Odysseus? Will he return and save his family and land?*
 
-## On Translations of The Odyssey
+## On Translations of The Odyssey (which should I choose?)
 
 I'm unsure whether or not most readers are as obsessive about picking the "proper" translation as I am, but as a 
 general rule I've found that while there are no proper translations, there is almost always an improper one, or at least one that makes so many annoying changes as to make the text have a different meaning.
