@@ -123,3 +123,5 @@ For Murray, you can pick up the [Loeb Classical Library Edition](https://amzn.to
 For Fitzgerald, the [Everyman's Library](https://amzn.to/399ZU4g) has great copies that are a step above the Loebs I think, though they don't have the Greek text.
 
 For all other translations from mid-1900s and earlier, there are probably used copies you can pick up on eBay or AbeBooks from Heritage Press or other old bookmakers. I know for a fact that Heritage released a great copy of Alexander Pope's translation of The Iliad, for example.
+
+Personally, I prefer to have a few copies for both comparison and more importantly, commentary. The Fagles edition from Penguin Classics for example has some interesting material in the endnotes and the introduction that is well worth reading.
