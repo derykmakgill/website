@@ -3,12 +3,14 @@ layout: page
 title: The Odyssey
 ---
 
-The most distasteful thing about the Ancient Greeks is that they apparently regarded The Odyssey as the inferior of the two 
-epic poems written by Homer? How now? The Odyssey is by far the better of the two. 
+The most distasteful thing about the Ancient Greeks is that they apparently regarded The Odyssey as the inferior of the two epic poems written by Homer? How now? The Odyssey is by far the better of the two and has remained near the top of my favorite books since I first read it in high school.
 
-Or maybe that is because I had the misfortunate of watching Brad Pitt's *Troy* before I read The Iliad and had very different expectations going into the book and felt let down by the fact that Paris was even *worse* than Orlando Bloom such that Helen didn't seem to like him much, Agamemmnon and Menalaus seem like pretty fine men, Hector is "meh," and the book ends before the city is even destroyed.
+Or maybe I only think The Odyssey is better because I had the misfortunate of watching Brad Pitt's *Troy* before I read The Iliad and had very different expectations going into the book and felt let down by the fact that Paris was even *worse* than Orlando Bloom such that Helen didn't seem to like him much, Agamemmnon and Menalaus seem like pretty fine men, Hector is "meh," and the book ends before the city is even destroyed.
 
-Regardless of their literary merit relative to eachother, The Odyssey is certainly more recongisable to we modern Netflix-addled goldfish and almost reads like a novel at times following a very classic (because Homer rather invented it) hero's journey arch that is just riveting.
+Regardless of their literary merit relative to eachother, The Odyssey is certainly more recongisable to we modern Netflix-addled goldfish and almost reads like a novel at times following a very classic (because Homer rather invented it) hero's journey arch that is just riveting and feels at once ancient and timely.
+
+*Troy is ruined, as are the Greeks who ruined it. Agammemnon, murdererd by his wife and her lover! Aias, dashed against the rocks for pissing off a god. Achilles, dead, as are countless others. And Odysseus, missing in action while his wife and son try to protect their wealth and lives against the men of Itacha who have come to take Odysseuses place in his absence!*
+
 
 ## On Translations of The Odyssey
 
