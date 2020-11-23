@@ -89,7 +89,25 @@ And Wilson, well... she deserves her own commentary.
 
 ## On So-Called Modern Translations
 
-And now I turn to some more thoughts on Emily Mitchell's translation and the broader culture of translation that exists in publishing today.
+And now I turn to some more thoughts on Emily Wilson's translation and the broader culture of translation that exists in publishing today. The sense that you get from reading many of the very new translations of old works, and nowhere is this more true than in Classical Studies, is that the translator has some kind of axe to grind with the author, the characters of the world he is translating, and the contemporary world in which he himself lives.
+
+Emily Wilson strikes me as the quintessential archetype for this kind of translator qua activist, and her Odyssey reflects all of that. For example, whereas in the past, translators were satisfied to translate a word as it was meant and give as close approximation to the intended feeling of a passage no matter how offensive to our own modern morals and tastes, Wilson is not. In place of words like attendant, housekeeper, herald, serving-woman, handmaid, woman, servant, nurse, maid, household hand, henchman, steward, shepherd, aide-in-arms, stableman, girl, lady, runner, swineherd, and slave, she just uses "slave" because according to her: 
+
+>The need to acknowledge the fact and the horror of slavery, and to mark the fact that the idealized society depicted in the poem is one where slavery is shockingly taken for granted, seems to me to outweigh the need to specify, in every instance, the type of slave.
+
+The problem is not that she is incorrect about slavery—it is horrible everywhere and always, in all shapes and forms, from the kindest master to the most sadistic monster. The problem is that *readers already know this,* and that in using the word "slave" constantly where "nurse" would have been more accurate, Wilson actually introduces a sort of moral awareness into the story that didn't exist yet. If it was common to refer to ones slaves not as slaves, but as "nurses" or "chambermaids" or "servants," that *tells* you something about the world of Odysseus and the slaves that occupied it. Painting it over with one catchall word that has exceptionally negative (rightfully so) connotations in today's world accomplishes in some ways the opposite of what Wilson intended. The dark thing about slavery in the ancient world is not that it existed and they were aware it was wrong and called it by its name, but that it was so deeply embedded in culture that more benign words were used instead. That *tells you something.* Emily Wilson does not.
+
+Cultural commentary of this kind is valuable, but it should be left to sidenotes, footnotes and introductions. The readers should know they are slaves, while also being aware of the real terms that were used.
+
+Unfortunately, it is hard to believe Wilson is acting in good faith because of the self-congragulatory, defmatory and lazy critiscms she has made against other translators who did not make the same choice she did.
+
+>I’ve been surprised, since finishing my translation, to go back and look more at other translations, and realize how much translators have worked to remove or reduce slavery from The Odyssey. In many cases, there are interpretative questions about what a literary text means, and it’s debatable. In the case of the words for “slave”, they’re really not debatable; those are just mistranslations, motivated presumably by a desire to idealize Homeric society and Homeric poetry, and remove the troubling fact that it depicts a slave-owning society.
+
+There's no evidence for this kind of motivation. Fagles, Murray, etc all use the word slave in their translations. And it is a great irony that while one of Wilson's stated goals is to draw attention to the slaves of The Odyssey, by giving them all one label she dehumanizes them further and readers are left unsure what they actually did.
+
+the Polyphemus episode seems to meditate uneasily on the processes of colonization
+
+>But the Odyssey is also about other people: Penelope, the nymph Calypso, the witch Circe, the princess Nausicaa; Odysseus’s many shipmates who died before they could make it home; the countless slaves in Odysseus’s house, many of whom are never named.
 
 ## On Print Editions of The Odyssey
 
