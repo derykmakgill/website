@@ -29,13 +29,24 @@ Muse, tell me how he wandered and was lost
 when he had wrecked the holy town of Troy
 ```
 
-Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague and it seems one of those examples in translation where being too literal actually makes you lose meaning.
+Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague and it seems one of those examples in translation where being too literal actually makes you lose meaning in English.
 
 ```
 Sing to me of the man, Muse, the man of twists and turns(πολῠ́τροπος) …
 driven time and again off course, once he had plundered
 the hallowed heights of Troy. 
 ```
+
+There are other examples of problems in Wilson. 
+```
+ ‘Ah, gods!
+ A happy day for me! My son and grandson 
+ are arguing about how tough they are!’
+ ```
+ 
+"Tough" sounds okay until you realise she is translating the Ancient Greek word ἀρετή, which is just about the most important concept in Greek epic poetry. Now while I agree the word doesn't have a direct translation into English, "tough" is certainly *not* it.
+
+ 
 
 ```
 poor fools,
