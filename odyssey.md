@@ -15,6 +15,8 @@ For my own part, I've read several different translations. When I was in highsch
 
 When you know even a little Ancient Greek, you start to notice things about the translations that rather annoy you. In the case of The Odyssey, this starts in the very first line with the translation of the Greek word πολῠ́τροπος.
 
+Murray translates πολῠ́τροπος as "of many devices," which is imperfect but it at least gets the meaning across that Odysseys is a crafty, wily man.
+
 ```
 Tell me, Muse, of the man of many devices(πολῠ́τροπος), driven far astray after he had sacked the sacred citadel of Troy.
 ```
@@ -27,7 +29,7 @@ Muse, tell me how he wandered and was lost
 when he had wrecked the holy town of Troy
 ```
 
-Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague.
+Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague and it seems one of those examples in translation where being too literal actually makes you lose meaning.
 
 ```
 Sing to me of the man, Muse, the man of twists and turns(πολῠ́τροπος) …
@@ -48,3 +50,5 @@ and the Sungod blotted out the day of their return.
 Launch out on his story, Muse, daughter of Zeus,
 start from where you will—sing for our time too. 
 ````
+
+## On Print Editions of The Odyssey
