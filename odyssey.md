@@ -110,6 +110,15 @@ the Polyphemus episode seems to meditate uneasily on the processes of colonizati
 
 >But the Odyssey is also about other people: Penelope, the nymph Calypso, the witch Circe, the princess Nausicaa; Odysseus’s many shipmates who died before they could make it home; the countless slaves in Odysseus’s house, many of whom are never named.
 
+## Reading and Discussion Questions (students read this!)
+
+The Ancient Greeks listened to the Odyssey for pleasure and that should be your only goal. You will learn so much more by learning to actually enjoy it than by answering the type of artificial questions you're likely to receive in school. My advice is this: read it for pleasure. Enjoy! Then maybe you can do something useful with it.
+
+That said, here are some questions I found myself thinking...
+
+1. What are the limitations of the gods in the world of Odysseus and what is the significance of those limitations? What can it tell us about the metaphysical views of the Ancient Greeks, particularly in comparison to Christianity and Islam?
+
+
 ## On Print Editions of The Odyssey
 
 One annoying thing about particpating in translation wars is that it can often be difficult to find a quality bound edition of the translation you want, as specialty press shops usually only stock one translation at a time. For example, I'll gladly spend an evening or two with anyone defending the Constance Garnett translations of Dostoevsky's novels, but the market for quality-bound books apparently doesn't agree with me because I haven't found good copies of her tranlsations in hardcover, sewn bindings with acid-free paper, while her modern rivals like Richard Pevear have a great editions availalbe from Everyman's Library.
