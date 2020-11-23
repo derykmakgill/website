@@ -86,7 +86,7 @@ While I understand that describing someone as "godlike" hardly fits our time, we
 
 And Wilson, well... she deserves her own commentary.
 
-## On So-Called Modern Translations
+## On So-Called Modern Translating Practices
 
 And now I turn to some more thoughts on Emily Wilson's translation and the broader culture of translation that exists in publishing today. The sense that you get from reading many of the very new translations of old works, and nowhere is this more true than in Classical Studies, is that the translator has some kind of axe to grind with the author, the characters of the world he is translating, and the contemporary world in which he himself lives.
 
