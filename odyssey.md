@@ -19,11 +19,15 @@ When you know even a little Ancient Greek, you start to notice things about the 
 Tell me, Muse, of the man of many devices(πολῠ́τροπος), driven far astray after he had sacked the sacred citadel of Troy.
 ```
 
+Emily Wilson's is by far the worst of the three because she renders πολῠ́τροπος as "complicated," which is so vague as to render the description mostly useless because we are left guessing whether "complicated" refers to his moral character, his personality or psychology, or something else.
+
 ```
 Tell me about a complicated(πολῠ́τροπος) man.
 Muse, tell me how he wandered and was lost
 when he had wrecked the holy town of Troy
 ```
+
+Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague.
 
 ```
 Sing to me of the man, Muse, the man of twists and turns(πολῠ́τροπος) …
