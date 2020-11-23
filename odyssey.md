@@ -122,7 +122,9 @@ For the Fagles translation, you can buy the [Penguin boxed paperback set](https:
 
 For Murray, you can pick up the [Loeb Classical Library Edition](https://amzn.to/2UQSwCr) which comes in two small green volumes. The books are printed on acid-free paper and are sewn. They also have the Ancient Greek text on the other side. Loebs are some of my favorite books, and they're just quality enough to be something you can pass on.
 
-![Loeb Odyssey](https://i.imgur.com/n4Vee5c.png)
+<img src="https://i.imgur.com/n4Vee5c.png" alt="Fagles Odyssey" style="
+    max-width: 200px;
+">
 
 For Fitzgerald, the [Everyman's Library](https://amzn.to/399ZU4g) has great copies that are a step above the Loebs I think, though they don't have the Greek text.
 
