@@ -45,7 +45,7 @@ There are other examples of problems in Wilson.
  are arguing about how tough they are!’
  ```
  
-"Tough" sounds okay until you realise she is translating the Ancient Greek word ἀρετή, which is just about the most important concept in Greek epic poetry. Now while I agree the word doesn't have a direct translation into English, "tough" is certainly *not* it, and while Mitchell's translation is certainly readable and enjoyable if you're new to The Odyssey, it is *not* The Odyssey. 
+"Tough" sounds okay until you realise she is translating the Ancient Greek word ἀρετή, which is just about the most important concept in Greek epic poetry and was written about by both Aristotle and Plato. Now while I agree the word doesn't have a direct translation into English, "tough" is certainly *not* it, and while Mitchell's translation is certainly readable and enjoyable if you're new to The Odyssey, it is *not* The Odyssey. 
  
 There are also less important, some might even say trivial changes, that nevertheless I found annoying in Fagles and Wilson. Both for example, translate Ὑπερίονος Ἠελίοιο as "Sun God," but in doing so they omit the fact that the Sun God had a name!
 
@@ -64,13 +64,16 @@ the blind fools, they devoured the cattle of the Sun
 and the Sungod blotted out the day of their return.
 ```
 
-Murray renders the name properly but perhaps a compromise between literalnesss and accuracy would have been good here and a future translator can write "Helios Hyperion, the Sun God."
+Murray renders the name properly but perhaps a compromise between literalness and accuracy would have been good here and a future translator can write "Helios Hyperion, the Sun God."
 
-Now goddess, child of Zeus,
-tell the old story for our modern times.
+Fagles calls Telemachus "Prince Telemachus" when "godlike Telemachus" (Τηλέμαχος θεοειδής) is the literal meaning. While I understand that describing someone as "godlike" hardly fits our time, we're reading epic literature that is thousands of years old an dumbing the story down into a Disney movie doesn't help readers get a sense of the world which Odysseus occupied.
 
-Launch out on his story, Muse, daughter of Zeus,
-start from where you will—sing for our time too. 
+```
+First by far to see her was Prince (θεοειδής) Telemachus,
+sitting among the suitors, heart obsessed with grief. 
+```
+
+And Wilson, well... she deserves her own commentary.
 
 ## On So-Called Modern Translations
 
