@@ -66,12 +66,14 @@ and the Sungod blotted out the day of their return.
 
 Murray renders the name properly but perhaps a compromise between literalness and accuracy would have been good here and a future translator can write "Helios Hyperion, the Sun God."
 
-Fagles calls Telemachus "Prince Telemachus" when "godlike Telemachus" (Τηλέμαχος θεοειδής) is the literal meaning. While I understand that describing someone as "godlike" hardly fits our time, we're reading epic literature that is thousands of years old an dumbing the story down into a Disney movie doesn't help readers get a sense of the world which Odysseus occupied.
+Fagles calls Telemachus "Prince Telemachus" when "godlike Telemachus" (Τηλέμαχος θεοειδής) is the literal meaning. 
 
 ```
 First by far to see her was Prince (θεοειδής) Telemachus,
 sitting among the suitors, heart obsessed with grief. 
 ```
+
+While I understand that describing someone as "godlike" hardly fits our time, we're reading epic literature that is thousands of years old an dumbing the story down into a Disney movie doesn't help readers get a sense of the world which Odysseus occupied.
 
 And Wilson, well... she deserves her own commentary.
 
