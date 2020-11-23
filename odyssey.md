@@ -38,29 +38,39 @@ the hallowed heights of Troy.
 ```
 
 There are other examples of problems in Wilson. 
+
 ```
  ‘Ah, gods!
  A happy day for me! My son and grandson 
  are arguing about how tough they are!’
  ```
  
-"Tough" sounds okay until you realise she is translating the Ancient Greek word ἀρετή, which is just about the most important concept in Greek epic poetry. Now while I agree the word doesn't have a direct translation into English, "tough" is certainly *not* it.
-
+"Tough" sounds okay until you realise she is translating the Ancient Greek word ἀρετή, which is just about the most important concept in Greek epic poetry. Now while I agree the word doesn't have a direct translation into English, "tough" is certainly *not* it, and while Mitchell's translation is certainly readable and enjoyable if you're new to The Odyssey, it is *not* The Odyssey. 
  
+There are also less important, some might even say trivial changes, that nevertheless I found annoying in Fagles and Wilson. Both for example, translate Ὑπερίονος Ἠελίοιο as "Sun God," but in doing so they omit the fact that the Sun God had a name!
+
+Wilson:
 
 ```
 poor fools,
 they ate the Sun God’s cattle, and the god
-kept them from home. Now goddess, child of Zeus,
-tell the old story for our modern times.
+kept them from home.
 ```
+
+Fagles:
 
 ```
 the blind fools, they devoured the cattle of the Sun
 and the Sungod blotted out the day of their return.
+```
+
+Murray renders the name properly but perhaps a compromise between literalnesss and accuracy would have been good here and a future translator can write "Helios Hyperion, the Sun God."
+
+Now goddess, child of Zeus,
+tell the old story for our modern times.
+
 Launch out on his story, Muse, daughter of Zeus,
 start from where you will—sing for our time too. 
-````
 
 ## On Print Editions of The Odyssey
 
