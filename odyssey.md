@@ -114,7 +114,7 @@ One annoying thing about particpating in translation wars is that it can often b
 
 Fortunately that's not the case with The Odyssey and most popular translations have excellent editions available. 
 
-For the Fagles translation, you can buy the [Penguin boxed paperback set](https://amzn.to/399ZQS4) that comes with The Iliad and The Aeniad as well, or you can spend $89 on the excellent copy from The Folio Society, which makes some of the best hardcovers on the market today. They'll last generations easily. Unfortunately the illustrations for the Fagles edition are terrible in my opinion, but if you can ignore them, it's a great option.
+For the Fagles translation, you can buy the [Penguin boxed paperback set](https://amzn.to/399ZQS4) that comes with The Iliad and The Aeniad as well, or you can spend $89 on the excellent copy from [The Folio Society,](https://www.foliosociety.com/usa/the-odyssey.html) which makes some of the best hardcovers on the market today. They'll last generations easily. Unfortunately the illustrations for the Fagles edition are terrible in my opinion, but if you can ignore them, it's a great option.
 
 For Murray, you can pick up the [Loeb Classical Library Edition](https://amzn.to/2UQSwCr) which comes in two small green volumes. The books are printed on acid-free paper and are sewn. They also have the Ancient Greek text on the other side. Loebs are some of my favorite books, and they're just quality enough to be something you can pass on.
 
