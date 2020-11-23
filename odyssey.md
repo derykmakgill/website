@@ -9,9 +9,13 @@ epic poems written by Homer? How now? The Odyssey is by far the better of the tw
 ## On Translations of The Odyssey
 
 I'm unsure whether or not most readers are as obsessive about picking the "proper" translation as I am, but as a 
-general rule I've found that while there are no proper translations, there is almost always an improper one.
+general rule I've found that while there are no proper translations, there is almost always an improper one, or at least one that makes so many annoying changes as to make the text have a different meaning.
 
-For my own part, I've read several different translations. When I was in highschool, I read the Rouse prose translation which I loved. Later on I tried the very popular Fagles translation from Penguin Classics, mostly because it was so well praised and the books came in the Penguin Deluxe paperback style. I enjoyed that too, however while Fagles definitely has something beautiful about his art—for example, some lines in his Orestia are just legendary—I could never quite get into him. I've also tried Lattimore, Fitzergald, and the new translation by Emily Wilson which received such incredible fawning by the twitterati that I couldn't help but bias myself against it from the start.
+For example, in the Richard Pevear *Notes from Underground* by Dostoevsky, he translates со злости as "out of wickedness" rather than the "out of spite" that has been far more common and in my opinon, far better in the context of the rest of the novel. The choice rather changes the meaning of the first paragraphs.
+
+On the other hand, Garnett's stodgy victorianism sometimes meant she cut things out of her translations that you don't realise how much you missed until you read Pevear.
+
+For my own part, I've read several different translations of The Odyssey over the years. When I was in highschool, I read the Rouse prose translation which I loved. Later on I tried the very popular Fagles translation from Penguin Classics, mostly because it was so well praised and the books came in the Penguin Deluxe paperback style. I enjoyed that too, however while Fagles definitely has something beautiful about his art—for example, some lines in his Orestia are just legendary—I could never quite get into him. I've also tried Lattimore, Fitzergald, and the new translation by Emily Wilson which received such incredible fawning by the twitterati that I couldn't help but bias myself against it from the start.
 
 When you know even a little Ancient Greek, you start to notice things about the translations that rather annoy you. In the case of The Odyssey, this starts in the very first line with the translation of the Greek word πολῠ́τροπος.
 
