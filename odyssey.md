@@ -9,8 +9,7 @@ Or maybe I only think The Odyssey is better because I had the misfortunate of wa
 
 Regardless of their literary merit relative to eachother, The Odyssey is certainly more recongisable to we modern Netflix-addled goldfish and almost reads like a novel at times following a very classic (because Homer rather invented it) hero's journey arch that is just riveting and feels at once ancient and timely.
 
-*Troy is ruined, as are the Greeks who ruined it. Agammemnon, murdererd by his wife and her lover! Aias, dashed against the rocks for pissing off a god. Achilles, dead, as are countless others. And Odysseus, missing in action while his wife and son try to protect their wealth and lives against the men of Itacha who have come to take Odysseuses place in his absence!*
-
+A teaser might read something like this: *Troy is ruined, as are the Greeks who ruined it. Agammemnon, murdererd by his wife and her lover! Aias, dashed against the rocks for pissing off a god. Achilles, dead, as are countless others. And Odysseus, missing in action while his wife and son try to protect their wealth and lives against the men of Itacha who have come to take Odysseuses place in his absence! Where is Odysseus? Will he return and save his family and land?*
 
 ## On Translations of The Odyssey
 
