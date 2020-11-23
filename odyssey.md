@@ -8,6 +8,8 @@ epic poems written by Homer? How now? The Odyssey is by far the better of the tw
 
 Or maybe that is because I had the misfortunate of watching Brad Pitt's *Troy* before I read The Iliad and had very different expectations going into the book and felt let down by the fact that Paris was even *worse* than Orlando Bloom such that Helen didn't seem to like him much, Agamemmnon and Menalaus seem like pretty fine men, Hector is "meh," and the book ends before the city is even destroyed.
 
+Regardless of their literary merit relative to eachother, The Odyssey is certainly more recongisable to we modern Netflix-addled goldfish and almost reads like a novel at times following a very classic (because Homer rather invented it) hero's journey arch that is just riveting.
+
 ## On Translations of The Odyssey
 
 I'm unsure whether or not most readers are as obsessive about picking the "proper" translation as I am, but as a 
@@ -27,20 +29,20 @@ Murray translates πολῠ́τροπος as "of many devices," which is imperfe
 Tell me, Muse, of the man of many devices(πολῠ́τροπος), driven far astray after he had sacked the sacred citadel of Troy.
 ```
 
+Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But I find this a bit too vague and it seems one of those examples in translation where being too literal actually makes you lose meaning in English.
+
+```
+Sing to me of the man, Muse, the man of twists and turns(πολῠ́τροπος) …
+driven time and again off course, once he had plundered
+the hallowed heights of Troy. 
+```
+
 Emily Wilson's is by far the worst of the three because she renders πολῠ́τροπος as "complicated," which is so vague as to render the description mostly useless because we are left guessing whether "complicated" refers to his moral character, his personality or psychology, or something else.
 
 ```
 Tell me about a complicated(πολῠ́τροπος) man.
 Muse, tell me how he wandered and was lost
 when he had wrecked the holy town of Troy
-```
-
-Fagles is probably the most literal, and the "man of twists and turns" is a neat phrase. But again I find this a bit too vague and it seems one of those examples in translation where being too literal actually makes you lose meaning in English.
-
-```
-Sing to me of the man, Muse, the man of twists and turns(πολῠ́τροπος) …
-driven time and again off course, once he had plundered
-the hallowed heights of Troy. 
 ```
 
 There are other examples of problems in Wilson. 
