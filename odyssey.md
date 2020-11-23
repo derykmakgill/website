@@ -4,7 +4,9 @@ title: The Odyssey
 ---
 
 The most distasteful thing about the Ancient Greeks is that they apparently regarded The Odyssey as the inferior of the two 
-epic poems written by Homer? How now? The Odyssey is by far the better of the two.
+epic poems written by Homer? How now? The Odyssey is by far the better of the two. 
+
+Or maybe that is because I had the misfortunate of watching Brad Pitt's *Troy* before I read The Iliad and had very different expectations going into the book and felt let down by the fact that Paris was even *worse* than Orlando Bloom such that Helen didn't seem to like him much, Agamemmnon and Menalaus seem like pretty fine men, Hector is "meh," and the book ends before the city is even destroyed.
 
 ## On Translations of The Odyssey
 
