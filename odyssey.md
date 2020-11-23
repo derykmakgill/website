@@ -52,3 +52,13 @@ start from where you will—sing for our time too.
 ````
 
 ## On Print Editions of The Odyssey
+
+One annoying thing about particpating in translation wars is that it can often be difficult to find a quality bound edition of the translation you want, as specialty press shops usually only stock one translation at a time. For example, I'll gladly spend an evening or two with anyone defending the Constance Garnett translations of Dostoevsky's novels, but the market for quality-bound books apparently doesn't agree with me because I haven't found good copies of her tranlsations in hardcover, sewn bindings with acid-free paper, while her modern rivals like Richard Pevear have a great editions availalbe from Everyman's Library.
+
+Fortunately that's not the case with The Odyssey and most popular translations have excellent editions available. 
+
+For the Fagles translation, you can buy the Penguin boxed paperback set that comes with The Iliad as well, or you can spend $89 on the excellent copy from The Folio Society, which makes some of the best hardcovers on the market today. They'll last generations easily. Unfortunately the illustrations for the Fagles edition are terrible in my opinion, but if you can ignore them, it's a great option.
+
+For Murray, you can pick up the Loeb Classical Library Edition which comes in two small green volumes. The books are printed on acid-free paper and are sewn. They also have the Ancient Greek text on the other side. Loebs are some of my favorite books, and they're just quality enough to be something you can pass on.
+
+For Fitzgerald, the Everyman's Library has great copies that are a step above the Loebs I think, though they don't have the Greek text.
