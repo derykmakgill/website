@@ -22,6 +22,8 @@ On the other hand, Garnett's stodgy victorianism sometimes meant she cut things 
 
 For my own part, I've read several different translations of The Odyssey over the years. When I was in highschool, I read the Rouse prose translation which I loved. Later on I tried the very popular Fagles translation from Penguin Classics, mostly because it was so well praised and the books came in the Penguin Deluxe paperback style. I enjoyed that too, however while Fagles definitely has something beautiful about his art—for example, some lines in his Orestia are just legendary—I could never quite get into him. I've also tried Lattimore, Fitzergald, and the new translation by Emily Wilson which received such incredible fawning by the twitterati that I couldn't help but bias myself against it from the start.
 
+By far my favorite translation is the one by A.T. Murray because it seems to most accurate. The online editions are dated, but the [Loeb Classical Library](https://amzn.to/2UQSwCr) has an updated edition which removes some archaisms while preserving the accuracy of his translation.
+
 When you know even a little Ancient Greek, you start to notice things about the translations that rather annoy you. In the case of The Odyssey, this starts in the very first line with the translation of the Greek word πολῠ́τροπος.
 
 Murray translates πολῠ́τροπος as "of many devices," which is imperfect but it at least gets the meaning across that Odysseys is a crafty, wily man.
@@ -90,7 +92,7 @@ And Wilson, well... she deserves her own commentary.
 
 And now I turn to some more thoughts on Emily Wilson's translation and the broader culture of translation that exists in publishing today. The sense that you get from reading many of the very new translations of old works, and nowhere is this more true than in Classical Studies, is that the translator has some kind of axe to grind with the author, the characters of the world he is translating, and the contemporary world in which he himself lives.
 
-Emily Wilson strikes me as the quintessential archetype for this kind of translator qua activist, and her Odyssey reflects all of that. For example, whereas in the past, translators were satisfied to translate a word as it was meant and give as close approximation to the intended feeling of a passage no matter how offensive to our own modern morals and tastes, Wilson is not. In place of words like attendant, housekeeper, herald, serving-woman, handmaid, woman, servant, nurse, maid, household hand, henchman, steward, shepherd, aide-in-arms, stableman, girl, lady, runner, swineherd, and slave, she just uses "slave" because according to her: 
+Emily Wilson is the quintessential archetype for this kind of translator qua activist, and her Odyssey reflects all of that. For example, whereas in the past, translators were satisfied to translate a word as it was meant and give as close approximation to the intended feeling of a passage no matter how offensive to our own modern morals and tastes, Wilson is not. In place of words like attendant, housekeeper, herald, serving-woman, handmaid, woman, servant, nurse, maid, household hand, henchman, steward, shepherd, aide-in-arms, stableman, girl, lady, runner, swineherd, and slave, she just uses "slave" because according to her: 
 
 >The need to acknowledge the fact and the horror of slavery, and to mark the fact that the idealized society depicted in the poem is one where slavery is shockingly taken for granted, seems to me to outweigh the need to specify, in every instance, the type of slave.
 
