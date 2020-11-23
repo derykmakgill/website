@@ -102,7 +102,7 @@ Unfortunately, it is hard to believe Wilson is acting in good faith because of t
 
 >I’ve been surprised, since finishing my translation, to go back and look more at other translations, and realize how much translators have worked to remove or reduce slavery from The Odyssey. In many cases, there are interpretative questions about what a literary text means, and it’s debatable. In the case of the words for “slave”, they’re really not debatable; those are just mistranslations, motivated presumably by a desire to idealize Homeric society and Homeric poetry, and remove the troubling fact that it depicts a slave-owning society.
 
-There's no evidence for this kind of motivation. Fagles, Murray, etc all use the word slave in their translations. And it is a great irony that while one of Wilson's stated goals is to draw attention to the slaves of The Odyssey, by giving them all one label she dehumanizes them further and readers are left unsure what they actually did.
+There's no evidence for this kind of motivation. Fagles, Murray, etc all use the word slave in their translations. And it is a great irony that while one of Wilson's stated goals is to draw attention to the slaves of The Odyssey, by giving them all one label she dehumanizes them further and readers are left unsure what they actually did in their day-to-day lives beyond being a "slave."
 
 the Polyphemus episode seems to meditate uneasily on the processes of colonization
 
