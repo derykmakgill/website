@@ -72,6 +72,10 @@ tell the old story for our modern times.
 Launch out on his story, Muse, daughter of Zeus,
 start from where you will—sing for our time too. 
 
+## On So-Called Modern Translations
+
+And now I turn to some more thoughts on Emily Mitchell's translation and the broader culture of translation that exists in publishing today.
+
 ## On Print Editions of The Odyssey
 
 One annoying thing about particpating in translation wars is that it can often be difficult to find a quality bound edition of the translation you want, as specialty press shops usually only stock one translation at a time. For example, I'll gladly spend an evening or two with anyone defending the Constance Garnett translations of Dostoevsky's novels, but the market for quality-bound books apparently doesn't agree with me because I haven't found good copies of her tranlsations in hardcover, sewn bindings with acid-free paper, while her modern rivals like Richard Pevear have a great editions availalbe from Everyman's Library.
