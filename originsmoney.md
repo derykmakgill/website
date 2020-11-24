@@ -13,7 +13,7 @@ This is no mere semantic parlor tick. From this understanding, we can begin to u
 
 >Money is neither a yardstick of value nor of prices. Money does not measure value. Nor are prices measured in money: they are amounts of money. And, although those who describe money as a "standard of deferred payments" naively assume it to be so, as a commodity it is not stable in value. The relation between money and goods perpetually fluctuates not only on the "goods side," but on the "money side" also. As
 
-## Quotes
+## Quotes (the "gist" of Menger)
 
 ### Money and law
 
