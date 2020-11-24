@@ -1028,11 +1028,68 @@ are directly impacting decentralization when individual miners are
 seeing that happen to themselves.
 ```
 
+---
+
+## 10 June 2013
+
+Self-described intelligence agent [John Dillon](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-June/002729.html) sends an email that miners have too much power to raise the blocksize.
+
+```
+It has been suggested that we leave the decision of what the blocksize to be
+entirely up to miners. However this leaves a parameter that affects every
+Bitcoin participant in the control of a small minority. Of course we can not
+force miners to increase the blocksize if they choose to decrease it, because
+the contents of the blocks they make are their decision and their decision
+only. However proposals to leave the maximum size unlimited to allow miners to
+force us to accept arbitrarily large blocks even if the will of the majority of
+Bitcoin participants is that they wish to remain able to validate the
+blockchain.
+
+What we need is a way to balance this asymetrical power relationship.
+```
+
+In a later email sent on the same day, [John Dillon](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-June/002734.html) falsley claims that Satoshi Nakamoto never forsaw pool mining, ASICs, and was strongly against using GPUs.
+
+```
+Indeed it was. Which is why as GPU's came onto the scene Satoshi was strongly
+against them. I have to wonder what he thinks of ASICs where just a handful of
+companies control the supply of Bitcoin hashing power.
+
+Satoshi also never forsaw pools, which are why just 2 or 3 people control the
+majority of Bitcoin hashing power.
+```
+
+Another Bitcoiner [asks for evidence](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-June/002736.html) for this but John Dillon does not reply to him.
+
+
+---
+
+## 16 August 2013
+
+[Gavin Andresen](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-August/003127.html) publishes a todo list that includes working on papers explaining why the 1mb blocksize increase must be raised.
+
+[Peter Todd](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-August/003139.html) replies that off-chain solutions will delay the need for raising the blocksize soon despite none really existing at the moment.
+
+[Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-August/003147.html) writes that Satoshi's vision was always to have millions of users supported by maybe 100,000 nodes.
+
+[Peter Todd](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-August/003149.html) replies that Satoshi had bad economic judgement.
+
+```
+Appeal to authority. Stop bringing up Satoshi's "vision" - our understanding of
+crypto-currencies has improved in the 4.5 years since Bitcoin was
+released. Satoshi didn't even forsee pool mining, which says a lot about
+his economic judgement.
+```
+
+Over time, the gap between those who think that Satoshi was correct and those who think they know better than Satoshi would grow.
+
+---
+
 ## 30 August 2013
 
 [Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
 
->I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin
+<code>I've started to suspect jdillon is a very sophisticated troll with the ulterior motive of destroying bitcoin.</code>
 
 ---
 
