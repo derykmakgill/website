@@ -13,7 +13,8 @@ title: Timeline History of Bitcoin Scaling (1995-2020)
 
 Over the past few many years, I believe an effort, coordinated or spontaneous, has gone into rewriting both the history of Bitcoin and changing the design of Bitcoin such that it no longer resembles what it was meant to be when Satoshi Nakamoto announced it in October 2008. 
 
-While a great many articles and videos exist that make good arguments about particulars, never has a general and comprehensive timeline existed that tells the entirety of this story.
+While a great many articles and videos exist that make good arguments about particulars, never has a general and comprehensive timeline existed that tells the entirety of this story from the perspective of people who were actually there working on Bitcoin.
+
 
 ---
 
