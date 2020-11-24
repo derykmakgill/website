@@ -20,6 +20,8 @@ Keep in mind though we're talking about commodity money—money in its original 
 
 ## Menger and Bitcoin
 
+I read the book years ago for the first time and re-read it again to help me better understand Bitcoin. What can Menger tell us about Bitcoin? 
+
 ## Quotes (the "Gist" of Menger)
 
 ### Time and space
