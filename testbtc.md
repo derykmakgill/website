@@ -1290,6 +1290,255 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 11 September 2017
+
+Bitcoin Core developer and Blockstream Cofounder Matt Corallo submits a [filing](https://www.sec.gov/comments/sr-nysearca-2017-06/nysearca201706-161046.htm) to the Securities and Exchange Commission to ask them to step in and protect consumers from attempts to create a new Bitcoin.
+
+>I am Matt Corallo, a long-time developer of Bitcoin (around the 10th publicly recorded individual to contribute to the Bitcoin codebase), an expert on Bitcoin's operation, vocal Bitcoin advocate, and strong proponent of the availability of a Bitcoin Exchange-Traded Product (ETP).
+>
+>I have very grave concerns with the proposed rules for the maintaining of Bitcoin deposits and the lack of consumer protection in the event of Bitcoin Network rule changes in the current filings.
+>
+>As described in the S-1 filing for the "Bitcoin Investment Trust" (BIT), a "permanent fork" of Bitcoin may occur when two groups of users disagree as to the rules which define the system (its "consensus rules"). More specifically, such a "permanent fork" is likely to occur when one group of users wish to make a change to Bitcoin's consensus rules, while another group does not. This leads to two cryptocurrencies, and may lead to significant ambiguity around which should be referred to as "Bitcoin".
+
+---
+
+## 26 September 2017
+
+An issue is opened on Github to [delist any company that signed the NYA.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1753) Cobra writes that they should [delist BitPay and Coinbase, any of their products, and issue an alert for potential customers.](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1753#issuecomment-332300306)
+
+>I believe the main economic actors involved in this NYA takeover attempt (Coinbase & Bitpay) are still very committed to going through with it. Nothing has changed in the last month.
+>
+>For now, let's just remove any mention of Coinbase and Bitpay (and their associated products), and put out an alert telling users to BEWARE of Coinbase and Bitpay because they plan on switching over to something that we believe isn't actual Bitcoin. The alert can have instructions telling users how to get their BTC off these services and recommend alternative companies that are committed to using the real Bitcoin.
+
+---
+
+## 28 September 2017
+
+Cobra opens a Github issue for Bitcoin.org labeled [*Add Segwit2x Safety Alert.*](https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824) The alert ostensibly warns users of hostile companies, but the list includes most of the oldest, most successful Bitcoin companies, and the real goal seems to be to scare or punish these companies for their stance on Segwit 2x.
+
+>This adds a new alert warning users about storing any BTC in Coinbase, Bitpay and Xapo. These companies continue ahead with their plan to hard fork away from consensus, and so this alert is necessary to make sure users are informed enough about the incoming threat.
+>
+>Thoughts? Feedback? I've tried to keep it fairly short, and I don't want this to grow into a huge complex document full of a million different things. I think the key part is to just tell people to get their coins off these dangerous services, and I think this alert accomplishes that pretty well.
+>
+>I've made this into a red alert because I think this incoming hard fork is possibly the greatest threat to Bitcoin, so a red warning is necessary to catch people's attention. I want as many as possible to know what these insidious companies are planning so we can prevent them quietly pushing it through. Raising awareness is key. I'm going to be suspicious of anyone changing this document in such a way as to make the issue seem like less of a danger and trying to "tone it down" without clear well thought out reasons.
+
+The proposal is heavily downvoted on Github. Longtime Bitcoin entrepreneur Erik Vorhees [comments on Twitter:](https://twitter.com/ErikVoorhees/status/918126175758598146)
+
+>Glad to see many of the rational comments on https://github.com/bitcoin-dot-org/bitcoin.org/pull/1824 regarding http://bitcoin.org's highly political message today.
+
+---
+
+## 03 October 2017
+
+Adam Back writes that the companies trying to 'takeover' Bitcoin by raising the block size are ['enemies' of Bitcoin](https://twitter.com/adam3us/status/915232292825698305?s=20) conducting a corporate takeover.
+
+OB1 Cofounder points out that [Adam is the CEO of Blockstream,](https://twitter.com/Satoshi_N_/status/915459435203584000) one of the most funded companies in Bitcoin.
+
+The founder of Blockchain.com, Peter Smith, says that he and others on Adam's enemy list [have spent years growing Bitcoin adoption before it was ever financially or socially profitable.](https://twitter.com/OneMorePeter/status/915508207199670272?s=20)
+
+>We've dedicated our lives to building bitcoin products, introduced millions to bitcoin, evangelized, long before it was cool. Enemies? 
+
+Bitcoin Core supporter Trace Mayer replies some days later that [anyone who supports raising the block size with Segwit 2x is an enemy.](https://twitter.com/TraceMayer/status/917770915731181574?s=20)
+
+>Past work great but #Bitcoin ethos about monetary sovereignty & Segwit2X supporters are enemies of that. We have a name: Benedict Arnold. 🚩📢
+
+He tags Gavin Andresen, Jihan Wu, Coinbase, Xapo, Jeff Garzik and others.
+
+---
+
+## 04 October 2017
+
+Theymos posts on a Github issue asking for people to [post information about companies](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1835) that should be added to the list of companies to warn people about on Bitcoin.org.
+
+Luke Dashjr responds that the Mike Belshe (CEO BitGo) was ["peddling dishonest 2X propaganda"](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1835#issuecomment-335298798) because he posted that the [2bm block increase was simple and safe to do.](https://lists.linuxfoundation.org/pipermail/bitcoin-segwit2x/2017-October/000369.html)
+
+>The 2x part of Segwit2x is, by any measure, a simpler technical
+change.   I would never say that changes carry no risk, but as far as risk
+goes, this one is really small.
+>
+>It's a good opportunity now to just move to 2mb blocks, and there are
+literally no technical objections left.
+
+---
+
+## 05 October 2017
+
+Despite the unpopularity of Bitcoin.org's Segwit Safety Alert proposal, they [post on their blog](https://web.archive.org/web/20171028193101/https://bitcoin.org/en/posts/denounce-segwit2x) their intentions to activate the alert in the coming days, along with a blacklist of companies that includes Coinbase, BitPay, Bitcoin.com, Blockchain.com, BTC.com and more. 
+
+They also list 'guidelines' for companies to be removed from the list. The entire article is shared below.
+
+>On 2017-10-11 at noon (UTC), Bitcoin.org is planning to publish a banner on every page of the site warning users about the risks of using services that will default to the so-called Segwit2x1 (S2X) contentious hard fork. S2X companies will be called out by name. To ensure that we only warn users against companies that will actually put user deposits at risk, we urge all companies to publicly clarify their stance before the above date, either by a highly-visible public statement or by commenting on Bitcoin.org issue #1835 (or by doing both).
+>
+>In particular, we need to know that:
+>
+>- The company will not under any circumstances list “Segwit2x” as “BTC” and/or “Bitcoin”. Note that Bitcoin is not ruled by miners, and miner actions cannot be used as a justification to redefine Bitcoin.
+>
+>- The company will not by default do anything that would deprive users of their bitcoins (by eg. using S2X software without addressing replay attacks2, selling user bitcoins automatically, crediting BTC deposits only as S2X deposits, etc.). Providing access to S2X-coins is acceptable, however.
+>
+>- The company will continue to provide normal service to Bitcoin (ie. non-S2X) users.
+>
+>Although bitcoin.org condemns contentious hard fork attempts such as S2X, we consider it tolerable for companies to support S2X in ways that do not contradict the above three points, such as by supporting both Bitcoin and S2X simultaneously as separate cryptocurrencies.
+>
+>By default, we will be using the following list of companies known to support S2X in our warning:
+>
+>-1Hash (China)
+>
+>-Abra (United States)
+>
+>-ANX (Hong Kong)
+>
+>-Bitangel.com /Chandler Guo (China)
+>
+>-BitClub Network (Hong Kong)
+>
+>-Bitcoin.com (St. Kitts & Nevis)
+>
+>-Bitex (Argentina)
+>
+>-bitFlyer (Japan)
+>
+>-Bitfury (United States)
+>
+>-Bitmain (China)
+>
+>-BitPay (United States)
+>
+>-BitPesa (Kenya)
+>
+>-BitOasis (United Arab Emirates)
+>
+>-Bitso (Mexico)
+>
+>-Bixin.com (China)
+>
+>-Blockchain (UK)
+>
+>-Bloq (United States)
+>
+>-BTC.com (China)
+>
+>-BTCC (China)
+>
+>-BTC.TOP (China)
+>
+>-BTER.com (China)
+>
+>-Circle (United States)
+>
+>-Civic (United States)
+>
+>-Coinbase (United States)
+>
+>-Coins.ph (Phillipines)
+>
+>-CryptoFacilities (UK)
+>
+>-Decentral (Canada)
+>
+>-Digital Currency Group (United States)
+>
+>-Filament (United States)
+>
+>-Genesis Global Trading (United States)
+>
+>-Genesis Mining (Hong Kong)
+>
+>-GoCoin (Isle of Man)
+>
+>-Grayscale Investments (United States)
+>
+>-Jaxx (Canada)
+>
+>-Korbit (South Korea)
+>
+>-Luno (Singapore)
+>
+>-MONI (Finland)
+>
+>-Netki (United States)
+>
+>-OB1 (United States)
+>
+>-Purse (United States)
+>
+>-Ripio (Argentina)
+>
+>-Safello (Sweden)
+>
+>-SFOX (United States)
+>
+>-ShapeShift (Switzerland)
+>
+>-SurBTC (Chile)
+>
+>-Unocoin (India)
+>
+>-Veem (United States)
+>
+>-ViaBTC (China)
+>
+>-Xapo (United States)
+>
+>-Yours (United States)
+>
+>**Notes**
+>
+>1. “SegWit2x” has nothing to do with SegWit. SegWit is already activated, and was supported by an entirely different set of people.
+>2. S2X claims to have replay protection, but their version requires extra manual steps in order to prevent loss of BTC. If you use S2X software without careful engineering, you are likely to lose any associated BTC.
+
+
+The article is notable for many reasons, particularly the claim that "Segwit2x has nothing to do with Segwit."
+
+A hilariously (but accurately) titled article on BitcoinInsider says ["Bitcoin.org Plans to “Denounce” Almost All Bitcoin Businesses and Miners."](https://www.bitcoininsider.org/article/7661/bitcoinorg-plans-denounce-almost-all-bitcoin-businesses-and-miners)
+
+---
+
+## 06 October 2017
+
+[Blockstream Chief Strategy Officer Samson Mow tags the New York Department of Financial Services on Twitter](https://twitter.com/Excellion/status/916491407270879232?s=20) and asks if Coinbase is breaking any rules and engaging in fraud in supporting Segwit 2X.
+
+> Is @coinbase breaking the terms of the #BitLicense? Endorsing 2x fork definitely raises safety concerns. @NYDFS
+
+He [asks if the regulatory body has given approval](https://twitter.com/Excellion/status/916492211700690945?s=20) for Coinbase signing the New York Agreement.
+
+> Did @NYDFS superintendent give prior written approval for Coinbase to sign #NYA?
+
+The threat is clear: if you support Segwit 2X, Blockstream will use state regulatory bodies to punish you.
+
+---
+
+## 11 October 2017
+
+[The Segwit Safety Alert activates on Bitcoin.org.](https://web.archive.org/web/20171029022533/https://bitcoin.org/en/) A red banner stating *Beware of Bitcoin's possible incompatibility with some major services* appears on every page.
+
+![Segwit Safety Alert](https://i.imgur.com/Ghe8T21.png)
+
+The linked article is shared in full below.
+
+> **Summary**
+>
+>A subsection of the Bitcoin economy including prominent businesses such as Coinbase, Xapo, and BitPay have signed an agreement to adopt and implement a contentious hard fork of Bitcoin sometime in November. A hard fork is a backwards incompatible change to the Bitcoin network. This hard fork is not supported by the majority of the Bitcoin users and developers and is therefore a contentious hard fork. By adopting this hard fork, we believe the supporters of this agreement are shifting their users to an alternative currency (an altcoin) which is incompatible with Bitcoin.
+>
+>The signatories of this agreement wrongly believe that the currency created by adopting this contentious hard fork will eventually become Bitcoin. Therefore storing any BTC on services such as Coinbase, Bitpay and Xapo is strongly not recommended. By storing BTC on these services, you could find that after the hard fork, your BTC has been renamed to something else or replaced entirely with the new altcoin. The best way to ensure that your BTC is protected is to download the latest version of Bitcoin Core and transfer out any BTC stored on services that are a signatory to this agreement. We have listed the businesses supporting this contentious hard fork at the bottom of this document.
+>
+>For users who aren’t prepared to install Bitcoin Core and go through the lengthy set up process, we recommend a wallet such as GreenAddress, Electrum or TREZOR. Avoid using web wallets like blockchain.info. However users should only use these wallets to store their coins and never perform transactions until well after the hard fork. Any transactions you make on the Bitcoin blockchain can also be replicated and “replayed” on the altcoin chain. If the coins on the contentious hard fork have any value, there will be methods you can use to “split” your coins and have access to them. Pay extra attention to major Bitcoin communication channels and media shortly after the fork so you stay informed.
+>
+>**Mobile wallets**
+>
+>Miners in Bitcoin are responsible for transaction ordering through putting transactions into blocks, and collectively creating a chain of these blocks. Most mobile wallets depend on blindly trusting the longest chain produced by the miners in order to safely send and receive transactions. There is considerable mining power supporting the contentious hard fork. A majority of miners have pledged to support the contentious hard fork, therefore the longest chain as seen by most mobile wallets may not be the true block chain. As a result of this, spending money from a mobile wallet during a hard fork is dangerous. You will be vulnerable to many attacks as your wallet is not aware that the miners are breaking the consensus rules on the longest chain.
+>
+>If the contentious hard fork has failed and the majority of miners have broken their pledge to support the hard fork, it is safe to continue using mobile wallets, however you should check multiple sources of Bitcoin news such as this website, /r/bitcoin, and the Bitcoin Forum to make sure that it’s safe to continue using your particular wallet. As a general rule, you should not perform any transactions during and shortly after the hard fork.
+>
+>**After the fork**
+>
+>Blocks may be slower shortly after the hard fork and your transactions will take longer to confirm. You will have to pay a higher transaction fee if your transaction is high priority and you want it confirmed in the next block. You should try to get any important transactions done a few days before the hard fork date. A lot of websites and programs will likely pop up around the time of the hard fork offering to split your Bitcoin so you can have access to both your BTC and to the new altcoin created by this contentious hard fork, you should exercise caution as many of these services are likely to be scams trying to steal your bitcoin. As the hard fork has very little replay protection, most transactions you perform on the Bitcoin network will also be valid on the hard fork network. You should keep this in mind when transacting.
+>
+>Some services may continue to present and name the altcoin created by this contentious hard fork as Bitcoin. Users should be aware that this new currency is not Bitcoin. Bitcoin can only be changed with the overwhelming consensus of the entire Bitcoin community of individuals, miners, developers and economy. Even when there is overwhelming consensus, unless in an emergency, a hard fork should have at least a year notice period to give enough time for users to upgrade. This hard fork being adopted by the signatories of this agreement achieves none of these things. It is a rushed and hasty upgrade which only has minority community support and has been thoroughly rejected by users and the technical community. As this new altcoin is not Bitcoin, Bitcoin.org will not list wallets and services that present this altcoin as “Bitcoin” or “BTC” to their users after the hard fork. These services have exited the Bitcoin system in a contentious manner and therefore are no longer useful to our visitors.
+
+The article then lists again all the businesses that are supporting Segwit 2x.
+
+---
+
 ## 31 October 2017
 
 Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html) per day.
