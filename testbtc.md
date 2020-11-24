@@ -1532,6 +1532,14 @@ Sadly, the post is very popular.
 
 ---
 
+## 23 November 2020
+
+[Adam Back](https://twitter.com/adam3us/status/1330969779893628934) complains that exhanges like Kraken are hurting Bitcoin with users that bid up on-chain Bitcoin fees. He says that the fees Bitcoin users getting priced out. 
+
+>Bitcoin users getting priced out hurts un-censorable payments use cases, especially in emerging markets which are have strong need. And to many of us that *is* a big part of the fundamental value.
+
+---
+
 ## Notes (Digressions, Marginalias, Theories, Extras, Etc)
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
