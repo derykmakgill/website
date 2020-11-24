@@ -11,7 +11,9 @@ Menger helped me understand through the concept of *saleability* that money itse
 
 This is no mere semantic parlor tick. From this understanding, we can begin to understand so much more. For example, just as price fixing and subsidies for particular commodities can lead to problems, so too can we say the same thing about money because money is merely the most saleable of all commodities, and at any time money itself has a price. It helps us understand that money is emphatically *not* a measure of value, because money itself must be valued too. From Ludgwig von Mises:
 
->Money is neither a yardstick of value nor of prices. Money does not measure value. Nor are prices measured in money: they are amounts of money. And, although those who describe money as a "standard of deferred payments" naively assume it to be so, as a commodity it is not stable in value. The relation between money and goods perpetually fluctuates not only on the "goods side," but on the "money side" also. As
+>Money is neither a yardstick of value nor of prices. Money does not measure value. Nor are prices measured in money: they are amounts of money. And, although those who describe money as a "standard of deferred payments" naively assume it to be so, as a commodity it is not stable in value. The relation between money and goods perpetually fluctuates not only on the "goods side," but on the "money side" also.
+
+Keep in mind though we're talking about commodity money—money in its original form before state fiat money.
 
 ## Quotes (the "gist" of Menger)
 
@@ -101,3 +103,6 @@ time because they are found to be specially
 qualified for the concomitant and subsidiary
 functions of money. 
 
+## On Print and Digital Editions
+
+Since the book is so small, I don't think it will be available in hardcover. You can get by with printing off the free digital copy at [Mises Insitute](https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf) or you can buy their slim paperback edition on Amazon for a few dollars. One day I hope somebody takes the time to produce a heavily annotated and footnoted edition to further elaborate on what Menger is saying, but luckily he is very clear and there are good commentaries online at Mises Institute.
