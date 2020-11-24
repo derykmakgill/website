@@ -20,7 +20,13 @@ Keep in mind though we're talking about commodity money—money in its original 
 
 ## Menger and Bitcoin
 
-I read the book years ago for the first time and re-read it again to help me better understand Bitcoin. What can Menger tell us about Bitcoin? 
+I read the book years ago for the first time and re-read it again to help me better understand Bitcoin. What can Menger tell us about Bitcoin? I think most timely lesson is that, because money is the most saleable commodity, and because the properties of a given commodity are what make it saleable, then Bitcoin is less useful as money to the extent to which it lacks qualities that would make it saleable.
+
+In this regard, Bitcoin is nearly perfect, but the high on-chain fee situation means Bitcoin is both less divisible and less transportable. As Menger writes:
+
+>The saleableness of commodities are mainly conditioned on...the degree to which goods lend themselves to transport, and the cost of transport incurred in proportion to their value.
+
+Bitcoin, according to Menger, becomes less saleable the more expensive it becomes to use. This doesn't look good for Bitcoin's future as a medium of exchange unless things are fixed.
 
 ## Quotes (the "Gist" of Menger)
 
