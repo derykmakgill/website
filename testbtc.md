@@ -1154,6 +1154,21 @@ Mircea is banned from Twitter.
 
 ---
 
+## 04 July 2014
+
+[Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-July/006192.html) argues against trying to make Bitcoin ASIC resistant.
+
+```
+if you could beat ASICs, you'd end up with botnets. 
+I prefer having the chain be dominated by a single 
+pool for a while than having one with a major botnet 
+presence, given their history of doing things like 
+mining empty blocks and giving random people enormous 
+electricity bills.
+```
+
+---
+
 ## 05 October 2014
 
 A user reported an issue on the Gentoo bug forum that a version of [bitcoind (the official reference client for interacting with the bitcoin network) distributed with Gentoo was blocking particular bitcoin addresses.](https://bugs.gentoo.org/524512)
