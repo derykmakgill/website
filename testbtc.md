@@ -1290,6 +1290,32 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 31 October 2017
+
+Bitcoin Core Twitter and YouTube personality Richard Heart is allegedly [exposed online as an online spammer](reddit.com/r/btc/comments/79y40b/scammer_alert_you_know_the_narcissist_guy_who/) who trained customers to [send millions of unsolicited emails](https://web.archive.org/web/20070821235025/http://mail.nl.linux.org/linux-crypto/2003-05/msg00129.html) per day.
+
+>I don't know how this flew under the radar but this is very interesting. Richard Heart was a nobody just a few short months ago. Literally nobody had heard of him until this year. Then all of a sudden out of nowhere he was someone where he himself claimed he was a "thought leader" and started creating these multi hour long videos where he would do nothing but talk shit about big blockers, talk shit about Bitcoin Cash and pump Core and Blockstream as much as possible...They outed him after discovering his past where he was a HUGE SPAMMER, running scams and hanging with murderers and criminals - I KID YOU NOT. He also has a bunch of fake identities including legit fake passports and fake IDs. This guy is not your run of the mill troll. He is a full on scammer with a shady as fck past!
+
+Richard's [first Bitcoin video](https://www.youtube.com/watch?v=PgNh43veB3Q) appeared right after the Bitcoin Cash hardfork and strongly critisized big-blockers while supporting Segwit. He would would go on make several popular videos during the height of the scaling wars invovlving BTC, Segwit 2X, and Bitcoin Cash.
+
+---
+
+## 08 November 2017
+
+Theymos creates a Github issue titled [*Policy to fight against "miners control Bitcoin" narrative.*](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1904#issue-272347583) He expresses his concern as follows and asks that companies sign a pledge aggreeing that Bitcoin consensus rules are not defined by miners in order to be listed on Bitcoin.org.
+
+>With the S2X nonsense, several companies said that miners control Bitcoin. This belief is one of the most dangerous threats to Bitcoin, since if most people think that, then Bitcoin ends up controlled by only a handful of people.
+>
+>Although this issue is mentioned in a few places on bitcoin.org, I've been thinking that bitcoin.org should somehow act against this more than it is already. For example, maybe bitcoin.org should require that wallets and services sign a very simple pledge that acknowledges that Bitcoin is not ruled by miners in order to be linked from bitcoin.org.
+
+Hilariously, Cobra replies in agreement and [blames this *misconception* on the white paper itself,](https://github.com/bitcoin-dot-org/bitcoin.org/issues/1904#issuecomment-342973983) which begs the question whether the white paper written by Satoshi Nakamoto is correct or they are. He then proposes the paper be rewritten.
+
+>The whitepaper is to blame for all these dangerous beliefs. We seriously need to rewrite it, or produce a completely new whitepaper and call that the Bitcoin whitepaper.
+
+The proposal appears to be wildly unpopular on Github.
+
+---
+
 ## 16 November 2017
 
 [Coinbase founder Brian Armstrong](https://youtu.be/AIC62BkY4Co) says in an interview that Bitcoin broke his heart by not scaling as it should have.
@@ -1299,11 +1325,58 @@ Removeddit shows [several censored comments.](http://removeddit.com/r/Bitcoin/co
 
 ---
 
+## 07 December 2017
+
+[Steam stops accepting Bitcoin payments citing extreme volatility in fee prices.](https://steamcommunity.com/games/593110/announcements/detail/1464096684955433613)
+
+>In the past few months we've seen an increase in the volatility in the value of Bitcoin and a significant increase in the fees to process transactions on the Bitcoin network. For example, transaction fees that are charged to the customer by the Bitcoin network have skyrocketed this year, topping out at close to $20 a transaction last week (compared to roughly $0.20 when we initially enabled Bitcoin). Unfortunately, Valve has no control over the amount of the fee. These fees result in unreasonably high costs for purchasing games when paying with Bitcoin.
+
+In interview in CoinTelegraph, Bitcoin Core supporter Max Keiser tells people to [use an altcoin, Dash, if they want a payment system.](https://cointelegraph.com/news/steam-stops-accepting-bitcoin-payments-citing-extreme-volatility-fees)
+
+>Dash is emerging as the crypto payment rail while Bitcoin asserts itself as Gold 2.0. I suggest those frustrated by the Bitcoin scaling debate to embrace Dash for payments and leave Bitcoin Core alone to continue working on Gold 2.0.
+
+---
+
+## 21 December 2017
+
+Twitter personality Pierre Rochard [threatens Roger Ver and Brian Armstrong](https://twitter.com/pierre_rochard/status/943870400840306694?s=20) with legal action by implication over the naming of 'Bitcoin Cash.'
+
+>Will they also accuse judges and juries of being "retarded" if they rule that the two phrases too similar? 
+
+Pierre had [previously argued](http://archive.is/iVzMs) that disputes over Bitcoin forks should be settled in court, not markets.
+
+---
+
+
 ## 04 January 2018
 
 [theymos](https://www.reddit.com/r/Bitcoin/comments/7nz69v/can_we_get_a_link_to_the_whitepaper_in_the_sidebar/ds61skm/) replies to a comment about adding the Bitcoin whitepaper to the sidebar of r/Bitcoin. He says that the whitepaper is a bad way to learn about Bitcoin.
 
 >The paper is not a good introduction to Bitcoin. It was written in 2008 (before Bitcoin even existed) in order to convince users of the cryptography mailing list that the idea was workable. It was never a complete description of Bitcoin, and it was never good for newbies. I was very familiar with crypto and P2P when I first discovered Bitcoin, and it took me a while to fully understand the paper even with the benefit of being able to ask Satoshi about any questions I had. It is especially not good for newbies 10 years later, when the very language we use to talk about these things has changed substantially. The paper is a historical artifact, very interesting and not inaccurate, but very very bad for actually gaining technical understanding of anything.
+
+---
+
+## 10 January 2018
+
+[The North American Bitcoin Conference stops accepting Bitcoin due to fees and network congestion.](https://news.bitcoin.com/miami-bitcoin-conference-stops-accepting-bitcoin-due-to-fees-and-congestion/) The organizer Moe Levin told reporters: 
+
+>We wish this was easier, but no ticketing options exist which can handle large volumes of ticket sales, and transaction fees on the Bitcoin blockchain exceed $30 at certain times of the day.
+
+---
+
+## 23 January 2018
+
+[Stripe ends its support for Bitcoin, citing the block sizes filling up and the lack of utility, and therefore interest, in Bitcoin payments.](https://stripe.com/blog/ending-bitcoin-support) While Stripe states they don't necessarily disagree with the Bitcoin community not raising the block size, they no longer have any reason to work with it.
+
+>Our hope was that Bitcoin could become a universal, decentralized substrate for online transactions and help our customers enable buyers in places that had less credit card penetration or use cases where credit card fees were prohibitive.
+>
+>Over the past year or two, as block size limits have been reached, Bitcoin has evolved to become better-suited to being an asset than being a means of exchange. Given the overall success that the Bitcoin community has achieved, it’s hard to quibble with the decisions that have been made along the way. (And we’re certainly happy to see any novel, ambitious project do so well.)
+>
+>This has led to Bitcoin becoming less useful for payments, however. Transaction confirmation times have risen substantially; this, in turn, has led to an increase in the failure rate of transactions denominated in fiat currencies. (By the time the transaction is confirmed, fluctuations in Bitcoin price mean that it’s for the “wrong” amount.) Furthermore, fees have risen a great deal. For a regular Bitcoin transaction, a fee of tens of U.S. dollars is common, making Bitcoin transactions about as expensive as bank wires.
+>
+>Because of this, we’ve seen the desire from our customers to accept Bitcoin decrease. And of the businesses that are accepting Bitcoin on Stripe, we’ve seen their revenues from Bitcoin decline substantially. Empirically, there are fewer and fewer use cases for which accepting or paying with Bitcoin makes sense.
+>
+>Therefore, starting today, we are winding down support for Bitcoin payments. Over the next three months we will work with affected Stripe users to ensure a smooth transition before we stop processing Bitcoin transactions on April 23, 2018.
 
 ---
 
