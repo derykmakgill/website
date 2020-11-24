@@ -18,7 +18,14 @@ This is no mere semantic parlor tick. From this understanding, we can begin to u
 
 Keep in mind though we're talking about commodity money—money in its original form before state fiat money.
 
+## Menger and Bitcoin
+
 ## Quotes (the "Gist" of Menger)
+
+### Time and space
+
+>With the extension of traffic in space and with the expansion over ever longer intervals of time of prevision for satisfying material needs, each individual would learn, from his own economic interests, to take good heed that he bartered his less saleable goods for those special commodities which displayed, beside the attraction of being highly saleable in the particular locality, a wide range of saleableness both in time and place. These wares would be qualified by their costliness, easy transportability, and fitness for preservation (in connection with the circumstance of their corresponding to a steady and widely distributed demand), to ensure to the possessor the power, not only “here” and “now” but as nearly as possible unlimited in space and time generally, over all other market-goods at economic prices.
+
 
 ### Money and law
 
@@ -54,6 +61,8 @@ These difficulties would have proved absolutely insurmountable obstacles to the 
 of traffic, and at the same time to the production of goods not commanding a regular sale,
 had there not lain a remedy in the very nature
 of things, to wit, the different degrees of saleableness (Absatzfahigkeit) of commodities. 
+
+>But rising civilization, and above all the division of labor and its natural consequence, the gradual formation of cities inhabited by a population devoted primarily to industry, must everywhere have had the result of simultaneously diminishing the marketability of cattle and increasing the marketability of many other commodities, especially the metals then in use. The artisan who began to trade with the farmer was seldom in a position to accept cattle as money; for a city dweller, the temporary possession of cattle necessarily involved, not only discomforts, but also considerable economic sacrifices; and the keeping and feeding of cattle imposed no significant economic sacrifice upon the farmer only as long as he had unlimited pasture and was accustomed to keep his cattle in an open field. With the progress of civilization, therefore, cattle lost to a great extent the broad range of marketability they had previously had with respect to the number of persons to whom, and with respect to the time period within which, they could be sold economically. At the same time, they receded more and more into the background relative to other goods with respect to the spatial and quantitative limits of their marketability. They ceased to be the most saleable of commodities, the economic form of money, and finally ceased to be money at all.
 
 ### Prices
 
