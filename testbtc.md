@@ -904,6 +904,65 @@ decentralized, free-market way than a fixed constant in the code, though.
 
 ---
 
+## 07 March 2013
+
+Peter Todd sends an email titled *[Large-blocks and censorship.*](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-March/002199.html)
+
+[Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-March/002201.html) responds the same day that this is a rehash of the same debate on blocksize.
+
+```
+To summarize your post - it's another go at arguing for strongly
+limited block sizes, this time on the grounds that large blocks make
+it easier for $AUTHORITY to censor transactions? Is that right?
+```
+
+---
+
+## 13 March 2013
+
+[Gavin Andresen](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-March/002273.html) writes in an email that raising the blocksize has always been part of the vision and that there can still off-chain transactions with a larger blocksize.
+
+```
+> The very statement that we're willing to increase the blocksize as our
+> solution to increased transaction volume rather go down the path of
+> off-chain transactions is incredibly controversial.
+
+I really don't understand this either/or mentality.
+
+OF COURSE we're going to raise the block size limit. Limiting the main
+blockchain to single-digit transactions-per-second is not an option,
+the vision FOREVER has been to scale it up.
+
+And OF COURSE there will be off-chain transactions-- at the very
+least, we need them for "instantly confirmed" transactions.
+```
+
+---
+
+## 09 April 2013
+
+[Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-April/002378.html) writes in a discussion about data 'spam' that trying to define what an abusive transaction is can end up excludin many valuable ones.
+
+```
+It's tempting to see this kind of abuse through the lens of fees, because
+we only have a few hammers and so everything looks like a kind of nail. The
+problem is the moment you try to define "abuse" economically you end up
+excluding legitimate and beneficial uses as well. Maybe Peters patch for
+uneconomical outputs is different because of how it works. But mostly it's
+true. In this case, fees would never work - Peter said the guy who uploaded
+Wikileaks paid something like $500 to do it. I guess by now it's more like
+$600-$700. It's hard for regular end users to compete with that kind of
+wild-eyed dedication to "the cause".
+
+The root problem here is people believe the block chain is a data structure
+that will live forever and be served by everyone for free, in perpetuity,
+and is thus the perfect place for "uncensorable" stuff. That's a reasonable
+assumption given how Bitcoin works today. But there's no reason it will be
+true in the long run (I know this can be an unpopular viewpoint).
+```
+
+---
+
 ## 18 April 2013 
 
 Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](https://sourceforge.net/p/bitcoin/mailman/message/30738521/) the bitcoin-development email list offering a $500USD reward to anyone who implements a transaction replacement-by-fee patch for Bitcoin.
@@ -911,6 +970,17 @@ Someone by the name of John Dillon (john.dillon892@googlemail.com) [emails](http
 John Dillon claimed in [leaked private emails](https://archive.is/PK1I1) that his day job is high up in a US intelligence agency. He says that he doesn't like what the government is doing and wants to make up for it by helping Bitcoin.
 
 Peter Todd writes on BitcoinTalk that he is [considering claiming the bounty himself.](https://bitcointalk.org/index.php?topic=179612.msg1873593#msg1873593)
+
+The same day, [Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-April/002422.html) writes about the obsession with DoS protection amongst certain Bitcoin developers.
+
+```
+I think it's worth pointing out that Bitcoin was launched with no DoS
+protection at all, and it's still here. There are still obvious DoS bugs
+being fixed with every release. So yes, it's important to robustify the
+code, but not to the extent of not having any features. If Satoshi had
+taken that perspective Bitcoin might not exist at all. We can have our cake
+and eat it.
+```
 
 ---
 
