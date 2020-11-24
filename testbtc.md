@@ -1008,6 +1008,26 @@ In the ongoing discussion about the Peter Todd video, a forum member [points out
 
 ---
 
+## 31 May 2013
+
+[Peter Todd](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2013-May/002683.html) sends an email to complain that miners are growing too big and powerful, and says breaking them up will help prevent blocksize increases in the future.
+
+```
+Right now between two to four running the largest pools control Bitcoin
+in the short term. That's a lot of hashing power in the hands of very,
+very few people...
+
+This needs to change...
+
+Finally, for the record, a big part of the reason why myself and other
+Keep Bitcoin Free supporters are interested in doing this is very much
+to take power over the direction of the network from big pools and put
+it into the hands of thousands of individual miners. It's much easier to
+convince people that changes to Bitcoin, like increasing the blocksize,
+are directly impacting decentralization when individual miners are
+seeing that happen to themselves.
+```
+
 ## 30 August 2013
 
 [Gavin Andresen writes](http://azure.erisian.com.au/~aj/tmp/irc/log-2013-08-30.html) that he suspects John Dillon is trying to hurt Bitcoin.
