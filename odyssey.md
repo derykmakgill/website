@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Odyssey
+title: The Odyssey by Homer 
 ---
 
 The most distasteful thing about the Ancient Greeks is that they apparently regarded The Odyssey as the inferior of the two epic poems written by Homer? How now? The Odyssey is by far the better of the two and has remained near the top of my favorite books since I first read it in high school.
