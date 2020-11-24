@@ -6,7 +6,7 @@ title: The Origins of Money by Carl Menger
 The Origins of Money by Carl Menger is one of the great short reads in all economic literature, though the title is perhaps misleading. 
 If you're looking for a historical inquirey into the various types of money that have existed in different societies through the ages, the history of coinage, state money, etc etc, you won't find it here. 
 
-The Origins of Money is instead a theoretical introduction that explains the origins of money as a phenomena that arose in the market, prior the state action, due largely spontaneous economic human action. Anyone who wishes to understand why money developed, why particular commodities lent themselves better to becoming money than others, saleability, and how money is a social institution, not a legal one, ought to read this. Those looking for a more specific historical account of money will find this to be a valuable stepping stone to that.
+The Origins of Money is instead a theoretical introduction that explains the origins of money as a phenomena that arose in the market, prior the state action, due largely spontaneous economic human action to meet the need for a universally saleable medium of exchange. Anyone who wishes to understand why money developed, why particular commodities lent themselves better to becoming money than others, saleability, and how money is a social institution, not a legal one, ought to read this. Those looking for a more specific historical account of money will find this to be a valuable stepping stone to that.
 
 ## Saleability and its implications
 
