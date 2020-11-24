@@ -18,7 +18,7 @@ This is no mere semantic parlor tick. From this understanding, we can begin to u
 
 Keep in mind though we're talking about commodity money—money in its original form before state fiat money.
 
-## Quotes (the "gist" of Menger)
+## Quotes (the "Gist" of Menger)
 
 ### Money and law
 
