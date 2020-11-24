@@ -1131,16 +1131,15 @@ BitcoinTalk member GameKyuubi creates the ['hodling'](https://bitcointalk.org/in
 
 ---
 
+## 08 April 2014
+
+Gavin Andresen [steps down as the lead developer for Bitcoin Core](https://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer) and passes the reins to Wladimir van der Laan.
+
+---
 
 ## 19 May 2014
 
 [Mike Hearn](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-May/005834.html) argues against [Adam Back's](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-May/005833.html) proposal for defensive patenting of Bitcoin technologies.
-
----
-
-## 08 April 2014
-
-Gavin Andresen [steps down as the lead developer for Bitcoin Core](https://www.coindesk.com/gavin-andresen-steps-bitcoins-lead-developer) and passes the reins to Wladimir van der Laan.
 
 ---
 
@@ -1166,6 +1165,12 @@ presence, given their history of doing things like
 mining empty blocks and giving random people enormous 
 electricity bills.
 ```
+
+---
+
+## 19 August 2014
+
+[Jeff Garzik](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-August/006518.html) worries about the Bitcoin Core github repo being located on a centralised service.
 
 ---
 
