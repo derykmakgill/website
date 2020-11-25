@@ -23,7 +23,7 @@ If you have a document or know where to find one and want to claim a bounty, [em
 ## George Makgill, bt.
 
 - ~~Makgill, Sir George. *Blacklaw.* London : Methuen and Co, 1914.~~
-- Makgill, Sir George. *Various Letters.* 1868-1926.
+- Makgill, Sir George. *Various Letters.* 1868-1926. <span class="footnote"><span class="fnHide"> (Footnote: </span>If it is any help, I have read rumors that many of his papers were given to the Vatican...though one <a href="http://answers.google.com/answers/threadview/id/771994.html">researcher</a> reports finding a letter in an old M15 file in the London Metropolitan Archives, and the National Archives of Scotland are probably a place to start as well.<span class="fnHide">)</span></span>
 
 ## Operation Atlantis
 
