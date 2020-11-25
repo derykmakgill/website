@@ -22,7 +22,7 @@ If you have a document or know where to find one and want to claim a bounty, [em
 ## George Makgill, bt.
 
 - ~~Makgill, Sir George. *Blacklaw.* London : Methuen and Co, 1914.~~
-- Makgill, Sir George. *Letters.* 1868-1926.
+- Makgill, Sir George. *Various Letters.* 1868-1926.
 
 ## Operation Atlantis
 
