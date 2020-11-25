@@ -17,6 +17,7 @@ If you have a document or know where to find one and want to claim a bounty, [em
 
 - Mungo, Ballas. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. 
 - ~~Hambrook, Emerson C. *The Red To-morrow.* London: The Proletarian Press, 1920.~~
+- Makgill, J.D. *"A Question of Credit."* The Detective Magazine, late ed., 06 June 1924.
 
 ## Operation Atlantis
 
