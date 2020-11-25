@@ -3,6 +3,9 @@ layout: page
 title: Research Bounties On Documents
 ---
 
+I like to think I'm good at tracking things down that nobody else can find, yet things often elude me still. This page lists my failures. Strikethroughs mean I've found the document or the bounty has been filled.
+
+
 ## Bitcoin
 
 - Nakamoto, Satoshi. *"Electronic Cash Without a Trusted Third Party,"* [http://www.upload.ae/file/6157/ecash-pdf.html](http://www.upload.ae/file/6157/ecash-pdf.html), 2008.  <span class="footnote"><span class="fnHide"> (Footnote: </span>I was once played by someone trying to pass off a forgery as real and I was silly enough not to check the meta data first in my excitement. Fortunately I didn't lose money because the person who passed the document on wasn't aiming for that.<span class="fnHide">)</span></span> 
@@ -21,3 +24,6 @@ title: Research Bounties On Documents
 ## Notes
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
+
+<small>Thanks to<a href="https://www.gwern.net/Fulltext">Gwern Branwen</a> for the idea of turning my document searches into a bounty page.</small>
+
