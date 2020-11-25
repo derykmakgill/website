@@ -26,5 +26,5 @@ If you have a document or know where to find one and want to claim a bounty, [em
 
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
 
-<small>Thanks to<a href="https://www.gwern.net/Fulltext">Gwern Branwen</a> for the idea of turning my document searches into a bounty page.</small>
+<small>Thanks to <a href="https://www.gwern.net/Fulltext">Gwern Branwen</a> for the idea of turning my document searches into a bounty page.</small>
 
