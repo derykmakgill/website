@@ -15,7 +15,7 @@ title: Research Bounties On Documents
 ## Operation Atlantis
 
 - Stevens, Warren K. et al. *"The Atlantis News",* Atlantis Publishing Company, 1968-(1972?).
-- ~~Stevens, Warren K. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.
+- ~~Stevens, Warren K. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~
 
 
 
