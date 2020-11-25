@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Bounties On Documents
+updated: 2020-11-25
 ---
 
 I like to think I'm good at tracking things down that nobody else can find, yet things often elude me still. This page lists my failures. Strikethroughs mean I've found the document or the bounty has been filled.
