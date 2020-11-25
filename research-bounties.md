@@ -6,6 +6,7 @@ title: Research Bounties On Documents
 ## Bitcoin
 
 - Nakamoto, Satoshi. *"Electronic Cash Without a Trusted Third Party,"* [http://www.upload.ae/file/6157/ecash-pdf.html](http://www.upload.ae/file/6157/ecash-pdf.html), 2008.  <span class="footnote"><span class="fnHide"> (Footnote: </span>I was once played by someone trying to pass off a forgery as real and I was silly enough not to check the meta data first in my excitement. Fortunately I didn't lose money because the person who passed the document on wasn't aiming for that.<span class="fnHide">)</span></span> 
+- Nakamoto, Satoshi. *Various Emails,* 2008-2012.
 
 ## Fiction
 
