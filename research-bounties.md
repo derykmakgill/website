@@ -5,7 +5,7 @@ title: Research Bounties On Documents
 
 I like to think I'm good at tracking things down that nobody else can find, yet things often elude me still. This page lists my failures. Strikethroughs mean I've found the document or the bounty has been filled.
 
-If you have a document or know where to find one and want to claim a bounty, [email me.](/contact) I'm also happy to give you credit any time I use the document in research or publishing and a backlink to your website.
+If you have a document or know where to find one and want to claim a bounty, [email me.](/contact) I'm also happy to give you credit any time I use the document in research or publishing and a backlink to your website. Lastly, sometimes there are documents I want but I don't really know I want. If by looking at the bounties on this page you think you have something I'll want but isn't listed, please do reach out.
 
 ## Bitcoin
 
