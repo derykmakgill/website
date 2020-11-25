@@ -17,4 +17,6 @@ title: Research Bounties On Documents
 - Stevens, Warren K. et al. *"The Atlantis News",* Atlantis Publishing Company, 1968-(1972?). <span class="footnote"><span class="fnHide"> (Footnote: </span>"Warren K. Stevens" being the psuedonym for Werner Stiefel.<span class="fnHide">)</span></span> 
 - ~~Stevens, Warren K. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~
 
+## Notes
+
 <div id = "Footnotes"><p class="invis">Footnotes:</p></div>
