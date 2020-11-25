@@ -19,6 +19,11 @@ If you have a document or know where to find one and want to claim a bounty, [em
 - ~~Hambrook, Emerson C. *The Red To-morrow.* London: The Proletarian Press, 1920.~~
 - Makgill, J.D. *"A Question of Credit."* The Detective Magazine, late ed., 06 June 1924.
 
+## George Makgill, bt.
+
+- ~~Makgill, Sir George. *Blacklaw.* London : Methuen and Co, 1914.~~
+- Makgill, Sir George. *Letters.* 1868-1926.
+
 ## Operation Atlantis
 
 - ~~Stevens, Warren K. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~  <span class="footnote"><span class="fnHide"> (Footnote: </span>"Warren K. Stevens" being the psuedonym for Werner Stiefel. Though I've found two extant copies, I will gladly buy more if you have them.<span class="fnHide">)</span></span> 
