@@ -8,6 +8,8 @@ I like to think I'm good at tracking things down that nobody else can find, yet 
 
 If you have a document or know where to find one and want to claim a bounty, [email me.](/contact) I'm also happy to give you credit any time I use the document in research or publishing and a backlink to your website. Lastly, sometimes there are documents I want but I don't really know I want. If by looking at the bounties on this page you think you have something I'll want but isn't listed, please do reach out.
 
+<small>Please understand that interest in a document does not mean endorsement of that document, thanks.</small>
+
 ## Bitcoin
 
 - Nakamoto, Satoshi. *"Electronic Cash Without a Trusted Third Party,"* [http://www.upload.ae/file/6157/ecash-pdf.html](http://www.upload.ae/file/6157/ecash-pdf.html), 2008.  <span class="footnote"><span class="fnHide"> (Footnote: </span>I was once played by someone trying to pass off a forgery as real and I was silly enough not to check the meta data first in my excitement. Fortunately I didn't lose money because the person who passed the document on wasn't aiming for that.<span class="fnHide">)</span></span> 
