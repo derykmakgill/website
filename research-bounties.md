@@ -33,7 +33,5 @@ Please understand that interest in a document does not mean endorsement of that 
 - ~~Stevens, Warren K. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~  <span class="footnote"><span class="fnHide"> (Footnote: </span>"Warren K. Stevens" being the psuedonym for Werner Stiefel. Though I've found two extant copies, I will gladly buy more if you have them.<span class="fnHide">)</span></span> 
 - Stevens, Warren K. et al. *"The Atlantis News",* Atlantis Publishing Company, 1968-(1972?).  <span class="footnote"><span class="fnHide"> (Footnote: </span>I've tracked down Volume I, II, III, IV, and V. I also have Volume VI Number 1, but have not found anymore and am even unsure whether or not printing ceased at Volume VI Number 1.<span class="fnHide">)</span></span> 
 
-<div id = "Footnotes" class="footnotes"><p class="invis">Footnotes:</p></div>
-
 <small>Thanks to <a href="https://www.gwern.net/Fulltext">Gwern Branwen</a> for the idea of turning my document searches into a bounty page.</small>
 
