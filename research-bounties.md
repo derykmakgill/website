@@ -4,9 +4,9 @@ title: Research Bounties On Documents
 updated: 2020-11-29
 ---
 
-I like to think I'm good at tracking things down that nobody else can find, yet things often elude me still. This page lists my failures. Strikethroughs mean I've found the document or the bounty has been filled.
+I like to think I'm good at tracking things down that nobody else can find, yet things often elude me still. This page lists documents I've failed to find after a few days of searching. Strikethroughs mean I've found the document myself or the bounty has been filled.
 
-If you have a document or know where to find one and want to claim a bounty, [email me.](/contact) I'm also happy to give you credit any time I use the document in research or publishing and a backlink to your website. Lastly, sometimes there are documents I want but I don't really know I want. If by looking at the bounties on this page you think you have something I'll want but isn't listed, please do reach out.
+If you have a document or know where to find one and want to claim a bounty, [email me.](/contact) I'm also happy to give you credit any time I use the document in research or publishing and a backlink to your website. Lastly, sometimes there are documents I want but I don't really know I want. If by looking at the bounties on this page you think you have something I'll want but isn't listed, please do reach out. Sometimes I might take a while to update this page after finding a document.
 
 Please understand that interest in a document does not mean endorsement of that document, thanks. It is often the case, especially with fiction, that I don't actually know what is in the document beyond some very vague clues until I track it down and read it.
 
