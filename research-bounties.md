@@ -55,7 +55,7 @@ Please understand that interest in a document does not mean endorsement of that 
 
 ## Operation Atlantis
 
-- ~~Stevens, Warren K [Stiefel, Werner]. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968. (nb) ~~ 
+- ~~Stevens, Warren K [Stiefel, Werner]. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968. (nb)~~ 
 - Stevens, Warren K [Stiefel, Werner]. et al. "The Atlantis News," *Atlantis Publishing Company,* 1968 - (1972?). (nw)<span class="footnote"><span class="fnHide"> (Footnote: </span>I've tracked down Volume I, II, III, IV, and V. I also have Volume VI Number 1, but have not found anymore and am even unsure whether or not printing ceased at Volume VI Number 1.<span class="fnHide">)</span></span> 
 
 <div id = "Footnotes" class="footnotes"><p class="invis">Footnotes:</p></div>
