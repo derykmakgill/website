@@ -3,17 +3,17 @@ layout: page
 title: My Library
 ---
 
-**Grote, George**
+**GROTE, GEORGE**
 : A History of Greece; [Abridged] from the Earliest Period to the Close of the Generation Contemporary with Alexander the Great
 
 <p></p>
 
-**Herodotus**
+**HERODOTUS**
 : The Histoies (Ἱστορίαι)
 
 <p></p>
 
-**Makgill, Sir George**
+**MAKGILL, SIR GEORGE**
 : Felons
 : Blacklaw
 : Cross Trail (as Victor Waite)
@@ -21,7 +21,7 @@ title: My Library
 
 <p></p>
 
-**Rand, Ayn**
+**RAND, AYN**
 : We the Living
 : The Early Ayn Rand
 : Anthem
