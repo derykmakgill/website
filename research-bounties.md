@@ -22,13 +22,15 @@ Please understand that interest in a document does not mean endorsement of that 
 - Makgill, Sir George. *Various Letters.* 1868-1926. <span class="footnote"><span class="fnHide"> (Footnote: </span>If it is any help, I have read rumors that many of his papers were given to the Vatican...though one <a href="http://answers.google.com/answers/threadview/id/771994.html">researcher</a> reports finding a letter in an old M15 file in the London Metropolitan Archives, and the National Archives of Scotland are probably a place to start as well.<span class="fnHide">)</span></span>
 - Ballas, Mungo [George Makgill]. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. 
 - ~~Hambrook, Emerson C [George Makgill]. *The Red To-morrow.* London: The Proletarian Press, 1920.~~
-- J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. *"A Question of Credit."* The Detective Magazine, late ed., 06 June 1924.
+- J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. "A Question of Credit." *The Detective Magazine,* late ed., 06 June 1924.
 - J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. *Captain Joan.* Hodder and Stoughton, 1923.
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "As Luck Would Have It." *The Sketch,* Jan 28 1925.
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Butler's Magic." *The 20-Story Magazine,* June 1924.
 
 ## Operation Atlantis
 
 - ~~Stevens, Warren K [Stiefel, Werner]. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~ 
-- Stevens, Warren K [Stiefel, Werner]. et al. *"The Atlantis News",* Atlantis Publishing Company, 1968-(1972?).  <span class="footnote"><span class="fnHide"> (Footnote: </span>I've tracked down Volume I, II, III, IV, and V. I also have Volume VI Number 1, but have not found anymore and am even unsure whether or not printing ceased at Volume VI Number 1.<span class="fnHide">)</span></span> 
+- Stevens, Warren K [Stiefel, Werner]. et al. "The Atlantis News," *Atlantis Publishing Company,* 1968-(1972?).  <span class="footnote"><span class="fnHide"> (Footnote: </span>I've tracked down Volume I, II, III, IV, and V. I also have Volume VI Number 1, but have not found anymore and am even unsure whether or not printing ceased at Volume VI Number 1.<span class="fnHide">)</span></span> 
 
 <div id = "Footnotes" class="footnotes"><p class="invis">Footnotes:</p></div>
 
