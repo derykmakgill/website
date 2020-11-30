@@ -34,6 +34,7 @@ Please understand that interest in a document does not mean endorsement of that 
   - *Captain Joan.* Hodder and Stoughton, 1923. (n)
   - "A Question of Credit." *The Detective Magazine,* late ed., 06 June 1924. (ss)
 - Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. 
+  - "The Warmth of the Shop." *The Detective Magazine,* 25 April 1924. (ss)
   - "As Luck Would Have It." *The Sketch,* January 28 1925. (ss)
   - "Butler's Magic." *The 20-Story Magazine,* June 1924. (ss)
   -  "A Chance of Getting Married." *The Passing Show,* January 20, 1934. (ss)
@@ -51,7 +52,24 @@ Please understand that interest in a document does not mean endorsement of that 
   - "Proof by Deduction." *The New Magazine (UK),* October 1925. (ss)
   - "Van Coppernolle’s Daughter." *The Sketch,* December 2 1925. (ss)
   - "The Warmth of the Shop." *The Detective Magazine,* April 25 1924. (ss)
-
+  - "If the Gods Could Laugh." *Evening News,* 17 February 1938. (ss)
+  - *The Mountain of Gold.* London, Hurst & Blackett, 1928. (n)
+  - *The Hunting of Hilary.* London, Skeffington & Son, 1929. (n)
+  - *The Hunting of Hilary.* London, Skeffington & Son, 1929. (n)
+  - *When the Tide Runs Out.* London, Hurst & Blackett, 1930. (n)
+  - ~~*The Girl in the Flat.* London, Collins, 1934. (n)~~
+  - *At Second Sight.* London, Collins, 1935. (n)
+  - *Enemy's Kiss.* London, Collins, 1935. (n)
+  - ~~*The Luck Shop.* London, Collins, 1935. (n)
+  - *The Dark Path.* London, Collins, 1936. (n)
+  - *Love Cannot Lie.* London, Collins, 1936. (n)
+  - Two Meet. London, Collins, 1936. (n)
+  - *A Girl's Bright Eyes.* London, Collins, 1937. (n)
+  - *Passport to Happiness.* London, Collins, 1937. (n)
+  - *Rule of Three. London.* Collins, 1937. (n)
+  - *Happily Ever After.* London, Collins, 1938. (n)
+  - ~~*Mankiller.* London, Collins, 1939. (n)~`
+  - *A Star to Steer By.* London, Collins, 1939. (n)
 
 ## Operation Atlantis
 
