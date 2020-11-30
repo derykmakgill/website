@@ -48,6 +48,26 @@ Please understand that interest in a document does not mean endorsement of that 
 - Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Van Coppernolle’s Daughter." *The Sketch,* December 2 1925. (ss)
 - Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "The Warmth of the Shop." *The Detective Magazine,* April 25 1924. (ss)
 
+
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "As Luck Would Have It." *The Sketch,* January 28 1925. (ss)
+  - "Butler's Magic." *The 20-Story Magazine,* June 1924. (ss)
+  -  "A Chance of Getting Married." *The Passing Show,* January 20, 1934. (ss)
+  - "The Curious Case of Simon Larkitt." *The Sketch,* April 22 1925. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "A Dark Horse." *The 20-Story Magazine,* June 1926. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "The Dark Street." *The Sovereign Magazine,* November 1924. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Double Interest." *The 20-Story Magazine,* May 1924. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "A Full House." *The 20-Story Magazine,* November 1924. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Good Advice." *The 20-Story Magazine,* July 1926. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "The Man Who Remembered." *The Story-teller,* May 1934. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Masquerade." *The New Passing Show,* April 30 1932. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "One Night in Venice." *The 20-Story Magazine,* August 1932. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "The Out Patient." *The Novel Magazine,* July 1934. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Out!" *The Passing Show,* March 10 1934. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Proof by Deduction." *The New Magazine (UK),* October 1925. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "Van Coppernolle’s Daughter." *The Sketch,* December 2 1925. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "The Warmth of the Shop." *The Detective Magazine,* April 25 1924. (ss)
+
+
 ## Operation Atlantis
 
 - ~~Stevens, Warren K [Stiefel, Werner]. *The Story of Operation Atlantis.* New York: Atlantis Publishing Company, 1968.~~ 
