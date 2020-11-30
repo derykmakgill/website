@@ -37,7 +37,7 @@ Please understand that interest in a document does not mean endorsement of that 
   - "As Luck Would Have It." *The Sketch,* January 28 1925. (ss)
   - "Butler's Magic." *The 20-Story Magazine,* June 1924. (ss)
   -  "A Chance of Getting Married." *The Passing Show,* January 20, 1934. (ss)
-  - "The Curious Case of Simon Larkitt." *The Sketch,* April 22 1925. (ss)
+  - "The Curious Case of Simon Larkitt." *The Sketch,* April 22 1925. (ss) [1]
   - "A Dark Horse." *The 20-Story Magazine,* June 1926. (ss)
   - "The Dark Street." *The Sovereign Magazine,* November 1924. (ss)
   - "Double Interest." *The 20-Story Magazine,* May 1924. (ss)
