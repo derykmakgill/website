@@ -30,7 +30,8 @@ Please understand that interest in a document does not mean endorsement of that 
 - ~~Hambrook, Emerson C [George Makgill]. *The Red To-Morrow.* London: The Proletarian Press, 1920. (n)~~
 - J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. *Captain Joan.* Hodder and Stoughton, 1923. (n)<span class="footnote"><span class="fnHide"> (Footnote: </span>Sir John Donald Alexander Arthur Makgill and Marie Elspeth Agnes Makgill were the son and daughter, respectively, of Sir. George Makgill, hence their inclusion in the George Makgill label. My initial interest in them was to learn more about George Makgill himself, but I've found they stand well on their own, especially Marie who, under Evelyn Winch, was apparently quite popular in her day.<span class="fnHide">)</span></span>
 - J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. "A Question of Credit." *The Detective Magazine,* late ed., 06 June 1924. (ss)
-- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. "As Luck Would Have It." *The Sketch,* January 28 1925. (ss)
+- Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)]. 
+  - "As Luck Would Have It." *The Sketch,* January 28 1925. (ss)
   - "Butler's Magic." *The 20-Story Magazine,* June 1924. (ss)
   -  "A Chance of Getting Married." *The Passing Show,* January 20, 1934. (ss)
   - "The Curious Case of Simon Larkitt." *The Sketch,* April 22 1925. (ss)
