@@ -12,17 +12,9 @@ Please understand that interest in a document does not mean endorsement of that 
 
 ## Item Types & Other Abbreviations
 
-ar = article
-
-iv = interview
-
-n = novel
-
-na = novella/short novel
-
-lt = letter(s)
-
-ss = short story
+| ar = article |  na = novella/short novel | es = essay |
+| iv = interview |   lt = letter(s)  |   nb = non-fiction book |
+| n = novel | ss = short story | nw = newspaper |
 
 ## Bitcoin
 
