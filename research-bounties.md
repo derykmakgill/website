@@ -22,7 +22,7 @@ Please understand that interest in a document does not mean endorsement of that 
 - Nakamoto, Satoshi. *Various Emails,* 2008-2012. (em)<span class="footnote"><span class="fnHide"> (Footnote: </span>Adam Back, Greg Maxwell and Theymos should release the emails from they claim to have received from Satoshi. If there are identifying materials, which I doubt, they can be redacted from the document!<span class="fnHide">)</span></span> 
 - BitcoinTalk. *Deleted Posts,* [https://bitcointalk.org/](https://bitcointalk.org/), 2009-2012.
 
-## George Makgill, bt et al.
+## Sir George Makgill, bt et al.
 
 - Makgill, Sir George. 
   - ~~*Blacklaw.* London : Methuen and Co, 1914. (n)~~ 
