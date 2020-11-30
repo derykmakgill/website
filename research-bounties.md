@@ -16,17 +16,14 @@ Please understand that interest in a document does not mean endorsement of that 
 - Nakamoto, Satoshi. *Various Emails,* 2008-2012.  <span class="footnote"><span class="fnHide"> (Footnote: </span>Adam Back, Greg Maxwell and Theymos should release the emails from they claim to have received from Satoshi. If there are identifying materials, which I doubt, they can be redacted from the document!<span class="fnHide">)</span></span> 
 - BitcoinTalk. *Deleted Posts,* [https://bitcointalk.org/](https://bitcointalk.org/), 2009-2012.
 
-## Fiction
-
-- 
-
-## George Makgill, bt.
+## George Makgill, bt et al.
 
 - ~~Makgill, Sir George. *Blacklaw.* London : Methuen and Co, 1914.~~
 - Makgill, Sir George. *Various Letters.* 1868-1926. <span class="footnote"><span class="fnHide"> (Footnote: </span>If it is any help, I have read rumors that many of his papers were given to the Vatican...though one <a href="http://answers.google.com/answers/threadview/id/771994.html">researcher</a> reports finding a letter in an old M15 file in the London Metropolitan Archives, and the National Archives of Scotland are probably a place to start as well.<span class="fnHide">)</span></span>
-- Mungo, Ballas [George Makgill]. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. 
+- Ballas, Mungo [George Makgill]. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. 
 - ~~Hambrook, Emerson C [George Makgill]. *The Red To-morrow.* London: The Proletarian Press, 1920.~~
-- Makgill, J.D. *"A Question of Credit."* The Detective Magazine, late ed., 06 June 1924.
+- J. D. Makgill, Evelyn M. Winch [[Winch, Marie Elspeth Agnes (née Makgill)]]. *"A Question of Credit."* The Detective Magazine, late ed., 06 June 1924.
+- J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)]. *Captain Joan.* Hodder and Stoughton, 1923.
 
 ## Operation Atlantis
 
