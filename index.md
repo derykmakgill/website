@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="text-links">Deryk Makgill - 32/M/LA <br> Conceptual Artist | ECD@<a href="http://okfoc.us" data="forward thinking creative agency">OKFocus</a></div>
+<h1>Deryk Makgill --- 
+&lt;<a href="makgill.ch">m@MAKGILL.ch</a>&gt;</h1>
 
 This site contains technical papers, essays, reports, software, and other materials by Deryk Makgill.
 
