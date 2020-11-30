@@ -79,10 +79,5 @@ Please understand that interest in a document does not mean endorsement of that 
 ## Notes
 
 <div id = "Footnotes" class="footnotes"><p class="invis">Footnotes:</p></div>
-
-## References
-
-[1] Functional programming. In Wikipedia. Retrieved 2011-12-03.
-
 <small>Thanks to <a href="https://www.gwern.net/Fulltext">Gwern Branwen</a> for the idea of turning my document searches into a bounty page.</small>
 
