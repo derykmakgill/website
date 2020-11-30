@@ -60,7 +60,7 @@ Please understand that interest in a document does not mean endorsement of that 
   - ~~*The Girl in the Flat.* London, Collins, 1934. (n)~~
   - *At Second Sight.* London, Collins, 1935. (n)
   - *Enemy's Kiss.* London, Collins, 1935. (n)
-  - ~~*The Luck Shop.* London, Collins, 1935. (n)
+  - ~~*The Luck Shop.* London, Collins, 1935. (n)~~
   - *The Dark Path.* London, Collins, 1936. (n)
   - *Love Cannot Lie.* London, Collins, 1936. (n)
   - Two Meet. London, Collins, 1936. (n)
