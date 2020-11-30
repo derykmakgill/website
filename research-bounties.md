@@ -24,7 +24,9 @@ Please understand that interest in a document does not mean endorsement of that 
 
 ## George Makgill, bt et al.
 
-- ~~Makgill, Sir George. *Blacklaw.* London : Methuen and Co, 1914. (n)~~ 
+- Makgill, Sir George. 
+  - ~~*Blacklaw.* London : Methuen and Co, 1914. (n)~~ 
+  - ~~*Felons.* London : Hodder and Stoughton, 1915. (n)~~ 
 - Makgill, Sir George. *Various Letters.* 1868-1926. <span class="footnote"><span class="fnHide"> (Footnote: </span>If it is any help, I have read rumors that many of his papers were given to the Vatican...though one <a href="http://answers.google.com/answers/threadview/id/771994.html">researcher</a> reports finding a letter in an old M15 file in the London Metropolitan Archives, and the National Archives of Scotland are probably a place to start as well.<span class="fnHide">)</span></span>
 - Ballas, Mungo [George Makgill]. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. (n)
 - ~~Hambrook, Emerson C [George Makgill]. *The Red To-Morrow.* London: The Proletarian Press, 1920. (n)~~
