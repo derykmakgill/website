@@ -68,7 +68,7 @@ Please understand that interest in a document does not mean endorsement of that 
   - *Passport to Happiness.* London, Collins, 1937. (n)
   - *Rule of Three. London.* Collins, 1937. (n)
   - *Happily Ever After.* London, Collins, 1938. (n)
-  - ~~*Mankiller.* London, Collins, 1939. (n)~`
+  - ~~*Mankiller.* London, Collins, 1939. (n)~~
   - *A Star to Steer By.* London, Collins, 1939. (n)
 
 ## Operation Atlantis
