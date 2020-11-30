@@ -12,7 +12,7 @@ Please understand that interest in a document does not mean endorsement of that 
 
 ## Item Types & Other Abbreviations
 
-| ar = article |  na = novella/short novel | es = essay |
+| ar = article |  em = email | es = essay |
 | iv = interview |   lt = letter(s)  |   nb = non-fiction book |
 | n = novel | ss = short story | nw = newspaper |
 
