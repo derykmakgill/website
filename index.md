@@ -10,10 +10,8 @@ layout: default
    <div><div class="pd"><a href="/about">About</a></div> </div>
 </div>
 
+**ET interviews, news reports**
+: Rick Harrison "Down on the Art Farm" The Sunday Republican, January 15, 2015
+: Aaron Souppouris "Master statistician weaves Google images into visual quilts" The Verge, November 2013
+: Clive Cookson "Edward Tufte" Financial Times July 2013
 
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
