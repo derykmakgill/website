@@ -31,6 +31,10 @@ Please understand that interest in a document does not mean endorsement of that 
 - Ballas, Mungo [George Makgill]. *Outside and Overseas: Being the History of Captain Mungo Ballas, Styled of Ballasburn, in the Shire of Fife; with some Account of his Voyages, Adventures, and Attempts to Found a Kingdom in the South Seas as Told by his Nephew and Namesake, Mungo Ballas, Last of the Race and House of the Name.* 1903. (n)
 - ~~Hambrook, Emerson C [George Makgill]. *The Red To-Morrow.* London: The Proletarian Press, 1920. (n)~~
 - **J. D. Makgill, Evelyn M. Winch [Winch, Marie Elspeth Agnes (née Makgill)].**<span class="footnote"><span class="fnHide"> (Footnote: </span>Sir John Donald Alexander Arthur Makgill and Marie Elspeth Agnes Makgill were the son and daughter, respectively, of Sir. George Makgill, hence their inclusion in the George Makgill label. My initial interest in them was to learn more about George Makgill himself, but I've found they stand well on their own, especially Marie who, under Evelyn Winch, was apparently quite popular in her day.<span class="fnHide">)</span></span>
+
+<div id = "Footnotes"><p class="invis">Footnotes:</p></div>
+
+
   - *Captain Joan.* Hodder and Stoughton, 1923. (n)
   - "A Question of Credit." *The Detective Magazine,* late ed., 06 June 1924. (ss)
 - **Winch, Evelyn M. [Winch, Marie Elspeth Agnes (née Makgill)].** 
